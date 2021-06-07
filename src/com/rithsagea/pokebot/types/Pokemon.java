@@ -26,4 +26,46 @@ public class Pokemon {
 	
 	@RegistryField
 	public boolean is_default;
+	
+	@RegistryField
+	public int base_hp;
+	
+	@RegistryField
+	public int base_atk;
+	
+	@RegistryField
+	public int base_def;
+	
+	@RegistryField
+	public int base_spa;
+	
+	@RegistryField
+	public int base_spd;
+	
+	@RegistryField
+	public int base_spe;
+	
+	@RegistryField
+	public int effort_hp;
+	
+	@RegistryField
+	public int effort_atk;
+	
+	@RegistryField
+	public int effort_def;
+	
+	@RegistryField
+	public int effort_spa;
+	
+	@RegistryField
+	public int effort_spd;
+	
+	@RegistryField
+	public int effort_spe;
+	
+	@RegistryField
+	public int type1;
+	
+	@RegistryField
+	public int type2;
 }

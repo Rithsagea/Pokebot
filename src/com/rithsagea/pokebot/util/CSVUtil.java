@@ -6,6 +6,7 @@ import java.nio.file.Files;
 import java.util.List;
 
 import com.opencsv.CSVReader;
+import com.opencsv.CSVWriter;
 
 public class CSVUtil {
 	public static List<String[]> readFile(String path) {
@@ -21,5 +22,16 @@ public class CSVUtil {
 		}
 		
 		return res;
+	}
+	
+	public static void writeFile(String path, List<String[]> lines) {
+		try {
+			CSVWriter writer = new CSVWriter(Files.newBufferedWriter(new File(path).toPath()));
+			writer.writeAll(lines);
+			writer.close();
+		} catch (IOException e) {
+			// TODO Auto-generated catch block
+			e.printStackTrace();
+		}
 	}
 }
