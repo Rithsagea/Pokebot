@@ -14,5 +14,7 @@ public class RegistryManager {
 	public RegistryManager() {
 		SPECIES_REGISTRY = new Registry<>(RegistrySpecies.class, SPECIES_CSV);
 		POKEMON_REGISTRY = new Registry<>(RegistryPokemon.class, POKEMON_CSV);
+		
+		System.out.println(SPECIES_REGISTRY.getMember(1).identifier);
 	}
 }
