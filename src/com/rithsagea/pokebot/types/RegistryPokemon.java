@@ -2,7 +2,7 @@ package com.rithsagea.pokebot.types;
 
 import com.rithsagea.pokebot.types.registry.RegistryField;
 
-public class Pokemon {
+public class RegistryPokemon {
 	@RegistryField
 	public int id;
 	

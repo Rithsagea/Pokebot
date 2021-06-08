@@ -2,7 +2,7 @@ package com.rithsagea.pokebot.types;
 
 import com.rithsagea.pokebot.types.registry.RegistryField;
 
-public class Species {
+public class RegistrySpecies {
 	@RegistryField
 	public int id;
 	
@@ -27,6 +27,9 @@ public class Species {
 	@RegistryField
 	public int habitat_id;
 	
+	/**
+	 * The chance of this Pokémon being female, in eighths; or -1 for genderless
+	 */
 	@RegistryField
 	public int gender_rate;
 	
