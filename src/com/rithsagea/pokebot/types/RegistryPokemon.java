@@ -1,11 +1,16 @@
 package com.rithsagea.pokebot.types;
 
+import java.util.HashMap;
+import java.util.Set;
+
+import com.rithsagea.pokebot.Registry;
 import com.rithsagea.pokebot.Util;
 
 public class RegistryPokemon {
 	
 	public final int id;
 	public final String identifier;
+	public final RegistrySpecies species;
 	
 	public final int height;
 	public final int weight;
@@ -19,9 +24,12 @@ public class RegistryPokemon {
 	public final int type1;
 	public final int type2;
 	
+	public final HashMap<Integer, Set<LearnedMove>> moveset;
+	
 	public RegistryPokemon(String[] s) {
 		id = Util.parseInt(s[0]);
 		identifier = s[1];
+		species = Registry.getSpecies(Util.parseInt(s[2]));
 		height = Util.parseInt(s[3]);
 		weight = Util.parseInt(s[4]);
 		base_experience = Util.parseInt(s[5]);
@@ -39,5 +47,7 @@ public class RegistryPokemon {
 		
 		type1 = Util.parseInt(s[20]);
 		type2 = Util.parseInt(s[21]);
+		
+		moveset = new HashMap<>();
 	}
 }
