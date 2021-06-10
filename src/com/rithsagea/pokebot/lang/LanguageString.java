@@ -2,7 +2,7 @@ package com.rithsagea.pokebot.lang;
 
 public class LanguageString {
 	
-	private final String data[] = new String[13];
+	private final String data[] = new String[12];
 	
 	public LanguageString() {
 		//literally nothing

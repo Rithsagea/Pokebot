@@ -60,9 +60,4 @@ public class Language {
 	 * Simplified Chinese
 	 */
 	public static final int zh_CN_s = 12;
-	
-	/**
-	 * Brazilian Portuguese
-	 */
-	public static final int pt_BR = 13;
 }
