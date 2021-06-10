@@ -1,8 +1,9 @@
 package com.rithsagea.pokebot.types;
 
+import java.io.File;
 import java.util.List;
 
-import com.rithsagea.pokebot.util.CSVUtil;
+import com.rithsagea.pokebot.Util;
 
 public class GrowthRate {
 	
@@ -22,7 +23,7 @@ public class GrowthRate {
 	
 	private static final int EXPERIENCE_TABLE[][] = new int[6][100];
 	static {
-		List<String[]> data = CSVUtil.readFile(EXPERIENCE_CSV);
+		List<String[]> data = Util.readCsv(new File(EXPERIENCE_CSV));
 		data.remove(0);
 		for(int x = 0; x < 100; x++) {
 			for(int y = 0; y < 6; y++) {

@@ -1,62 +1,55 @@
 package com.rithsagea.pokebot.types;
 
-import com.rithsagea.pokebot.types.registry.RegistryField;
+import com.rithsagea.pokebot.Util;
 
 public class RegistrySpecies {
-	@RegistryField
-	public int id;
 	
-	@RegistryField
-	public String identifier;
+	public final int id;
+	public final String identifier;
+	public final int generation_id;
 	
-	@RegistryField
-	public int generation_id;
+	public final int evolves_from_species_id;
+	public final int evolution_chain_id;
 	
-	@RegistryField
-	public int evolves_from_species_id;
-	
-	@RegistryField
-	public int evolution_chain_id;
-	
-	@RegistryField
-	public int color_id;
-	
-	@RegistryField
-	public int shape_id;
-	
-	@RegistryField
-	public int habitat_id;
+	public final int color_id;
+	public final int shape_id;
+	public final int habitat_id;
 	
 	/**
 	 * The chance of this Pokémon being female, in eighths; or -1 for genderless
 	 */
-	@RegistryField
-	public int gender_rate;
+	public final int gender_rate;
+	public final int capture_rate;
+	public final int base_happiness;
 	
-	@RegistryField
-	public int capture_rate;
+	public final boolean has_gender_differences;
+	public final boolean is_baby;
+	public final int hatch_counter;
 	
-	@RegistryField
-	public int base_happiness;
+	public final int growth_rate_id;
 	
-	@RegistryField
-	public boolean is_baby;
+	public final boolean forms_switchable;
+	public final boolean is_legendary;
+	public final boolean is_mythical;
 	
-	@RegistryField
-	public int hatch_counter;
-	
-	@RegistryField
-	public boolean has_gender_differences;
-	
-	@RegistryField
-	public int growth_rate_id;
-	
-	@RegistryField
-	public boolean forms_switchable;
-	
-	@RegistryField
-	public boolean is_legendary;
-	
-	@RegistryField
-	public boolean is_mythical;
+	public RegistrySpecies(String[] s) {
+		id = Util.parseInt(s[0]);
+		identifier = s[1];
+		generation_id = Util.parseInt(s[2]);
+		evolves_from_species_id = Util.parseInt(s[3]);
+		evolution_chain_id = Util.parseInt(s[4]);
+		color_id = Util.parseInt(s[5]);
+		shape_id = Util.parseInt(s[6]);
+		habitat_id = Util.parseInt(s[7]);
+		gender_rate = Util.parseInt(s[8]);
+		capture_rate = Util.parseInt(s[9]);
+		base_happiness = Util.parseInt(s[10]);
+		is_baby = Util.parseInt(s[11]) == 1;
+		hatch_counter = Util.parseInt(s[12]);
+		has_gender_differences = Util.parseInt(s[13]) == 1;
+		growth_rate_id = Util.parseInt(s[14]);
+		forms_switchable = Util.parseInt(s[15]) == 1;
+		is_legendary = Util.parseInt(s[16]) == 1;
+		is_mythical = Util.parseInt(s[17]) == 1;
+	}
 }

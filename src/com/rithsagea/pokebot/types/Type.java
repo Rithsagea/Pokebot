@@ -1,8 +1,9 @@
 package com.rithsagea.pokebot.types;
 
+import java.io.File;
 import java.util.List;
 
-import com.rithsagea.pokebot.util.CSVUtil;
+import com.rithsagea.pokebot.Util;
 
 public class Type {
 	
@@ -29,8 +30,7 @@ public class Type {
 	
 	private static final double MATCHUP_TABLE[][] = new double[18][18];
 	static {
-		List<String[]> data = CSVUtil.readFile(EFFECTIVENESS_CSV);
-		data.remove(0);
+		List<String[]> data = Util.readCsv(new File(EFFECTIVENESS_CSV)); data.remove(0);
 		for(String[] matchup : data) {
 			MATCHUP_TABLE[Integer.parseInt(matchup[0]) - 1][Integer.parseInt(matchup[1]) - 1]
 					= Integer.parseInt(matchup[2]) / 100d;

@@ -1,71 +1,43 @@
 package com.rithsagea.pokebot.types;
 
-import com.rithsagea.pokebot.types.registry.RegistryField;
+import com.rithsagea.pokebot.Util;
 
 public class RegistryPokemon {
-	@RegistryField
-	public int id;
 	
-	@RegistryField
-	public String identifier;
+	public final int id;
+	public final String identifier;
 	
-	@RegistryField
-	public int species_id;
+	public final int height;
+	public final int weight;
 	
-	@RegistryField
-	public int height;
+	public final boolean is_default;
 	
-	@RegistryField
-	public int weight;
+	public final int base_experience;
+	public final int base[];
+	public final int effort[];
 	
-	@RegistryField
-	public int base_experience;
+	public final int type1;
+	public final int type2;
 	
-	@RegistryField
-	public int order;
-	
-	@RegistryField
-	public boolean is_default;
-	
-	@RegistryField
-	public int base_hp;
-	
-	@RegistryField
-	public int base_atk;
-	
-	@RegistryField
-	public int base_def;
-	
-	@RegistryField
-	public int base_spa;
-	
-	@RegistryField
-	public int base_spd;
-	
-	@RegistryField
-	public int base_spe;
-	
-	@RegistryField
-	public int effort_hp;
-	
-	@RegistryField
-	public int effort_atk;
-	
-	@RegistryField
-	public int effort_def;
-	
-	@RegistryField
-	public int effort_spa;
-	
-	@RegistryField
-	public int effort_spd;
-	
-	@RegistryField
-	public int effort_spe;
-	
-	@RegistryField
-	public int type1;
-	
-	@RegistryField
-	public int type2;
+	public RegistryPokemon(String[] s) {
+		id = Util.parseInt(s[0]);
+		identifier = s[1];
+		height = Util.parseInt(s[3]);
+		weight = Util.parseInt(s[4]);
+		base_experience = Util.parseInt(s[5]);
+		is_default = Util.parseInt(s[7]) == 1;
+		
+		base = new int[] {
+				Util.parseInt(s[8]), Util.parseInt(s[9]), Util.parseInt(s[10]),
+				Util.parseInt(s[11]), Util.parseInt(s[12]), Util.parseInt(s[13])
+		};
+		
+		effort = new int[] {
+				Util.parseInt(s[14]), Util.parseInt(s[15]), Util.parseInt(s[16]),
+				Util.parseInt(s[17]), Util.parseInt(s[18]), Util.parseInt(s[19])
+		};
+		
+		type1 = Util.parseInt(s[20]);
+		type2 = Util.parseInt(s[21]);
+	}
 }
