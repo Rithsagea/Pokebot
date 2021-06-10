@@ -1,6 +1,10 @@
 package com.rithsagea.pokebot.types;
 
+import java.util.HashMap;
+
 import com.rithsagea.pokebot.Util;
+import com.rithsagea.pokebot.lang.Language;
+import com.rithsagea.pokebot.lang.LanguageString;
 
 public class RegistrySpecies {
 	
@@ -32,6 +36,10 @@ public class RegistrySpecies {
 	public final boolean is_legendary;
 	public final boolean is_mythical;
 	
+	public final LanguageString name;
+	public final LanguageString genus;
+	public final HashMap<Integer, LanguageString> flavor;
+	
 	public RegistrySpecies(String[] s) {
 		id = Util.parseInt(s[0]);
 		identifier = s[1];
@@ -51,5 +59,13 @@ public class RegistrySpecies {
 		forms_switchable = Util.parseInt(s[15]) == 1;
 		is_legendary = Util.parseInt(s[16]) == 1;
 		is_mythical = Util.parseInt(s[17]) == 1;
+		
+		name = new LanguageString();
+		genus = new LanguageString();
+		flavor = new HashMap<>();
+	}
+	
+	public String toString() {
+		return String.format("#%d %s - %s", id, name.get(Language.en_US), genus.get(Language.en_US));
 	}
 }
