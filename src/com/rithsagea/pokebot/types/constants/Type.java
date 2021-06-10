@@ -3,11 +3,10 @@ package com.rithsagea.pokebot.types.constants;
 import java.io.File;
 import java.util.List;
 
+import com.rithsagea.pokebot.Resources;
 import com.rithsagea.pokebot.Util;
 
 public class Type {
-	
-	private static final String EFFECTIVENESS_CSV = "resources/csv/table/type_efficacy.csv";
 	
 	public static final int NORMAL = 1;
 	public static final int FIGHTING = 2;
@@ -30,7 +29,7 @@ public class Type {
 	
 	private static final double MATCHUP_TABLE[][] = new double[18][18];
 	static {
-		List<String[]> data = Util.readCsv(new File(EFFECTIVENESS_CSV)); data.remove(0);
+		List<String[]> data = Util.readCsv(new File(Resources.EFFECTIVENESS_CSV)); data.remove(0);
 		for(String[] matchup : data) {
 			MATCHUP_TABLE[Integer.parseInt(matchup[0]) - 1][Integer.parseInt(matchup[1]) - 1]
 					= Integer.parseInt(matchup[2]) / 100d;

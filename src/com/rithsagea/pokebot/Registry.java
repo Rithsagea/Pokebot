@@ -13,14 +13,6 @@ import com.rithsagea.pokebot.types.RegistrySpecies;
 
 public class Registry {
 	
-	private static final String POKEMON_CSV = "resources/csv/table/pokemon.csv";
-	private static final String SPECIES_CSV = "resources/csv/table/pokemon_species.csv";
-	private static final String MOVES_CSV = "resources/csv/table/moves.csv";
-	private static final String POKE_MOVES_CSV = "resources/csv/table/pokemon_moves.csv";
-	
-	private static final String SPECIES_LANG = "resources/csv/lang/pokemon_species_names.csv";
-	private static final String SPECIES_FLAVOR_LANG = "resources/csv/lang/pokemon_species_flavor_text.csv";
-	
 	private static HashMap<Integer, RegistryPokemon> pokeReg;
 	private static HashMap<Integer, RegistrySpecies> specReg;
 	private static HashMap<Integer, RegistryMove> moveReg;
@@ -33,18 +25,18 @@ public class Registry {
 		
 		//	-=-=- Data -=-=-
 		specReg = new HashMap<>();
-		data = Util.readCsv(new File(SPECIES_CSV)); data.remove(0);
+		data = Util.readCsv(new File(Resources.SPECIES_CSV)); data.remove(0);
 		for(String[] line : data) specReg.put(Util.parseInt(line[0]), new RegistrySpecies(line));
 		
 		pokeReg = new HashMap<>();
-		data = Util.readCsv(new File(POKEMON_CSV)); data.remove(0);
+		data = Util.readCsv(new File(Resources.POKEMON_CSV)); data.remove(0);
 		for(String[] line : data) pokeReg.put(Util.parseInt(line[0]), new RegistryPokemon(line));
 		
 		moveReg = new HashMap<>();
-		data = Util.readCsv(new File(MOVES_CSV)); data.remove(0);
+		data = Util.readCsv(new File(Resources.MOVES_CSV)); data.remove(0);
 		for(String[] line : data) moveReg.put(Util.parseInt(line[0]), new RegistryMove(line));
 	
-		data = Util.readCsv(new File(POKE_MOVES_CSV)); data.remove(0);
+		data = Util.readCsv(new File(Resources.POKE_MOVES_CSV)); data.remove(0);
 		for(String[] line: data) {
 			p = pokeReg.get(Util.parseInt(line[0]));
 			i = Util.parseInt(line[1]); // version_id
@@ -53,7 +45,7 @@ public class Registry {
 		}
 		
 		//	-=-=- Lang -=-=-
-		data = Util.readCsv(new File(SPECIES_LANG)); data.remove(0);
+		data = Util.readCsv(new File(Resources.SPECIES_LANG)); data.remove(0);
 		for(String[] line : data) {
 			s = specReg.get(Util.parseInt(line[0]));
 			i = Util.parseInt(line[1]); // lang
@@ -61,7 +53,7 @@ public class Registry {
 			s.genus.set(i, line[3]);
 		}
 		
-		data = Util.readCsv(new File(SPECIES_FLAVOR_LANG)); data.remove(0);
+		data = Util.readCsv(new File(Resources.SPECIES_FLAVOR_LANG)); data.remove(0);
 		for(String[] line : data) {
 			s = specReg.get(Util.parseInt(line[0]));
 			i = Util.parseInt(line[1]); // version_id

@@ -3,11 +3,10 @@ package com.rithsagea.pokebot.types.constants;
 import java.io.File;
 import java.util.List;
 
+import com.rithsagea.pokebot.Resources;
 import com.rithsagea.pokebot.Util;
 
 public class Nature {
-	
-	private static final String NATURE_CSV = "resources/csv/table/natures.csv";
 	
 	public static final int HARDY = 1;
 	public static final int BOLD = 2;
@@ -37,7 +36,7 @@ public class Nature {
 	
 	private static final int NATURE_TABLE[][] = new int[25][4];
 	static {
-		List<String[]> data = Util.readCsv(new File(NATURE_CSV)); data.remove(0);
+		List<String[]> data = Util.readCsv(new File(Resources.NATURE_CSV)); data.remove(0);
 		int i;
 		for(String[] line : data) {
 			i = Util.parseInt(line[0]);
