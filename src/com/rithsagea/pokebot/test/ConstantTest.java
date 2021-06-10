@@ -1,6 +1,6 @@
 package com.rithsagea.pokebot.test;
 
-import com.rithsagea.pokebot.types.GrowthRate;
+import com.rithsagea.pokebot.types.constants.GrowthRate;
 
 public class ConstantTest {
 	public static void main(String[] args) {

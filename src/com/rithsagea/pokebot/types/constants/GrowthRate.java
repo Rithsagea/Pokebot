@@ -1,4 +1,4 @@
-package com.rithsagea.pokebot.types;
+package com.rithsagea.pokebot.types.constants;
 
 import java.io.File;
 import java.util.List;
