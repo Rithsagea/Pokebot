@@ -5,6 +5,7 @@ import java.util.List;
 
 import com.rithsagea.pokebot.Resources;
 import com.rithsagea.pokebot.Util;
+import com.rithsagea.pokebot.lang.LanguageString;
 
 public class Type {
 	
@@ -28,15 +29,23 @@ public class Type {
 	public static final int FAIRY = 18;
 	
 	private static final double MATCHUP_TABLE[][] = new double[18][18];
+	private static final LanguageString[] TYPE_NAMES = new LanguageString[18];
 	static {
 		List<String[]> data = Util.readCsv(new File(Resources.EFFECTIVENESS_CSV)); data.remove(0);
-		for(String[] matchup : data) {
+		for(String[] matchup : data)
 			MATCHUP_TABLE[Integer.parseInt(matchup[0]) - 1][Integer.parseInt(matchup[1]) - 1]
 					= Integer.parseInt(matchup[2]) / 100d;
-		}
+		
+		data = Util.readCsv(new File(Resources.TYPE_LANG)); data.remove(0);
+		for(int i = 0; i < TYPE_NAMES.length; i++) TYPE_NAMES[i] = new LanguageString();
+		for(String[] line : data) TYPE_NAMES[Util.parseInt(line[0]) - 1].set(Util.parseInt(line[1]), line[2]);
 	}
 	
 	public static double getMatchup(int attacker, int defender) {
 		return MATCHUP_TABLE[attacker - 1][defender - 1];
+	}
+	
+	public static String getName(int type, int lang) {
+		return TYPE_NAMES[type - 1].get(lang);
 	}
 }
