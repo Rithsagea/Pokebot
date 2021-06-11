@@ -47,7 +47,7 @@ public class Pokemon {
 	
 	public void calculateStats() {
 		//TODO: Shedinja HP is always 1
-		stats[Stat.HP] = (int) (Math.floor((2 * pokemonType.base[Stat.HP] + ivs[Stat.HP] + Math.floor(evs[Stat.HP] / 4)) * (level / 100)) + level + 10);
+		stats[Stat.HP - 1] = (int) (Math.floor((2 * pokemonType.base[Stat.HP - 1] + ivs[Stat.HP - 1] + Math.floor(evs[Stat.HP - 1] / 4)) * (level / 100)) + level + 10);
 		for(int x = 1; x < 6; x++) {
 			stats[x] = (int) (Math.floor((
 						(Math.floor((2 * pokemonType.base[x] + ivs[x] + Math.floor(evs[x] / 4)) * level / 100) + 5))

@@ -93,7 +93,7 @@ public class Util {
 		
 		p.nature = (int)(25 * Math.random()) + 1;
 		p.calculateStats();
-		p.currHp = p.stats[Stat.HP];
+		p.currHp = p.stats[Stat.HP - 1];
 		
 		return p;
 	}
