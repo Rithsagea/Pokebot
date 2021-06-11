@@ -18,6 +18,7 @@ public class Resources {
 	public static final String ABILITY_LANG = "resources/csv/lang/ability_names.csv";
 	public static final String STAT_LANG = "resources/csv/lang/stat_names.csv";
 	public static final String TYPE_LANG = "resources/csv/lang/type_names.csv";
+	public static final String NATURE_LANG = "resources/csv/lang/nature_names.csv";
 	
 	//	-=-=- Constants -=-=-
 	public static final String EXPERIENCE_CSV = "resources/csv/table/experience.csv";

@@ -26,7 +26,7 @@ public class Stat {
 	
 	private static final LanguageString[] STAT_NAMES = new LanguageString[8];
 	static {
-		List<String[]> data = Util.readCsv(new File(Resources.STAT_LANG));
+		List<String[]> data = Util.readCsv(new File(Resources.STAT_LANG)); data.remove(0);
 		for(int i = 0; i < STAT_NAMES.length; i++) STAT_NAMES[i] = new LanguageString();
 		for(String[] line : data) STAT_NAMES[Util.parseInt(line[0]) - 1].set(Util.parseInt(line[1]), line[2]);
 	}

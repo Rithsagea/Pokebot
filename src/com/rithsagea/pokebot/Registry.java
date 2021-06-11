@@ -101,7 +101,7 @@ public class Registry {
 		
 		data = Util.readCsv(new File(Resources.POKE_ABILITY_CSV)); data.remove(0);
 		for(String[] line : data) {
-			pokeReg.get(Util.parseInt(line[0])).abilities[Util.parseInt(line[3])] =
+			pokeReg.get(Util.parseInt(line[0])).abilities[Util.parseInt(line[3]) - 1] =
 					abilityReg.get(Util.parseInt(line[1]));
 		}
 	}

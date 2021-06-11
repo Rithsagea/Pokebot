@@ -50,6 +50,7 @@ public class Util {
 	// Pokemon Generation Tools
 	public static Pokemon generatePokemon(RegistryPokemon species, int level) {
 		Pokemon p = new Pokemon();
+		p.pokemonType = species;
 		p.setLevel(level);
 		
 		// -=-=- Specifics -=-=-
