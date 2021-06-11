@@ -1,6 +1,7 @@
 package com.rithsagea.pokebot.types.registry;
 
 import com.rithsagea.pokebot.Util;
+import com.rithsagea.pokebot.lang.LanguageString;
 
 public class RegistryMove {
 	public final int id;
@@ -18,6 +19,8 @@ public class RegistryMove {
 	public final int effect_id;
 	public final int effect_chance;
 	
+	public final LanguageString name;
+	
 	public RegistryMove(String[] s) {
 		id = Util.parseInt(s[0]);
 		identifier = s[1];
@@ -31,5 +34,7 @@ public class RegistryMove {
 		damage_class_id = Util.parseInt(s[9]);
 		effect_id = Util.parseInt(s[10]);
 		effect_chance = Util.parseInt(s[11]);
+		
+		name = new LanguageString();
 	}
 }

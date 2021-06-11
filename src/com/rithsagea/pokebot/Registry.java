@@ -109,6 +109,8 @@ public class Registry {
 	private static void initLang() {
 		List<String[]> data;
 		RegistrySpecies s;
+		RegistryMove m;
+		RegistryAbility a;
 		int i, j;
 		
 		data = Util.readCsv(new File(Resources.SPECIES_LANG)); data.remove(0);
@@ -126,6 +128,20 @@ public class Registry {
 			j = Util.parseInt(line[2]); // language_id
 			if(!s.flavor.containsKey(i)) s.flavor.put(i, new LanguageString());
 			s.flavor.get(i).set(j, line[3]);
+		}
+		
+		data = Util.readCsv(new File(Resources.MOVE_LANG)); data.remove(0);
+		for(String[] line : data) {
+			m = moveReg.get(Util.parseInt(line[0]));
+			i = Util.parseInt(line[1]); //language_id
+			m.name.set(i, line[2]);
+		}
+		
+		data = Util.readCsv(new File(Resources.ABILITY_LANG)); data.remove(0);
+		for(String[] line : data) {
+			a = abilityReg.get(Util.parseInt(line[0]));
+			i = Util.parseInt(line[1]); //language_id
+			a.name.set(i, line[2]);
 		}
 	}
 	
