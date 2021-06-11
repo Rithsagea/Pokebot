@@ -10,7 +10,8 @@ import java.util.Properties;
 
 public class Config {
 	
-	private static final String DISCORD_SECRET = "discordSecret";
+	private static final String DISCORD_TOKEN = "discordToken";
+	private static final String BOT_PREFIX = "botPrefix";
 	
 	private Properties prop;
 	private File file;
@@ -37,7 +38,8 @@ public class Config {
 			e.printStackTrace();
 		}
 		
-		checkProperty(DISCORD_SECRET, "");
+		checkProperty(DISCORD_TOKEN, "");
+		checkProperty(BOT_PREFIX, "p!");
 	}
 	
 	public void saveConfig() {
@@ -50,7 +52,11 @@ public class Config {
 		}
 	}
 	
-	public String getDiscordSecret() {
-		return prop.getProperty(DISCORD_SECRET);
+	public String getDiscordToken() {
+		return prop.getProperty(DISCORD_TOKEN);
+	}
+	
+	public String getBotPrefix() {
+		return prop.getProperty(BOT_PREFIX);
 	}
 }

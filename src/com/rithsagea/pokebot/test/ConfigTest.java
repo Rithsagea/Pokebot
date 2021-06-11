@@ -9,6 +9,6 @@ public class ConfigTest {
 		Config conf = new Config(new File("pokebot.config"));
 		conf.loadConfig();
 		conf.saveConfig();
-		System.out.println(conf.getDiscordSecret());
+		System.out.println(conf.getDiscordToken());
 	}
 }

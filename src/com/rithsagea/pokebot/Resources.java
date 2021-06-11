@@ -1,6 +1,9 @@
 package com.rithsagea.pokebot;
 
 public class Resources {
+	//	-=-=- Bot -=-=-
+	public static final String CONFIG_FILE = "pokebot.config";
+	
 	//	-=-=- Registry -=-=-
 	public static final String POKEMON_CSV = "resources/csv/table/pokemon.csv";
 	public static final String SPECIES_CSV = "resources/csv/table/pokemon_species.csv";

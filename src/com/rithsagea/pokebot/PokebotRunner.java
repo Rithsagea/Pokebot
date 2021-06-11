@@ -2,6 +2,8 @@ package com.rithsagea.pokebot;
 
 public class PokebotRunner {
 	public static void main(String[] args) {
-		Registry.init();
+		Pokebot bot = new Pokebot();
+		
+		bot.init();
 	}
 }
