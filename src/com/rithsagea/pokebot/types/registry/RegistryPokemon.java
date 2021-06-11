@@ -1,4 +1,4 @@
-package com.rithsagea.pokebot.types;
+package com.rithsagea.pokebot.types.registry;
 
 import java.util.HashMap;
 import java.util.Set;

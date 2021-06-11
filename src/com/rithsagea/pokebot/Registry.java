@@ -6,10 +6,10 @@ import java.util.HashSet;
 import java.util.List;
 
 import com.rithsagea.pokebot.lang.LanguageString;
-import com.rithsagea.pokebot.types.LearnedMove;
-import com.rithsagea.pokebot.types.RegistryMove;
-import com.rithsagea.pokebot.types.RegistryPokemon;
-import com.rithsagea.pokebot.types.RegistrySpecies;
+import com.rithsagea.pokebot.types.registry.LearnedMove;
+import com.rithsagea.pokebot.types.registry.RegistryMove;
+import com.rithsagea.pokebot.types.registry.RegistryPokemon;
+import com.rithsagea.pokebot.types.registry.RegistrySpecies;
 
 public class Registry {
 	

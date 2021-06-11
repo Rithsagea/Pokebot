@@ -2,7 +2,7 @@ package com.rithsagea.pokebot.test;
 
 import com.rithsagea.pokebot.Registry;
 import com.rithsagea.pokebot.lang.Language;
-import com.rithsagea.pokebot.types.RegistryPokemon;
+import com.rithsagea.pokebot.types.registry.RegistryPokemon;
 
 public class RegistryTest {
 	public static void main(String[] args) {
