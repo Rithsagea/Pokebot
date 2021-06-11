@@ -59,8 +59,13 @@ public class Util {
 			if(movePos >= 4) break;
 		}
 		
+		//1% for hidden; 50/50 for first and second
 		if(p.pokemonType.abilities[2] != null && Math.random() < 0.01) {
 			p.ability = p.pokemonType.abilities[2];
+		} else if(p.pokemonType.abilities[1] != null && Math.random() < 0.5) {
+			p.ability = p.pokemonType.abilities[1];
+		} else {
+			p.ability = p.pokemonType.abilities[0];
 		}
 		
 		// -=-=- Misc -=-=-
