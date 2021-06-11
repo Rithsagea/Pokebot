@@ -1,6 +1,7 @@
 package com.rithsagea.pokebot.types.registry;
 
-import java.util.HashMap;
+import java.util.ArrayList;
+import java.util.HashSet;
 import java.util.Set;
 
 import com.rithsagea.pokebot.Registry;
@@ -24,7 +25,11 @@ public class RegistryPokemon {
 	public final int type1;
 	public final int type2;
 	
-	public final HashMap<Integer, Set<LearnedMove>> moveset;
+	public final RegistryAbility[] abilities;
+	
+	public final ArrayList<LearnedMove> levelUpMoves;
+	public final Set<RegistryMove> learnableMoves;
+	public final Set<RegistryMove> eggMoves;
 	
 	public RegistryPokemon(String[] s) {
 		id = Util.parseInt(s[0]);
@@ -48,6 +53,10 @@ public class RegistryPokemon {
 		type1 = Util.parseInt(s[20]);
 		type2 = Util.parseInt(s[21]);
 		
-		moveset = new HashMap<>();
+		abilities = new RegistryAbility[3];
+		
+		levelUpMoves = new ArrayList<>();
+		learnableMoves = new HashSet<>();
+		eggMoves = new HashSet<>();
 	}
 }

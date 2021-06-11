@@ -1,6 +1,8 @@
 package com.rithsagea.pokebot.types.registry;
 
 import java.util.HashMap;
+import java.util.HashSet;
+import java.util.Set;
 
 import com.rithsagea.pokebot.Util;
 import com.rithsagea.pokebot.lang.Language;
@@ -26,6 +28,7 @@ public class RegistrySpecies {
 	public final int capture_rate;
 	public final int base_happiness;
 	
+	public final Set<Integer> egg_groups;
 	public final boolean has_gender_differences;
 	public final boolean is_baby;
 	public final int hatch_counter;
@@ -63,6 +66,7 @@ public class RegistrySpecies {
 		name = new LanguageString();
 		genus = new LanguageString();
 		flavor = new HashMap<>();
+		egg_groups = new HashSet<>();
 	}
 	
 	public String toString() {
