@@ -25,12 +25,6 @@
   </repositories>
   <dependencies>
   	<dependency>
-  		<groupId>com.opencsv</groupId>
-  		<artifactId>opencsv</artifactId>
-  		<version>4.5</version>
-  		<scope>provided</scope>
-  	</dependency>
-  	<dependency>
   		<groupId>net.dv8tion</groupId>
   		<artifactId>JDA</artifactId>
   		<version>4.3.0_277</version>
