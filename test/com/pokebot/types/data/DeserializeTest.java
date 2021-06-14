@@ -5,6 +5,8 @@ import java.io.InputStreamReader;
 import com.google.gson.Gson;
 import com.google.gson.GsonBuilder;
 import com.google.gson.reflect.TypeToken;
+import com.pokebot.json.LanguageStringAdapter;
+import com.pokebot.types.LanguageString;
 
 public class DeserializeTest {
 	public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package com.pokebot.types.data;
+package com.pokebot.json;
 
 import java.lang.reflect.Type;
 
@@ -10,6 +10,7 @@ import com.google.gson.JsonParseException;
 import com.google.gson.JsonSerializationContext;
 import com.google.gson.JsonSerializer;
 import com.pokebot.types.Language;
+import com.pokebot.types.LanguageString;
 
 public class LanguageStringAdapter implements JsonSerializer<LanguageString>, JsonDeserializer<LanguageString> {
 

@@ -5,6 +5,7 @@ import java.util.List;
 import com.pokebot.types.EggGroup;
 import com.pokebot.types.GrowthRate;
 import com.pokebot.types.Habitat;
+import com.pokebot.types.LanguageString;
 import com.pokebot.types.PokemonColor;
 import com.pokebot.types.PokemonShape;
 

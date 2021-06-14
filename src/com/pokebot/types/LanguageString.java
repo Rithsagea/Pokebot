@@ -1,8 +1,6 @@
-package com.pokebot.types.data;
+package com.pokebot.types;
 
 import java.util.HashMap;
-
-import com.pokebot.types.Language;
 
 public class LanguageString {
 	private transient HashMap<Language, String> text;

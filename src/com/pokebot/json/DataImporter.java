@@ -16,8 +16,7 @@ import com.google.gson.JsonObject;
 import com.google.gson.JsonParser;
 import com.google.gson.JsonSyntaxException;
 import com.google.gson.reflect.TypeToken;
-import com.pokebot.types.data.LanguageString;
-import com.pokebot.types.data.LanguageStringAdapter;
+import com.pokebot.types.LanguageString;
 
 public abstract class DataImporter<T extends Comparable<T>> {
 	

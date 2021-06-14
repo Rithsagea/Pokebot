@@ -1,4 +1,4 @@
-package com.pokebot.types.data;
+package com.pokebot.json;
 
 import java.io.File;
 import java.util.ArrayList;
@@ -8,15 +8,14 @@ import com.google.gson.Gson;
 import com.google.gson.GsonBuilder;
 import com.google.gson.JsonElement;
 import com.google.gson.JsonObject;
-import com.pokebot.json.ClassExclusionStrategy;
-import com.pokebot.json.DataImporter;
-import com.pokebot.json.FieldExclusionStrategy;
 import com.pokebot.types.EggGroup;
 import com.pokebot.types.GrowthRate;
 import com.pokebot.types.Habitat;
 import com.pokebot.types.Language;
+import com.pokebot.types.LanguageString;
 import com.pokebot.types.PokemonColor;
 import com.pokebot.types.PokemonShape;
+import com.pokebot.types.data.SpeciesData;
 
 public class SpeciesImporter extends DataImporter<SpeciesData> {
 	
