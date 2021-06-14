@@ -1,4 +1,4 @@
-package com.pokebot.types.data;
+package com.pokebot.json;
 
 import java.io.File;
 import java.io.FileNotFoundException;

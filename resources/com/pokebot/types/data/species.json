@@ -1,3594 +1,9005 @@
 [
   {
     "id": 1,
-    "identifier": "bulbasaur"
+    "identifier": "bulbasaur",
+    "base_happiness": 70,
+    "capture_rate": 45,
+    "color": "GREEN",
+    "egg_groups": [
+      "MONSTER",
+      "PLANT"
+    ]
   },
   {
     "id": 2,
-    "identifier": "ivysaur"
+    "identifier": "ivysaur",
+    "base_happiness": 70,
+    "capture_rate": 45,
+    "color": "GREEN",
+    "egg_groups": [
+      "MONSTER",
+      "PLANT"
+    ]
   },
   {
     "id": 3,
-    "identifier": "venusaur"
+    "identifier": "venusaur",
+    "base_happiness": 70,
+    "capture_rate": 45,
+    "color": "GREEN",
+    "egg_groups": [
+      "MONSTER",
+      "PLANT"
+    ]
   },
   {
     "id": 4,
-    "identifier": "charmander"
+    "identifier": "charmander",
+    "base_happiness": 70,
+    "capture_rate": 45,
+    "color": "RED",
+    "egg_groups": [
+      "MONSTER",
+      "DRAGON"
+    ]
   },
   {
     "id": 5,
-    "identifier": "charmeleon"
+    "identifier": "charmeleon",
+    "base_happiness": 70,
+    "capture_rate": 45,
+    "color": "RED",
+    "egg_groups": [
+      "MONSTER",
+      "DRAGON"
+    ]
   },
   {
     "id": 6,
-    "identifier": "charizard"
+    "identifier": "charizard",
+    "base_happiness": 70,
+    "capture_rate": 45,
+    "color": "RED",
+    "egg_groups": [
+      "MONSTER",
+      "DRAGON"
+    ]
   },
   {
     "id": 7,
-    "identifier": "squirtle"
+    "identifier": "squirtle",
+    "base_happiness": 70,
+    "capture_rate": 45,
+    "color": "BLUE",
+    "egg_groups": [
+      "MONSTER",
+      "WATER1"
+    ]
   },
   {
     "id": 8,
-    "identifier": "wartortle"
+    "identifier": "wartortle",
+    "base_happiness": 70,
+    "capture_rate": 45,
+    "color": "BLUE",
+    "egg_groups": [
+      "MONSTER",
+      "WATER1"
+    ]
   },
   {
     "id": 9,
-    "identifier": "blastoise"
+    "identifier": "blastoise",
+    "base_happiness": 70,
+    "capture_rate": 45,
+    "color": "BLUE",
+    "egg_groups": [
+      "MONSTER",
+      "WATER1"
+    ]
   },
   {
     "id": 10,
-    "identifier": "caterpie"
+    "identifier": "caterpie",
+    "base_happiness": 70,
+    "capture_rate": 255,
+    "color": "GREEN",
+    "egg_groups": [
+      "BUG"
+    ]
   },
   {
     "id": 11,
-    "identifier": "metapod"
+    "identifier": "metapod",
+    "base_happiness": 70,
+    "capture_rate": 120,
+    "color": "GREEN",
+    "egg_groups": [
+      "BUG"
+    ]
   },
   {
     "id": 12,
-    "identifier": "butterfree"
+    "identifier": "butterfree",
+    "base_happiness": 70,
+    "capture_rate": 45,
+    "color": "WHITE",
+    "egg_groups": [
+      "BUG"
+    ]
   },
   {
     "id": 13,
-    "identifier": "weedle"
+    "identifier": "weedle",
+    "base_happiness": 70,
+    "capture_rate": 255,
+    "color": "BROWN",
+    "egg_groups": [
+      "BUG"
+    ]
   },
   {
     "id": 14,
-    "identifier": "kakuna"
+    "identifier": "kakuna",
+    "base_happiness": 70,
+    "capture_rate": 120,
+    "color": "YELLOW",
+    "egg_groups": [
+      "BUG"
+    ]
   },
   {
     "id": 15,
-    "identifier": "beedrill"
+    "identifier": "beedrill",
+    "base_happiness": 70,
+    "capture_rate": 45,
+    "color": "YELLOW",
+    "egg_groups": [
+      "BUG"
+    ]
   },
   {
     "id": 16,
-    "identifier": "pidgey"
+    "identifier": "pidgey",
+    "base_happiness": 70,
+    "capture_rate": 255,
+    "color": "BROWN",
+    "egg_groups": [
+      "FLYING"
+    ]
   },
   {
     "id": 17,
-    "identifier": "pidgeotto"
+    "identifier": "pidgeotto",
+    "base_happiness": 70,
+    "capture_rate": 120,
+    "color": "BROWN",
+    "egg_groups": [
+      "FLYING"
+    ]
   },
   {
     "id": 18,
-    "identifier": "pidgeot"
+    "identifier": "pidgeot",
+    "base_happiness": 70,
+    "capture_rate": 45,
+    "color": "BROWN",
+    "egg_groups": [
+      "FLYING"
+    ]
   },
   {
     "id": 19,
-    "identifier": "rattata"
+    "identifier": "rattata",
+    "base_happiness": 70,
+    "capture_rate": 255,
+    "color": "PURPLE",
+    "egg_groups": [
+      "GROUND"
+    ]
   },
   {
     "id": 20,
-    "identifier": "raticate"
+    "identifier": "raticate",
+    "base_happiness": 70,
+    "capture_rate": 127,
+    "color": "BROWN",
+    "egg_groups": [
+      "GROUND"
+    ]
   },
   {
     "id": 21,
-    "identifier": "spearow"
+    "identifier": "spearow",
+    "base_happiness": 70,
+    "capture_rate": 255,
+    "color": "BROWN",
+    "egg_groups": [
+      "FLYING"
+    ]
   },
   {
     "id": 22,
-    "identifier": "fearow"
+    "identifier": "fearow",
+    "base_happiness": 70,
+    "capture_rate": 90,
+    "color": "BROWN",
+    "egg_groups": [
+      "FLYING"
+    ]
   },
   {
     "id": 23,
-    "identifier": "ekans"
+    "identifier": "ekans",
+    "base_happiness": 70,
+    "capture_rate": 255,
+    "color": "PURPLE",
+    "egg_groups": [
+      "GROUND",
+      "DRAGON"
+    ]
   },
   {
     "id": 24,
-    "identifier": "arbok"
+    "identifier": "arbok",
+    "base_happiness": 70,
+    "capture_rate": 90,
+    "color": "PURPLE",
+    "egg_groups": [
+      "GROUND",
+      "DRAGON"
+    ]
   },
   {
     "id": 25,
-    "identifier": "pikachu"
+    "identifier": "pikachu",
+    "base_happiness": 70,
+    "capture_rate": 190,
+    "color": "YELLOW",
+    "egg_groups": [
+      "GROUND",
+      "FAIRY"
+    ]
   },
   {
     "id": 26,
-    "identifier": "raichu"
+    "identifier": "raichu",
+    "base_happiness": 70,
+    "capture_rate": 75,
+    "color": "YELLOW",
+    "egg_groups": [
+      "GROUND",
+      "FAIRY"
+    ]
   },
   {
     "id": 27,
-    "identifier": "sandshrew"
+    "identifier": "sandshrew",
+    "base_happiness": 70,
+    "capture_rate": 255,
+    "color": "YELLOW",
+    "egg_groups": [
+      "GROUND"
+    ]
   },
   {
     "id": 28,
-    "identifier": "sandslash"
+    "identifier": "sandslash",
+    "base_happiness": 70,
+    "capture_rate": 90,
+    "color": "YELLOW",
+    "egg_groups": [
+      "GROUND"
+    ]
   },
   {
     "id": 29,
-    "identifier": "nidoran-f"
+    "identifier": "nidoran-f",
+    "base_happiness": 70,
+    "capture_rate": 235,
+    "color": "BLUE",
+    "egg_groups": [
+      "MONSTER",
+      "GROUND"
+    ]
   },
   {
     "id": 30,
-    "identifier": "nidorina"
+    "identifier": "nidorina",
+    "base_happiness": 70,
+    "capture_rate": 120,
+    "color": "BLUE",
+    "egg_groups": [
+      "NO_EGGS"
+    ]
   },
   {
     "id": 31,
-    "identifier": "nidoqueen"
+    "identifier": "nidoqueen",
+    "base_happiness": 70,
+    "capture_rate": 45,
+    "color": "BLUE",
+    "egg_groups": [
+      "NO_EGGS"
+    ]
   },
   {
     "id": 32,
-    "identifier": "nidoran-m"
+    "identifier": "nidoran-m",
+    "base_happiness": 70,
+    "capture_rate": 235,
+    "color": "PURPLE",
+    "egg_groups": [
+      "MONSTER",
+      "GROUND"
+    ]
   },
   {
     "id": 33,
-    "identifier": "nidorino"
+    "identifier": "nidorino",
+    "base_happiness": 70,
+    "capture_rate": 120,
+    "color": "PURPLE",
+    "egg_groups": [
+      "MONSTER",
+      "GROUND"
+    ]
   },
   {
     "id": 34,
-    "identifier": "nidoking"
+    "identifier": "nidoking",
+    "base_happiness": 70,
+    "capture_rate": 45,
+    "color": "PURPLE",
+    "egg_groups": [
+      "MONSTER",
+      "GROUND"
+    ]
   },
   {
     "id": 35,
-    "identifier": "clefairy"
+    "identifier": "clefairy",
+    "base_happiness": 140,
+    "capture_rate": 150,
+    "color": "PINK",
+    "egg_groups": [
+      "FAIRY"
+    ]
   },
   {
     "id": 36,
-    "identifier": "clefable"
+    "identifier": "clefable",
+    "base_happiness": 140,
+    "capture_rate": 25,
+    "color": "PINK",
+    "egg_groups": [
+      "FAIRY"
+    ]
   },
   {
     "id": 37,
-    "identifier": "vulpix"
+    "identifier": "vulpix",
+    "base_happiness": 70,
+    "capture_rate": 190,
+    "color": "BROWN",
+    "egg_groups": [
+      "GROUND"
+    ]
   },
   {
     "id": 38,
-    "identifier": "ninetales"
+    "identifier": "ninetales",
+    "base_happiness": 70,
+    "capture_rate": 75,
+    "color": "YELLOW",
+    "egg_groups": [
+      "GROUND"
+    ]
   },
   {
     "id": 39,
-    "identifier": "jigglypuff"
+    "identifier": "jigglypuff",
+    "base_happiness": 70,
+    "capture_rate": 170,
+    "color": "PINK",
+    "egg_groups": [
+      "FAIRY"
+    ]
   },
   {
     "id": 40,
-    "identifier": "wigglytuff"
+    "identifier": "wigglytuff",
+    "base_happiness": 70,
+    "capture_rate": 50,
+    "color": "PINK",
+    "egg_groups": [
+      "FAIRY"
+    ]
   },
   {
     "id": 41,
-    "identifier": "zubat"
+    "identifier": "zubat",
+    "base_happiness": 70,
+    "capture_rate": 255,
+    "color": "PURPLE",
+    "egg_groups": [
+      "FLYING"
+    ]
   },
   {
     "id": 42,
-    "identifier": "golbat"
+    "identifier": "golbat",
+    "base_happiness": 70,
+    "capture_rate": 90,
+    "color": "PURPLE",
+    "egg_groups": [
+      "FLYING"
+    ]
   },
   {
     "id": 43,
-    "identifier": "oddish"
+    "identifier": "oddish",
+    "base_happiness": 70,
+    "capture_rate": 255,
+    "color": "BLUE",
+    "egg_groups": [
+      "PLANT"
+    ]
   },
   {
     "id": 44,
-    "identifier": "gloom"
+    "identifier": "gloom",
+    "base_happiness": 70,
+    "capture_rate": 120,
+    "color": "BLUE",
+    "egg_groups": [
+      "PLANT"
+    ]
   },
   {
     "id": 45,
-    "identifier": "vileplume"
+    "identifier": "vileplume",
+    "base_happiness": 70,
+    "capture_rate": 45,
+    "color": "RED",
+    "egg_groups": [
+      "PLANT"
+    ]
   },
   {
     "id": 46,
-    "identifier": "paras"
+    "identifier": "paras",
+    "base_happiness": 70,
+    "capture_rate": 190,
+    "color": "RED",
+    "egg_groups": [
+      "BUG",
+      "PLANT"
+    ]
   },
   {
     "id": 47,
-    "identifier": "parasect"
+    "identifier": "parasect",
+    "base_happiness": 70,
+    "capture_rate": 75,
+    "color": "RED",
+    "egg_groups": [
+      "BUG",
+      "PLANT"
+    ]
   },
   {
     "id": 48,
-    "identifier": "venonat"
+    "identifier": "venonat",
+    "base_happiness": 70,
+    "capture_rate": 190,
+    "color": "PURPLE",
+    "egg_groups": [
+      "BUG"
+    ]
   },
   {
     "id": 49,
-    "identifier": "venomoth"
+    "identifier": "venomoth",
+    "base_happiness": 70,
+    "capture_rate": 75,
+    "color": "PURPLE",
+    "egg_groups": [
+      "BUG"
+    ]
   },
   {
     "id": 50,
-    "identifier": "diglett"
+    "identifier": "diglett",
+    "base_happiness": 70,
+    "capture_rate": 255,
+    "color": "BROWN",
+    "egg_groups": [
+      "GROUND"
+    ]
   },
   {
     "id": 51,
-    "identifier": "dugtrio"
+    "identifier": "dugtrio",
+    "base_happiness": 70,
+    "capture_rate": 50,
+    "color": "BROWN",
+    "egg_groups": [
+      "GROUND"
+    ]
   },
   {
     "id": 52,
-    "identifier": "meowth"
+    "identifier": "meowth",
+    "base_happiness": 70,
+    "capture_rate": 255,
+    "color": "YELLOW",
+    "egg_groups": [
+      "GROUND"
+    ]
   },
   {
     "id": 53,
-    "identifier": "persian"
+    "identifier": "persian",
+    "base_happiness": 70,
+    "capture_rate": 90,
+    "color": "YELLOW",
+    "egg_groups": [
+      "GROUND"
+    ]
   },
   {
     "id": 54,
-    "identifier": "psyduck"
+    "identifier": "psyduck",
+    "base_happiness": 70,
+    "capture_rate": 190,
+    "color": "YELLOW",
+    "egg_groups": [
+      "WATER1",
+      "GROUND"
+    ]
   },
   {
     "id": 55,
-    "identifier": "golduck"
+    "identifier": "golduck",
+    "base_happiness": 70,
+    "capture_rate": 75,
+    "color": "BLUE",
+    "egg_groups": [
+      "WATER1",
+      "GROUND"
+    ]
   },
   {
     "id": 56,
-    "identifier": "mankey"
+    "identifier": "mankey",
+    "base_happiness": 70,
+    "capture_rate": 190,
+    "color": "BROWN",
+    "egg_groups": [
+      "GROUND"
+    ]
   },
   {
     "id": 57,
-    "identifier": "primeape"
+    "identifier": "primeape",
+    "base_happiness": 70,
+    "capture_rate": 75,
+    "color": "BROWN",
+    "egg_groups": [
+      "GROUND"
+    ]
   },
   {
     "id": 58,
-    "identifier": "growlithe"
+    "identifier": "growlithe",
+    "base_happiness": 70,
+    "capture_rate": 190,
+    "color": "BROWN",
+    "egg_groups": [
+      "GROUND"
+    ]
   },
   {
     "id": 59,
-    "identifier": "arcanine"
+    "identifier": "arcanine",
+    "base_happiness": 70,
+    "capture_rate": 75,
+    "color": "BROWN",
+    "egg_groups": [
+      "GROUND"
+    ]
   },
   {
     "id": 60,
-    "identifier": "poliwag"
+    "identifier": "poliwag",
+    "base_happiness": 70,
+    "capture_rate": 255,
+    "color": "BLUE",
+    "egg_groups": [
+      "WATER1"
+    ]
   },
   {
     "id": 61,
-    "identifier": "poliwhirl"
+    "identifier": "poliwhirl",
+    "base_happiness": 70,
+    "capture_rate": 120,
+    "color": "BLUE",
+    "egg_groups": [
+      "WATER1"
+    ]
   },
   {
     "id": 62,
-    "identifier": "poliwrath"
+    "identifier": "poliwrath",
+    "base_happiness": 70,
+    "capture_rate": 45,
+    "color": "BLUE",
+    "egg_groups": [
+      "WATER1"
+    ]
   },
   {
     "id": 63,
-    "identifier": "abra"
+    "identifier": "abra",
+    "base_happiness": 70,
+    "capture_rate": 200,
+    "color": "BROWN",
+    "egg_groups": [
+      "HUMANSHAPE"
+    ]
   },
   {
     "id": 64,
-    "identifier": "kadabra"
+    "identifier": "kadabra",
+    "base_happiness": 70,
+    "capture_rate": 100,
+    "color": "BROWN",
+    "egg_groups": [
+      "HUMANSHAPE"
+    ]
   },
   {
     "id": 65,
-    "identifier": "alakazam"
+    "identifier": "alakazam",
+    "base_happiness": 70,
+    "capture_rate": 50,
+    "color": "BROWN",
+    "egg_groups": [
+      "HUMANSHAPE"
+    ]
   },
   {
     "id": 66,
-    "identifier": "machop"
+    "identifier": "machop",
+    "base_happiness": 70,
+    "capture_rate": 180,
+    "color": "GRAY",
+    "egg_groups": [
+      "HUMANSHAPE"
+    ]
   },
   {
     "id": 67,
-    "identifier": "machoke"
+    "identifier": "machoke",
+    "base_happiness": 70,
+    "capture_rate": 90,
+    "color": "GRAY",
+    "egg_groups": [
+      "HUMANSHAPE"
+    ]
   },
   {
     "id": 68,
-    "identifier": "machamp"
+    "identifier": "machamp",
+    "base_happiness": 70,
+    "capture_rate": 45,
+    "color": "GRAY",
+    "egg_groups": [
+      "HUMANSHAPE"
+    ]
   },
   {
     "id": 69,
-    "identifier": "bellsprout"
+    "identifier": "bellsprout",
+    "base_happiness": 70,
+    "capture_rate": 255,
+    "color": "GREEN",
+    "egg_groups": [
+      "PLANT"
+    ]
   },
   {
     "id": 70,
-    "identifier": "weepinbell"
+    "identifier": "weepinbell",
+    "base_happiness": 70,
+    "capture_rate": 120,
+    "color": "GREEN",
+    "egg_groups": [
+      "PLANT"
+    ]
   },
   {
     "id": 71,
-    "identifier": "victreebel"
+    "identifier": "victreebel",
+    "base_happiness": 70,
+    "capture_rate": 45,
+    "color": "GREEN",
+    "egg_groups": [
+      "PLANT"
+    ]
   },
   {
     "id": 72,
-    "identifier": "tentacool"
+    "identifier": "tentacool",
+    "base_happiness": 70,
+    "capture_rate": 190,
+    "color": "BLUE",
+    "egg_groups": [
+      "WATER3"
+    ]
   },
   {
     "id": 73,
-    "identifier": "tentacruel"
+    "identifier": "tentacruel",
+    "base_happiness": 70,
+    "capture_rate": 60,
+    "color": "BLUE",
+    "egg_groups": [
+      "WATER3"
+    ]
   },
   {
     "id": 74,
-    "identifier": "geodude"
+    "identifier": "geodude",
+    "base_happiness": 70,
+    "capture_rate": 255,
+    "color": "BROWN",
+    "egg_groups": [
+      "MINERAL"
+    ]
   },
   {
     "id": 75,
-    "identifier": "graveler"
+    "identifier": "graveler",
+    "base_happiness": 70,
+    "capture_rate": 120,
+    "color": "BROWN",
+    "egg_groups": [
+      "MINERAL"
+    ]
   },
   {
     "id": 76,
-    "identifier": "golem"
+    "identifier": "golem",
+    "base_happiness": 70,
+    "capture_rate": 45,
+    "color": "BROWN",
+    "egg_groups": [
+      "MINERAL"
+    ]
   },
   {
     "id": 77,
-    "identifier": "ponyta"
+    "identifier": "ponyta",
+    "base_happiness": 70,
+    "capture_rate": 190,
+    "color": "YELLOW",
+    "egg_groups": [
+      "GROUND"
+    ]
   },
   {
     "id": 78,
-    "identifier": "rapidash"
+    "identifier": "rapidash",
+    "base_happiness": 70,
+    "capture_rate": 60,
+    "color": "YELLOW",
+    "egg_groups": [
+      "GROUND"
+    ]
   },
   {
     "id": 79,
-    "identifier": "slowpoke"
+    "identifier": "slowpoke",
+    "base_happiness": 70,
+    "capture_rate": 190,
+    "color": "PINK",
+    "egg_groups": [
+      "MONSTER",
+      "WATER1"
+    ]
   },
   {
     "id": 80,
-    "identifier": "slowbro"
+    "identifier": "slowbro",
+    "base_happiness": 70,
+    "capture_rate": 75,
+    "color": "PINK",
+    "egg_groups": [
+      "MONSTER",
+      "WATER1"
+    ]
   },
   {
     "id": 81,
-    "identifier": "magnemite"
+    "identifier": "magnemite",
+    "base_happiness": 70,
+    "capture_rate": 190,
+    "color": "GRAY",
+    "egg_groups": [
+      "MINERAL"
+    ]
   },
   {
     "id": 82,
-    "identifier": "magneton"
+    "identifier": "magneton",
+    "base_happiness": 70,
+    "capture_rate": 60,
+    "color": "GRAY",
+    "egg_groups": [
+      "MINERAL"
+    ]
   },
   {
     "id": 83,
-    "identifier": "farfetchd"
+    "identifier": "farfetchd",
+    "base_happiness": 70,
+    "capture_rate": 45,
+    "color": "BROWN",
+    "egg_groups": [
+      "FLYING",
+      "GROUND"
+    ]
   },
   {
     "id": 84,
-    "identifier": "doduo"
+    "identifier": "doduo",
+    "base_happiness": 70,
+    "capture_rate": 190,
+    "color": "BROWN",
+    "egg_groups": [
+      "FLYING"
+    ]
   },
   {
     "id": 85,
-    "identifier": "dodrio"
+    "identifier": "dodrio",
+    "base_happiness": 70,
+    "capture_rate": 45,
+    "color": "BROWN",
+    "egg_groups": [
+      "FLYING"
+    ]
   },
   {
     "id": 86,
-    "identifier": "seel"
+    "identifier": "seel",
+    "base_happiness": 70,
+    "capture_rate": 190,
+    "color": "WHITE",
+    "egg_groups": [
+      "WATER1",
+      "GROUND"
+    ]
   },
   {
     "id": 87,
-    "identifier": "dewgong"
+    "identifier": "dewgong",
+    "base_happiness": 70,
+    "capture_rate": 75,
+    "color": "WHITE",
+    "egg_groups": [
+      "WATER1",
+      "GROUND"
+    ]
   },
   {
     "id": 88,
-    "identifier": "grimer"
+    "identifier": "grimer",
+    "base_happiness": 70,
+    "capture_rate": 190,
+    "color": "PURPLE",
+    "egg_groups": [
+      "INDETERMINATE"
+    ]
   },
   {
     "id": 89,
-    "identifier": "muk"
+    "identifier": "muk",
+    "base_happiness": 70,
+    "capture_rate": 75,
+    "color": "PURPLE",
+    "egg_groups": [
+      "INDETERMINATE"
+    ]
   },
   {
     "id": 90,
-    "identifier": "shellder"
+    "identifier": "shellder",
+    "base_happiness": 70,
+    "capture_rate": 190,
+    "color": "PURPLE",
+    "egg_groups": [
+      "WATER3"
+    ]
   },
   {
     "id": 91,
-    "identifier": "cloyster"
+    "identifier": "cloyster",
+    "base_happiness": 70,
+    "capture_rate": 60,
+    "color": "PURPLE",
+    "egg_groups": [
+      "WATER3"
+    ]
   },
   {
     "id": 92,
-    "identifier": "gastly"
+    "identifier": "gastly",
+    "base_happiness": 70,
+    "capture_rate": 190,
+    "color": "PURPLE",
+    "egg_groups": [
+      "INDETERMINATE"
+    ]
   },
   {
     "id": 93,
-    "identifier": "haunter"
+    "identifier": "haunter",
+    "base_happiness": 70,
+    "capture_rate": 90,
+    "color": "PURPLE",
+    "egg_groups": [
+      "INDETERMINATE"
+    ]
   },
   {
     "id": 94,
-    "identifier": "gengar"
+    "identifier": "gengar",
+    "base_happiness": 70,
+    "capture_rate": 45,
+    "color": "PURPLE",
+    "egg_groups": [
+      "INDETERMINATE"
+    ]
   },
   {
     "id": 95,
-    "identifier": "onix"
+    "identifier": "onix",
+    "base_happiness": 70,
+    "capture_rate": 45,
+    "color": "GRAY",
+    "egg_groups": [
+      "MINERAL"
+    ]
   },
   {
     "id": 96,
-    "identifier": "drowzee"
+    "identifier": "drowzee",
+    "base_happiness": 70,
+    "capture_rate": 190,
+    "color": "YELLOW",
+    "egg_groups": [
+      "HUMANSHAPE"
+    ]
   },
   {
     "id": 97,
-    "identifier": "hypno"
+    "identifier": "hypno",
+    "base_happiness": 70,
+    "capture_rate": 75,
+    "color": "YELLOW",
+    "egg_groups": [
+      "HUMANSHAPE"
+    ]
   },
   {
     "id": 98,
-    "identifier": "krabby"
+    "identifier": "krabby",
+    "base_happiness": 70,
+    "capture_rate": 225,
+    "color": "RED",
+    "egg_groups": [
+      "WATER3"
+    ]
   },
   {
     "id": 99,
-    "identifier": "kingler"
+    "identifier": "kingler",
+    "base_happiness": 70,
+    "capture_rate": 60,
+    "color": "RED",
+    "egg_groups": [
+      "WATER3"
+    ]
   },
   {
     "id": 100,
-    "identifier": "voltorb"
+    "identifier": "voltorb",
+    "base_happiness": 70,
+    "capture_rate": 190,
+    "color": "RED",
+    "egg_groups": [
+      "MINERAL"
+    ]
   },
   {
     "id": 101,
-    "identifier": "electrode"
+    "identifier": "electrode",
+    "base_happiness": 70,
+    "capture_rate": 60,
+    "color": "RED",
+    "egg_groups": [
+      "MINERAL"
+    ]
   },
   {
     "id": 102,
-    "identifier": "exeggcute"
+    "identifier": "exeggcute",
+    "base_happiness": 70,
+    "capture_rate": 90,
+    "color": "PINK",
+    "egg_groups": [
+      "PLANT"
+    ]
   },
   {
     "id": 103,
-    "identifier": "exeggutor"
+    "identifier": "exeggutor",
+    "base_happiness": 70,
+    "capture_rate": 45,
+    "color": "YELLOW",
+    "egg_groups": [
+      "PLANT"
+    ]
   },
   {
     "id": 104,
-    "identifier": "cubone"
+    "identifier": "cubone",
+    "base_happiness": 70,
+    "capture_rate": 190,
+    "color": "BROWN",
+    "egg_groups": [
+      "MONSTER"
+    ]
   },
   {
     "id": 105,
-    "identifier": "marowak"
+    "identifier": "marowak",
+    "base_happiness": 70,
+    "capture_rate": 75,
+    "color": "BROWN",
+    "egg_groups": [
+      "MONSTER"
+    ]
   },
   {
     "id": 106,
-    "identifier": "hitmonlee"
+    "identifier": "hitmonlee",
+    "base_happiness": 70,
+    "capture_rate": 45,
+    "color": "BROWN",
+    "egg_groups": [
+      "HUMANSHAPE"
+    ]
   },
   {
     "id": 107,
-    "identifier": "hitmonchan"
+    "identifier": "hitmonchan",
+    "base_happiness": 70,
+    "capture_rate": 45,
+    "color": "BROWN",
+    "egg_groups": [
+      "HUMANSHAPE"
+    ]
   },
   {
     "id": 108,
-    "identifier": "lickitung"
+    "identifier": "lickitung",
+    "base_happiness": 70,
+    "capture_rate": 45,
+    "color": "PINK",
+    "egg_groups": [
+      "MONSTER"
+    ]
   },
   {
     "id": 109,
-    "identifier": "koffing"
+    "identifier": "koffing",
+    "base_happiness": 70,
+    "capture_rate": 190,
+    "color": "PURPLE",
+    "egg_groups": [
+      "INDETERMINATE"
+    ]
   },
   {
     "id": 110,
-    "identifier": "weezing"
+    "identifier": "weezing",
+    "base_happiness": 70,
+    "capture_rate": 60,
+    "color": "PURPLE",
+    "egg_groups": [
+      "INDETERMINATE"
+    ]
   },
   {
     "id": 111,
-    "identifier": "rhyhorn"
+    "identifier": "rhyhorn",
+    "base_happiness": 70,
+    "capture_rate": 120,
+    "color": "GRAY",
+    "egg_groups": [
+      "MONSTER",
+      "GROUND"
+    ]
   },
   {
     "id": 112,
-    "identifier": "rhydon"
+    "identifier": "rhydon",
+    "base_happiness": 70,
+    "capture_rate": 60,
+    "color": "GRAY",
+    "egg_groups": [
+      "MONSTER",
+      "GROUND"
+    ]
   },
   {
     "id": 113,
-    "identifier": "chansey"
+    "identifier": "chansey",
+    "base_happiness": 140,
+    "capture_rate": 30,
+    "color": "PINK",
+    "egg_groups": [
+      "FAIRY"
+    ]
   },
   {
     "id": 114,
-    "identifier": "tangela"
+    "identifier": "tangela",
+    "base_happiness": 70,
+    "capture_rate": 45,
+    "color": "BLUE",
+    "egg_groups": [
+      "PLANT"
+    ]
   },
   {
     "id": 115,
-    "identifier": "kangaskhan"
+    "identifier": "kangaskhan",
+    "base_happiness": 70,
+    "capture_rate": 45,
+    "color": "BROWN",
+    "egg_groups": [
+      "MONSTER"
+    ]
   },
   {
     "id": 116,
-    "identifier": "horsea"
+    "identifier": "horsea",
+    "base_happiness": 70,
+    "capture_rate": 225,
+    "color": "BLUE",
+    "egg_groups": [
+      "WATER1",
+      "DRAGON"
+    ]
   },
   {
     "id": 117,
-    "identifier": "seadra"
+    "identifier": "seadra",
+    "base_happiness": 70,
+    "capture_rate": 75,
+    "color": "BLUE",
+    "egg_groups": [
+      "WATER1",
+      "DRAGON"
+    ]
   },
   {
     "id": 118,
-    "identifier": "goldeen"
+    "identifier": "goldeen",
+    "base_happiness": 70,
+    "capture_rate": 225,
+    "color": "RED",
+    "egg_groups": [
+      "WATER2"
+    ]
   },
   {
     "id": 119,
-    "identifier": "seaking"
+    "identifier": "seaking",
+    "base_happiness": 70,
+    "capture_rate": 60,
+    "color": "RED",
+    "egg_groups": [
+      "WATER2"
+    ]
   },
   {
     "id": 120,
-    "identifier": "staryu"
+    "identifier": "staryu",
+    "base_happiness": 70,
+    "capture_rate": 225,
+    "color": "BROWN",
+    "egg_groups": [
+      "WATER3"
+    ]
   },
   {
     "id": 121,
-    "identifier": "starmie"
+    "identifier": "starmie",
+    "base_happiness": 70,
+    "capture_rate": 60,
+    "color": "PURPLE",
+    "egg_groups": [
+      "WATER3"
+    ]
   },
   {
     "id": 122,
-    "identifier": "mr-mime"
+    "identifier": "mr-mime",
+    "base_happiness": 70,
+    "capture_rate": 45,
+    "color": "PINK",
+    "egg_groups": [
+      "HUMANSHAPE"
+    ]
   },
   {
     "id": 123,
-    "identifier": "scyther"
+    "identifier": "scyther",
+    "base_happiness": 70,
+    "capture_rate": 45,
+    "color": "GREEN",
+    "egg_groups": [
+      "BUG"
+    ]
   },
   {
     "id": 124,
-    "identifier": "jynx"
+    "identifier": "jynx",
+    "base_happiness": 70,
+    "capture_rate": 45,
+    "color": "RED",
+    "egg_groups": [
+      "HUMANSHAPE"
+    ]
   },
   {
     "id": 125,
-    "identifier": "electabuzz"
+    "identifier": "electabuzz",
+    "base_happiness": 70,
+    "capture_rate": 45,
+    "color": "YELLOW",
+    "egg_groups": [
+      "HUMANSHAPE"
+    ]
   },
   {
     "id": 126,
-    "identifier": "magmar"
+    "identifier": "magmar",
+    "base_happiness": 70,
+    "capture_rate": 45,
+    "color": "RED",
+    "egg_groups": [
+      "HUMANSHAPE"
+    ]
   },
   {
     "id": 127,
-    "identifier": "pinsir"
+    "identifier": "pinsir",
+    "base_happiness": 70,
+    "capture_rate": 45,
+    "color": "BROWN",
+    "egg_groups": [
+      "BUG"
+    ]
   },
   {
     "id": 128,
-    "identifier": "tauros"
+    "identifier": "tauros",
+    "base_happiness": 70,
+    "capture_rate": 45,
+    "color": "BROWN",
+    "egg_groups": [
+      "GROUND"
+    ]
   },
   {
     "id": 129,
-    "identifier": "magikarp"
+    "identifier": "magikarp",
+    "base_happiness": 70,
+    "capture_rate": 255,
+    "color": "RED",
+    "egg_groups": [
+      "WATER2",
+      "DRAGON"
+    ]
   },
   {
     "id": 130,
-    "identifier": "gyarados"
+    "identifier": "gyarados",
+    "base_happiness": 70,
+    "capture_rate": 45,
+    "color": "BLUE",
+    "egg_groups": [
+      "WATER2",
+      "DRAGON"
+    ]
   },
   {
     "id": 131,
-    "identifier": "lapras"
+    "identifier": "lapras",
+    "base_happiness": 70,
+    "capture_rate": 45,
+    "color": "BLUE",
+    "egg_groups": [
+      "MONSTER",
+      "WATER1"
+    ]
   },
   {
     "id": 132,
-    "identifier": "ditto"
+    "identifier": "ditto",
+    "base_happiness": 70,
+    "capture_rate": 35,
+    "color": "PURPLE",
+    "egg_groups": [
+      "DITTO"
+    ]
   },
   {
     "id": 133,
-    "identifier": "eevee"
+    "identifier": "eevee",
+    "base_happiness": 70,
+    "capture_rate": 45,
+    "color": "BROWN",
+    "egg_groups": [
+      "GROUND"
+    ]
   },
   {
     "id": 134,
-    "identifier": "vaporeon"
+    "identifier": "vaporeon",
+    "base_happiness": 70,
+    "capture_rate": 45,
+    "color": "BLUE",
+    "egg_groups": [
+      "GROUND"
+    ]
   },
   {
     "id": 135,
-    "identifier": "jolteon"
+    "identifier": "jolteon",
+    "base_happiness": 70,
+    "capture_rate": 45,
+    "color": "YELLOW",
+    "egg_groups": [
+      "GROUND"
+    ]
   },
   {
     "id": 136,
-    "identifier": "flareon"
+    "identifier": "flareon",
+    "base_happiness": 70,
+    "capture_rate": 45,
+    "color": "RED",
+    "egg_groups": [
+      "GROUND"
+    ]
   },
   {
     "id": 137,
-    "identifier": "porygon"
+    "identifier": "porygon",
+    "base_happiness": 70,
+    "capture_rate": 45,
+    "color": "PINK",
+    "egg_groups": [
+      "MINERAL"
+    ]
   },
   {
     "id": 138,
-    "identifier": "omanyte"
+    "identifier": "omanyte",
+    "base_happiness": 70,
+    "capture_rate": 45,
+    "color": "BLUE",
+    "egg_groups": [
+      "WATER1",
+      "WATER3"
+    ]
   },
   {
     "id": 139,
-    "identifier": "omastar"
+    "identifier": "omastar",
+    "base_happiness": 70,
+    "capture_rate": 45,
+    "color": "BLUE",
+    "egg_groups": [
+      "WATER1",
+      "WATER3"
+    ]
   },
   {
     "id": 140,
-    "identifier": "kabuto"
+    "identifier": "kabuto",
+    "base_happiness": 70,
+    "capture_rate": 45,
+    "color": "BROWN",
+    "egg_groups": [
+      "WATER1",
+      "WATER3"
+    ]
   },
   {
     "id": 141,
-    "identifier": "kabutops"
+    "identifier": "kabutops",
+    "base_happiness": 70,
+    "capture_rate": 45,
+    "color": "BROWN",
+    "egg_groups": [
+      "WATER1",
+      "WATER3"
+    ]
   },
   {
     "id": 142,
-    "identifier": "aerodactyl"
+    "identifier": "aerodactyl",
+    "base_happiness": 70,
+    "capture_rate": 45,
+    "color": "PURPLE",
+    "egg_groups": [
+      "FLYING"
+    ]
   },
   {
     "id": 143,
-    "identifier": "snorlax"
+    "identifier": "snorlax",
+    "base_happiness": 70,
+    "capture_rate": 25,
+    "color": "BLACK",
+    "egg_groups": [
+      "MONSTER"
+    ]
   },
   {
     "id": 144,
-    "identifier": "articuno"
+    "identifier": "articuno",
+    "base_happiness": 35,
+    "capture_rate": 3,
+    "color": "BLUE",
+    "egg_groups": [
+      "NO_EGGS"
+    ]
   },
   {
     "id": 145,
-    "identifier": "zapdos"
+    "identifier": "zapdos",
+    "base_happiness": 35,
+    "capture_rate": 3,
+    "color": "YELLOW",
+    "egg_groups": [
+      "NO_EGGS"
+    ]
   },
   {
     "id": 146,
-    "identifier": "moltres"
+    "identifier": "moltres",
+    "base_happiness": 35,
+    "capture_rate": 3,
+    "color": "YELLOW",
+    "egg_groups": [
+      "NO_EGGS"
+    ]
   },
   {
     "id": 147,
-    "identifier": "dratini"
+    "identifier": "dratini",
+    "base_happiness": 35,
+    "capture_rate": 45,
+    "color": "BLUE",
+    "egg_groups": [
+      "WATER1",
+      "DRAGON"
+    ]
   },
   {
     "id": 148,
-    "identifier": "dragonair"
+    "identifier": "dragonair",
+    "base_happiness": 35,
+    "capture_rate": 45,
+    "color": "BLUE",
+    "egg_groups": [
+      "WATER1",
+      "DRAGON"
+    ]
   },
   {
     "id": 149,
-    "identifier": "dragonite"
+    "identifier": "dragonite",
+    "base_happiness": 35,
+    "capture_rate": 45,
+    "color": "BROWN",
+    "egg_groups": [
+      "WATER1",
+      "DRAGON"
+    ]
   },
   {
     "id": 150,
-    "identifier": "mewtwo"
+    "identifier": "mewtwo",
+    "base_happiness": 0,
+    "capture_rate": 3,
+    "color": "PURPLE",
+    "egg_groups": [
+      "NO_EGGS"
+    ]
   },
   {
     "id": 151,
-    "identifier": "mew"
+    "identifier": "mew",
+    "base_happiness": 100,
+    "capture_rate": 45,
+    "color": "PINK",
+    "egg_groups": [
+      "NO_EGGS"
+    ]
   },
   {
     "id": 152,
-    "identifier": "chikorita"
+    "identifier": "chikorita",
+    "base_happiness": 70,
+    "capture_rate": 45,
+    "color": "GREEN",
+    "egg_groups": [
+      "MONSTER",
+      "PLANT"
+    ]
   },
   {
     "id": 153,
-    "identifier": "bayleef"
+    "identifier": "bayleef",
+    "base_happiness": 70,
+    "capture_rate": 45,
+    "color": "GREEN",
+    "egg_groups": [
+      "MONSTER",
+      "PLANT"
+    ]
   },
   {
     "id": 154,
-    "identifier": "meganium"
+    "identifier": "meganium",
+    "base_happiness": 70,
+    "capture_rate": 45,
+    "color": "GREEN",
+    "egg_groups": [
+      "MONSTER",
+      "PLANT"
+    ]
   },
   {
     "id": 155,
-    "identifier": "cyndaquil"
+    "identifier": "cyndaquil",
+    "base_happiness": 70,
+    "capture_rate": 45,
+    "color": "YELLOW",
+    "egg_groups": [
+      "GROUND"
+    ]
   },
   {
     "id": 156,
-    "identifier": "quilava"
+    "identifier": "quilava",
+    "base_happiness": 70,
+    "capture_rate": 45,
+    "color": "YELLOW",
+    "egg_groups": [
+      "GROUND"
+    ]
   },
   {
     "id": 157,
-    "identifier": "typhlosion"
+    "identifier": "typhlosion",
+    "base_happiness": 70,
+    "capture_rate": 45,
+    "color": "YELLOW",
+    "egg_groups": [
+      "GROUND"
+    ]
   },
   {
     "id": 158,
-    "identifier": "totodile"
+    "identifier": "totodile",
+    "base_happiness": 70,
+    "capture_rate": 45,
+    "color": "BLUE",
+    "egg_groups": [
+      "MONSTER",
+      "WATER1"
+    ]
   },
   {
     "id": 159,
-    "identifier": "croconaw"
+    "identifier": "croconaw",
+    "base_happiness": 70,
+    "capture_rate": 45,
+    "color": "BLUE",
+    "egg_groups": [
+      "MONSTER",
+      "WATER1"
+    ]
   },
   {
     "id": 160,
-    "identifier": "feraligatr"
+    "identifier": "feraligatr",
+    "base_happiness": 70,
+    "capture_rate": 45,
+    "color": "BLUE",
+    "egg_groups": [
+      "MONSTER",
+      "WATER1"
+    ]
   },
   {
     "id": 161,
-    "identifier": "sentret"
+    "identifier": "sentret",
+    "base_happiness": 70,
+    "capture_rate": 255,
+    "color": "BROWN",
+    "egg_groups": [
+      "GROUND"
+    ]
   },
   {
     "id": 162,
-    "identifier": "furret"
+    "identifier": "furret",
+    "base_happiness": 70,
+    "capture_rate": 90,
+    "color": "BROWN",
+    "egg_groups": [
+      "GROUND"
+    ]
   },
   {
     "id": 163,
-    "identifier": "hoothoot"
+    "identifier": "hoothoot",
+    "base_happiness": 70,
+    "capture_rate": 255,
+    "color": "BROWN",
+    "egg_groups": [
+      "FLYING"
+    ]
   },
   {
     "id": 164,
-    "identifier": "noctowl"
+    "identifier": "noctowl",
+    "base_happiness": 70,
+    "capture_rate": 90,
+    "color": "BROWN",
+    "egg_groups": [
+      "FLYING"
+    ]
   },
   {
     "id": 165,
-    "identifier": "ledyba"
+    "identifier": "ledyba",
+    "base_happiness": 70,
+    "capture_rate": 255,
+    "color": "RED",
+    "egg_groups": [
+      "BUG"
+    ]
   },
   {
     "id": 166,
-    "identifier": "ledian"
+    "identifier": "ledian",
+    "base_happiness": 70,
+    "capture_rate": 90,
+    "color": "RED",
+    "egg_groups": [
+      "BUG"
+    ]
   },
   {
     "id": 167,
-    "identifier": "spinarak"
+    "identifier": "spinarak",
+    "base_happiness": 70,
+    "capture_rate": 255,
+    "color": "GREEN",
+    "egg_groups": [
+      "BUG"
+    ]
   },
   {
     "id": 168,
-    "identifier": "ariados"
+    "identifier": "ariados",
+    "base_happiness": 70,
+    "capture_rate": 90,
+    "color": "RED",
+    "egg_groups": [
+      "BUG"
+    ]
   },
   {
     "id": 169,
-    "identifier": "crobat"
+    "identifier": "crobat",
+    "base_happiness": 70,
+    "capture_rate": 90,
+    "color": "PURPLE",
+    "egg_groups": [
+      "FLYING"
+    ]
   },
   {
     "id": 170,
-    "identifier": "chinchou"
+    "identifier": "chinchou",
+    "base_happiness": 70,
+    "capture_rate": 190,
+    "color": "BLUE",
+    "egg_groups": [
+      "WATER2"
+    ]
   },
   {
     "id": 171,
-    "identifier": "lanturn"
+    "identifier": "lanturn",
+    "base_happiness": 70,
+    "capture_rate": 75,
+    "color": "BLUE",
+    "egg_groups": [
+      "WATER2"
+    ]
   },
   {
     "id": 172,
-    "identifier": "pichu"
+    "identifier": "pichu",
+    "base_happiness": 70,
+    "capture_rate": 190,
+    "color": "YELLOW",
+    "egg_groups": [
+      "NO_EGGS"
+    ]
   },
   {
     "id": 173,
-    "identifier": "cleffa"
+    "identifier": "cleffa",
+    "base_happiness": 140,
+    "capture_rate": 150,
+    "color": "PINK",
+    "egg_groups": [
+      "NO_EGGS"
+    ]
   },
   {
     "id": 174,
-    "identifier": "igglybuff"
+    "identifier": "igglybuff",
+    "base_happiness": 70,
+    "capture_rate": 170,
+    "color": "PINK",
+    "egg_groups": [
+      "NO_EGGS"
+    ]
   },
   {
     "id": 175,
-    "identifier": "togepi"
+    "identifier": "togepi",
+    "base_happiness": 70,
+    "capture_rate": 190,
+    "color": "WHITE",
+    "egg_groups": [
+      "NO_EGGS"
+    ]
   },
   {
     "id": 176,
-    "identifier": "togetic"
+    "identifier": "togetic",
+    "base_happiness": 70,
+    "capture_rate": 75,
+    "color": "WHITE",
+    "egg_groups": [
+      "FLYING",
+      "FAIRY"
+    ]
   },
   {
     "id": 177,
-    "identifier": "natu"
+    "identifier": "natu",
+    "base_happiness": 70,
+    "capture_rate": 190,
+    "color": "GREEN",
+    "egg_groups": [
+      "FLYING"
+    ]
   },
   {
     "id": 178,
-    "identifier": "xatu"
+    "identifier": "xatu",
+    "base_happiness": 70,
+    "capture_rate": 75,
+    "color": "GREEN",
+    "egg_groups": [
+      "FLYING"
+    ]
   },
   {
     "id": 179,
-    "identifier": "mareep"
+    "identifier": "mareep",
+    "base_happiness": 70,
+    "capture_rate": 235,
+    "color": "WHITE",
+    "egg_groups": [
+      "MONSTER",
+      "GROUND"
+    ]
   },
   {
     "id": 180,
-    "identifier": "flaaffy"
+    "identifier": "flaaffy",
+    "base_happiness": 70,
+    "capture_rate": 120,
+    "color": "PINK",
+    "egg_groups": [
+      "MONSTER",
+      "GROUND"
+    ]
   },
   {
     "id": 181,
-    "identifier": "ampharos"
+    "identifier": "ampharos",
+    "base_happiness": 70,
+    "capture_rate": 45,
+    "color": "YELLOW",
+    "egg_groups": [
+      "MONSTER",
+      "GROUND"
+    ]
   },
   {
     "id": 182,
-    "identifier": "bellossom"
+    "identifier": "bellossom",
+    "base_happiness": 70,
+    "capture_rate": 45,
+    "color": "GREEN",
+    "egg_groups": [
+      "PLANT"
+    ]
   },
   {
     "id": 183,
-    "identifier": "marill"
+    "identifier": "marill",
+    "base_happiness": 70,
+    "capture_rate": 190,
+    "color": "BLUE",
+    "egg_groups": [
+      "WATER1",
+      "FAIRY"
+    ]
   },
   {
     "id": 184,
-    "identifier": "azumarill"
+    "identifier": "azumarill",
+    "base_happiness": 70,
+    "capture_rate": 75,
+    "color": "BLUE",
+    "egg_groups": [
+      "WATER1",
+      "FAIRY"
+    ]
   },
   {
     "id": 185,
-    "identifier": "sudowoodo"
+    "identifier": "sudowoodo",
+    "base_happiness": 70,
+    "capture_rate": 65,
+    "color": "BROWN",
+    "egg_groups": [
+      "MINERAL"
+    ]
   },
   {
     "id": 186,
-    "identifier": "politoed"
+    "identifier": "politoed",
+    "base_happiness": 70,
+    "capture_rate": 45,
+    "color": "GREEN",
+    "egg_groups": [
+      "WATER1"
+    ]
   },
   {
     "id": 187,
-    "identifier": "hoppip"
+    "identifier": "hoppip",
+    "base_happiness": 70,
+    "capture_rate": 255,
+    "color": "PINK",
+    "egg_groups": [
+      "FAIRY",
+      "PLANT"
+    ]
   },
   {
     "id": 188,
-    "identifier": "skiploom"
+    "identifier": "skiploom",
+    "base_happiness": 70,
+    "capture_rate": 120,
+    "color": "GREEN",
+    "egg_groups": [
+      "FAIRY",
+      "PLANT"
+    ]
   },
   {
     "id": 189,
-    "identifier": "jumpluff"
+    "identifier": "jumpluff",
+    "base_happiness": 70,
+    "capture_rate": 45,
+    "color": "BLUE",
+    "egg_groups": [
+      "FAIRY",
+      "PLANT"
+    ]
   },
   {
     "id": 190,
-    "identifier": "aipom"
+    "identifier": "aipom",
+    "base_happiness": 70,
+    "capture_rate": 45,
+    "color": "PURPLE",
+    "egg_groups": [
+      "GROUND"
+    ]
   },
   {
     "id": 191,
-    "identifier": "sunkern"
+    "identifier": "sunkern",
+    "base_happiness": 70,
+    "capture_rate": 235,
+    "color": "YELLOW",
+    "egg_groups": [
+      "PLANT"
+    ]
   },
   {
     "id": 192,
-    "identifier": "sunflora"
+    "identifier": "sunflora",
+    "base_happiness": 70,
+    "capture_rate": 120,
+    "color": "YELLOW",
+    "egg_groups": [
+      "PLANT"
+    ]
   },
   {
     "id": 193,
-    "identifier": "yanma"
+    "identifier": "yanma",
+    "base_happiness": 70,
+    "capture_rate": 75,
+    "color": "RED",
+    "egg_groups": [
+      "BUG"
+    ]
   },
   {
     "id": 194,
-    "identifier": "wooper"
+    "identifier": "wooper",
+    "base_happiness": 70,
+    "capture_rate": 255,
+    "color": "BLUE",
+    "egg_groups": [
+      "WATER1",
+      "GROUND"
+    ]
   },
   {
     "id": 195,
-    "identifier": "quagsire"
+    "identifier": "quagsire",
+    "base_happiness": 70,
+    "capture_rate": 90,
+    "color": "BLUE",
+    "egg_groups": [
+      "WATER1",
+      "GROUND"
+    ]
   },
   {
     "id": 196,
-    "identifier": "espeon"
+    "identifier": "espeon",
+    "base_happiness": 70,
+    "capture_rate": 45,
+    "color": "PURPLE",
+    "egg_groups": [
+      "GROUND"
+    ]
   },
   {
     "id": 197,
-    "identifier": "umbreon"
+    "identifier": "umbreon",
+    "base_happiness": 35,
+    "capture_rate": 45,
+    "color": "BLACK",
+    "egg_groups": [
+      "GROUND"
+    ]
   },
   {
     "id": 198,
-    "identifier": "murkrow"
+    "identifier": "murkrow",
+    "base_happiness": 35,
+    "capture_rate": 30,
+    "color": "BLACK",
+    "egg_groups": [
+      "FLYING"
+    ]
   },
   {
     "id": 199,
-    "identifier": "slowking"
+    "identifier": "slowking",
+    "base_happiness": 70,
+    "capture_rate": 70,
+    "color": "PINK",
+    "egg_groups": [
+      "MONSTER",
+      "WATER1"
+    ]
   },
   {
     "id": 200,
-    "identifier": "misdreavus"
+    "identifier": "misdreavus",
+    "base_happiness": 35,
+    "capture_rate": 45,
+    "color": "GRAY",
+    "egg_groups": [
+      "INDETERMINATE"
+    ]
   },
   {
     "id": 201,
-    "identifier": "unown"
+    "identifier": "unown",
+    "base_happiness": 70,
+    "capture_rate": 225,
+    "color": "BLACK",
+    "egg_groups": [
+      "NO_EGGS"
+    ]
   },
   {
     "id": 202,
-    "identifier": "wobbuffet"
+    "identifier": "wobbuffet",
+    "base_happiness": 70,
+    "capture_rate": 45,
+    "color": "BLUE",
+    "egg_groups": [
+      "INDETERMINATE"
+    ]
   },
   {
     "id": 203,
-    "identifier": "girafarig"
+    "identifier": "girafarig",
+    "base_happiness": 70,
+    "capture_rate": 60,
+    "color": "YELLOW",
+    "egg_groups": [
+      "GROUND"
+    ]
   },
   {
     "id": 204,
-    "identifier": "pineco"
+    "identifier": "pineco",
+    "base_happiness": 70,
+    "capture_rate": 190,
+    "color": "GRAY",
+    "egg_groups": [
+      "BUG"
+    ]
   },
   {
     "id": 205,
-    "identifier": "forretress"
+    "identifier": "forretress",
+    "base_happiness": 70,
+    "capture_rate": 75,
+    "color": "PURPLE",
+    "egg_groups": [
+      "BUG"
+    ]
   },
   {
     "id": 206,
-    "identifier": "dunsparce"
+    "identifier": "dunsparce",
+    "base_happiness": 70,
+    "capture_rate": 190,
+    "color": "YELLOW",
+    "egg_groups": [
+      "GROUND"
+    ]
   },
   {
     "id": 207,
-    "identifier": "gligar"
+    "identifier": "gligar",
+    "base_happiness": 70,
+    "capture_rate": 60,
+    "color": "PURPLE",
+    "egg_groups": [
+      "BUG"
+    ]
   },
   {
     "id": 208,
-    "identifier": "steelix"
+    "identifier": "steelix",
+    "base_happiness": 70,
+    "capture_rate": 25,
+    "color": "GRAY",
+    "egg_groups": [
+      "MINERAL"
+    ]
   },
   {
     "id": 209,
-    "identifier": "snubbull"
+    "identifier": "snubbull",
+    "base_happiness": 70,
+    "capture_rate": 190,
+    "color": "PINK",
+    "egg_groups": [
+      "GROUND",
+      "FAIRY"
+    ]
   },
   {
     "id": 210,
-    "identifier": "granbull"
+    "identifier": "granbull",
+    "base_happiness": 70,
+    "capture_rate": 75,
+    "color": "PURPLE",
+    "egg_groups": [
+      "GROUND",
+      "FAIRY"
+    ]
   },
   {
     "id": 211,
-    "identifier": "qwilfish"
+    "identifier": "qwilfish",
+    "base_happiness": 70,
+    "capture_rate": 45,
+    "color": "GRAY",
+    "egg_groups": [
+      "WATER2"
+    ]
   },
   {
     "id": 212,
-    "identifier": "scizor"
+    "identifier": "scizor",
+    "base_happiness": 70,
+    "capture_rate": 25,
+    "color": "RED",
+    "egg_groups": [
+      "BUG"
+    ]
   },
   {
     "id": 213,
-    "identifier": "shuckle"
+    "identifier": "shuckle",
+    "base_happiness": 70,
+    "capture_rate": 190,
+    "color": "YELLOW",
+    "egg_groups": [
+      "BUG"
+    ]
   },
   {
     "id": 214,
-    "identifier": "heracross"
+    "identifier": "heracross",
+    "base_happiness": 70,
+    "capture_rate": 45,
+    "color": "BLUE",
+    "egg_groups": [
+      "BUG"
+    ]
   },
   {
     "id": 215,
-    "identifier": "sneasel"
+    "identifier": "sneasel",
+    "base_happiness": 35,
+    "capture_rate": 60,
+    "color": "BLACK",
+    "egg_groups": [
+      "GROUND"
+    ]
   },
   {
     "id": 216,
-    "identifier": "teddiursa"
+    "identifier": "teddiursa",
+    "base_happiness": 70,
+    "capture_rate": 120,
+    "color": "BROWN",
+    "egg_groups": [
+      "GROUND"
+    ]
   },
   {
     "id": 217,
-    "identifier": "ursaring"
+    "identifier": "ursaring",
+    "base_happiness": 70,
+    "capture_rate": 60,
+    "color": "BROWN",
+    "egg_groups": [
+      "GROUND"
+    ]
   },
   {
     "id": 218,
-    "identifier": "slugma"
+    "identifier": "slugma",
+    "base_happiness": 70,
+    "capture_rate": 190,
+    "color": "RED",
+    "egg_groups": [
+      "INDETERMINATE"
+    ]
   },
   {
     "id": 219,
-    "identifier": "magcargo"
+    "identifier": "magcargo",
+    "base_happiness": 70,
+    "capture_rate": 75,
+    "color": "RED",
+    "egg_groups": [
+      "INDETERMINATE"
+    ]
   },
   {
     "id": 220,
-    "identifier": "swinub"
+    "identifier": "swinub",
+    "base_happiness": 70,
+    "capture_rate": 225,
+    "color": "BROWN",
+    "egg_groups": [
+      "GROUND"
+    ]
   },
   {
     "id": 221,
-    "identifier": "piloswine"
+    "identifier": "piloswine",
+    "base_happiness": 70,
+    "capture_rate": 75,
+    "color": "BROWN",
+    "egg_groups": [
+      "GROUND"
+    ]
   },
   {
     "id": 222,
-    "identifier": "corsola"
+    "identifier": "corsola",
+    "base_happiness": 70,
+    "capture_rate": 60,
+    "color": "PINK",
+    "egg_groups": [
+      "WATER1",
+      "WATER3"
+    ]
   },
   {
     "id": 223,
-    "identifier": "remoraid"
+    "identifier": "remoraid",
+    "base_happiness": 70,
+    "capture_rate": 190,
+    "color": "GRAY",
+    "egg_groups": [
+      "WATER1",
+      "WATER2"
+    ]
   },
   {
     "id": 224,
-    "identifier": "octillery"
+    "identifier": "octillery",
+    "base_happiness": 70,
+    "capture_rate": 75,
+    "color": "RED",
+    "egg_groups": [
+      "WATER1",
+      "WATER2"
+    ]
   },
   {
     "id": 225,
-    "identifier": "delibird"
+    "identifier": "delibird",
+    "base_happiness": 70,
+    "capture_rate": 45,
+    "color": "RED",
+    "egg_groups": [
+      "WATER1",
+      "GROUND"
+    ]
   },
   {
     "id": 226,
-    "identifier": "mantine"
+    "identifier": "mantine",
+    "base_happiness": 70,
+    "capture_rate": 25,
+    "color": "PURPLE",
+    "egg_groups": [
+      "WATER1"
+    ]
   },
   {
     "id": 227,
-    "identifier": "skarmory"
+    "identifier": "skarmory",
+    "base_happiness": 70,
+    "capture_rate": 25,
+    "color": "GRAY",
+    "egg_groups": [
+      "FLYING"
+    ]
   },
   {
     "id": 228,
-    "identifier": "houndour"
+    "identifier": "houndour",
+    "base_happiness": 35,
+    "capture_rate": 120,
+    "color": "BLACK",
+    "egg_groups": [
+      "GROUND"
+    ]
   },
   {
     "id": 229,
-    "identifier": "houndoom"
+    "identifier": "houndoom",
+    "base_happiness": 35,
+    "capture_rate": 45,
+    "color": "BLACK",
+    "egg_groups": [
+      "GROUND"
+    ]
   },
   {
     "id": 230,
-    "identifier": "kingdra"
+    "identifier": "kingdra",
+    "base_happiness": 70,
+    "capture_rate": 45,
+    "color": "BLUE",
+    "egg_groups": [
+      "WATER1",
+      "DRAGON"
+    ]
   },
   {
     "id": 231,
-    "identifier": "phanpy"
+    "identifier": "phanpy",
+    "base_happiness": 70,
+    "capture_rate": 120,
+    "color": "BLUE",
+    "egg_groups": [
+      "GROUND"
+    ]
   },
   {
     "id": 232,
-    "identifier": "donphan"
+    "identifier": "donphan",
+    "base_happiness": 70,
+    "capture_rate": 60,
+    "color": "GRAY",
+    "egg_groups": [
+      "GROUND"
+    ]
   },
   {
     "id": 233,
-    "identifier": "porygon2"
+    "identifier": "porygon2",
+    "base_happiness": 70,
+    "capture_rate": 45,
+    "color": "RED",
+    "egg_groups": [
+      "MINERAL"
+    ]
   },
   {
     "id": 234,
-    "identifier": "stantler"
+    "identifier": "stantler",
+    "base_happiness": 70,
+    "capture_rate": 45,
+    "color": "BROWN",
+    "egg_groups": [
+      "GROUND"
+    ]
   },
   {
     "id": 235,
-    "identifier": "smeargle"
+    "identifier": "smeargle",
+    "base_happiness": 70,
+    "capture_rate": 45,
+    "color": "WHITE",
+    "egg_groups": [
+      "GROUND"
+    ]
   },
   {
     "id": 236,
-    "identifier": "tyrogue"
+    "identifier": "tyrogue",
+    "base_happiness": 70,
+    "capture_rate": 75,
+    "color": "PURPLE",
+    "egg_groups": [
+      "NO_EGGS"
+    ]
   },
   {
     "id": 237,
-    "identifier": "hitmontop"
+    "identifier": "hitmontop",
+    "base_happiness": 70,
+    "capture_rate": 45,
+    "color": "BROWN",
+    "egg_groups": [
+      "HUMANSHAPE"
+    ]
   },
   {
     "id": 238,
-    "identifier": "smoochum"
+    "identifier": "smoochum",
+    "base_happiness": 70,
+    "capture_rate": 45,
+    "color": "PINK",
+    "egg_groups": [
+      "NO_EGGS"
+    ]
   },
   {
     "id": 239,
-    "identifier": "elekid"
+    "identifier": "elekid",
+    "base_happiness": 70,
+    "capture_rate": 45,
+    "color": "YELLOW",
+    "egg_groups": [
+      "NO_EGGS"
+    ]
   },
   {
     "id": 240,
-    "identifier": "magby"
+    "identifier": "magby",
+    "base_happiness": 70,
+    "capture_rate": 45,
+    "color": "RED",
+    "egg_groups": [
+      "NO_EGGS"
+    ]
   },
   {
     "id": 241,
-    "identifier": "miltank"
+    "identifier": "miltank",
+    "base_happiness": 70,
+    "capture_rate": 45,
+    "color": "PINK",
+    "egg_groups": [
+      "GROUND"
+    ]
   },
   {
     "id": 242,
-    "identifier": "blissey"
+    "identifier": "blissey",
+    "base_happiness": 140,
+    "capture_rate": 30,
+    "color": "PINK",
+    "egg_groups": [
+      "FAIRY"
+    ]
   },
   {
     "id": 243,
-    "identifier": "raikou"
+    "identifier": "raikou",
+    "base_happiness": 35,
+    "capture_rate": 3,
+    "color": "YELLOW",
+    "egg_groups": [
+      "NO_EGGS"
+    ]
   },
   {
     "id": 244,
-    "identifier": "entei"
+    "identifier": "entei",
+    "base_happiness": 35,
+    "capture_rate": 3,
+    "color": "BROWN",
+    "egg_groups": [
+      "NO_EGGS"
+    ]
   },
   {
     "id": 245,
-    "identifier": "suicune"
+    "identifier": "suicune",
+    "base_happiness": 35,
+    "capture_rate": 3,
+    "color": "BLUE",
+    "egg_groups": [
+      "NO_EGGS"
+    ]
   },
   {
     "id": 246,
-    "identifier": "larvitar"
+    "identifier": "larvitar",
+    "base_happiness": 35,
+    "capture_rate": 45,
+    "color": "GREEN",
+    "egg_groups": [
+      "MONSTER"
+    ]
   },
   {
     "id": 247,
-    "identifier": "pupitar"
+    "identifier": "pupitar",
+    "base_happiness": 35,
+    "capture_rate": 45,
+    "color": "GRAY",
+    "egg_groups": [
+      "MONSTER"
+    ]
   },
   {
     "id": 248,
-    "identifier": "tyranitar"
+    "identifier": "tyranitar",
+    "base_happiness": 35,
+    "capture_rate": 45,
+    "color": "GREEN",
+    "egg_groups": [
+      "MONSTER"
+    ]
   },
   {
     "id": 249,
-    "identifier": "lugia"
+    "identifier": "lugia",
+    "base_happiness": 0,
+    "capture_rate": 3,
+    "color": "WHITE",
+    "egg_groups": [
+      "NO_EGGS"
+    ]
   },
   {
     "id": 250,
-    "identifier": "ho-oh"
+    "identifier": "ho-oh",
+    "base_happiness": 0,
+    "capture_rate": 3,
+    "color": "RED",
+    "egg_groups": [
+      "NO_EGGS"
+    ]
   },
   {
     "id": 251,
-    "identifier": "celebi"
+    "identifier": "celebi",
+    "base_happiness": 100,
+    "capture_rate": 45,
+    "color": "GREEN",
+    "egg_groups": [
+      "NO_EGGS"
+    ]
   },
   {
     "id": 252,
-    "identifier": "treecko"
+    "identifier": "treecko",
+    "base_happiness": 70,
+    "capture_rate": 45,
+    "color": "GREEN",
+    "egg_groups": [
+      "MONSTER",
+      "DRAGON"
+    ]
   },
   {
     "id": 253,
-    "identifier": "grovyle"
+    "identifier": "grovyle",
+    "base_happiness": 70,
+    "capture_rate": 45,
+    "color": "GREEN",
+    "egg_groups": [
+      "MONSTER",
+      "DRAGON"
+    ]
   },
   {
     "id": 254,
-    "identifier": "sceptile"
+    "identifier": "sceptile",
+    "base_happiness": 70,
+    "capture_rate": 45,
+    "color": "GREEN",
+    "egg_groups": [
+      "MONSTER",
+      "DRAGON"
+    ]
   },
   {
     "id": 255,
-    "identifier": "torchic"
+    "identifier": "torchic",
+    "base_happiness": 70,
+    "capture_rate": 45,
+    "color": "RED",
+    "egg_groups": [
+      "GROUND"
+    ]
   },
   {
     "id": 256,
-    "identifier": "combusken"
+    "identifier": "combusken",
+    "base_happiness": 70,
+    "capture_rate": 45,
+    "color": "RED",
+    "egg_groups": [
+      "GROUND"
+    ]
   },
   {
     "id": 257,
-    "identifier": "blaziken"
+    "identifier": "blaziken",
+    "base_happiness": 70,
+    "capture_rate": 45,
+    "color": "RED",
+    "egg_groups": [
+      "GROUND"
+    ]
   },
   {
     "id": 258,
-    "identifier": "mudkip"
+    "identifier": "mudkip",
+    "base_happiness": 70,
+    "capture_rate": 45,
+    "color": "BLUE",
+    "egg_groups": [
+      "MONSTER",
+      "WATER1"
+    ]
   },
   {
     "id": 259,
-    "identifier": "marshtomp"
+    "identifier": "marshtomp",
+    "base_happiness": 70,
+    "capture_rate": 45,
+    "color": "BLUE",
+    "egg_groups": [
+      "MONSTER",
+      "WATER1"
+    ]
   },
   {
     "id": 260,
-    "identifier": "swampert"
+    "identifier": "swampert",
+    "base_happiness": 70,
+    "capture_rate": 45,
+    "color": "BLUE",
+    "egg_groups": [
+      "MONSTER",
+      "WATER1"
+    ]
   },
   {
     "id": 261,
-    "identifier": "poochyena"
+    "identifier": "poochyena",
+    "base_happiness": 70,
+    "capture_rate": 255,
+    "color": "GRAY",
+    "egg_groups": [
+      "GROUND"
+    ]
   },
   {
     "id": 262,
-    "identifier": "mightyena"
+    "identifier": "mightyena",
+    "base_happiness": 70,
+    "capture_rate": 127,
+    "color": "GRAY",
+    "egg_groups": [
+      "GROUND"
+    ]
   },
   {
     "id": 263,
-    "identifier": "zigzagoon"
+    "identifier": "zigzagoon",
+    "base_happiness": 70,
+    "capture_rate": 255,
+    "color": "BROWN",
+    "egg_groups": [
+      "GROUND"
+    ]
   },
   {
     "id": 264,
-    "identifier": "linoone"
+    "identifier": "linoone",
+    "base_happiness": 70,
+    "capture_rate": 90,
+    "color": "WHITE",
+    "egg_groups": [
+      "GROUND"
+    ]
   },
   {
     "id": 265,
-    "identifier": "wurmple"
+    "identifier": "wurmple",
+    "base_happiness": 70,
+    "capture_rate": 255,
+    "color": "RED",
+    "egg_groups": [
+      "BUG"
+    ]
   },
   {
     "id": 266,
-    "identifier": "silcoon"
+    "identifier": "silcoon",
+    "base_happiness": 70,
+    "capture_rate": 120,
+    "color": "WHITE",
+    "egg_groups": [
+      "BUG"
+    ]
   },
   {
     "id": 267,
-    "identifier": "beautifly"
+    "identifier": "beautifly",
+    "base_happiness": 70,
+    "capture_rate": 45,
+    "color": "YELLOW",
+    "egg_groups": [
+      "BUG"
+    ]
   },
   {
     "id": 268,
-    "identifier": "cascoon"
+    "identifier": "cascoon",
+    "base_happiness": 70,
+    "capture_rate": 120,
+    "color": "PURPLE",
+    "egg_groups": [
+      "BUG"
+    ]
   },
   {
     "id": 269,
-    "identifier": "dustox"
+    "identifier": "dustox",
+    "base_happiness": 70,
+    "capture_rate": 45,
+    "color": "GREEN",
+    "egg_groups": [
+      "BUG"
+    ]
   },
   {
     "id": 270,
-    "identifier": "lotad"
+    "identifier": "lotad",
+    "base_happiness": 70,
+    "capture_rate": 255,
+    "color": "GREEN",
+    "egg_groups": [
+      "WATER1",
+      "PLANT"
+    ]
   },
   {
     "id": 271,
-    "identifier": "lombre"
+    "identifier": "lombre",
+    "base_happiness": 70,
+    "capture_rate": 120,
+    "color": "GREEN",
+    "egg_groups": [
+      "WATER1",
+      "PLANT"
+    ]
   },
   {
     "id": 272,
-    "identifier": "ludicolo"
+    "identifier": "ludicolo",
+    "base_happiness": 70,
+    "capture_rate": 45,
+    "color": "GREEN",
+    "egg_groups": [
+      "WATER1",
+      "PLANT"
+    ]
   },
   {
     "id": 273,
-    "identifier": "seedot"
+    "identifier": "seedot",
+    "base_happiness": 70,
+    "capture_rate": 255,
+    "color": "BROWN",
+    "egg_groups": [
+      "GROUND",
+      "PLANT"
+    ]
   },
   {
     "id": 274,
-    "identifier": "nuzleaf"
+    "identifier": "nuzleaf",
+    "base_happiness": 70,
+    "capture_rate": 120,
+    "color": "BROWN",
+    "egg_groups": [
+      "GROUND",
+      "PLANT"
+    ]
   },
   {
     "id": 275,
-    "identifier": "shiftry"
+    "identifier": "shiftry",
+    "base_happiness": 70,
+    "capture_rate": 45,
+    "color": "BROWN",
+    "egg_groups": [
+      "GROUND",
+      "PLANT"
+    ]
   },
   {
     "id": 276,
-    "identifier": "taillow"
+    "identifier": "taillow",
+    "base_happiness": 70,
+    "capture_rate": 200,
+    "color": "BLUE",
+    "egg_groups": [
+      "FLYING"
+    ]
   },
   {
     "id": 277,
-    "identifier": "swellow"
+    "identifier": "swellow",
+    "base_happiness": 70,
+    "capture_rate": 45,
+    "color": "BLUE",
+    "egg_groups": [
+      "FLYING"
+    ]
   },
   {
     "id": 278,
-    "identifier": "wingull"
+    "identifier": "wingull",
+    "base_happiness": 70,
+    "capture_rate": 190,
+    "color": "WHITE",
+    "egg_groups": [
+      "WATER1",
+      "FLYING"
+    ]
   },
   {
     "id": 279,
-    "identifier": "pelipper"
+    "identifier": "pelipper",
+    "base_happiness": 70,
+    "capture_rate": 45,
+    "color": "YELLOW",
+    "egg_groups": [
+      "WATER1",
+      "FLYING"
+    ]
   },
   {
     "id": 280,
-    "identifier": "ralts"
+    "identifier": "ralts",
+    "base_happiness": 35,
+    "capture_rate": 235,
+    "color": "WHITE",
+    "egg_groups": [
+      "INDETERMINATE"
+    ]
   },
   {
     "id": 281,
-    "identifier": "kirlia"
+    "identifier": "kirlia",
+    "base_happiness": 35,
+    "capture_rate": 120,
+    "color": "WHITE",
+    "egg_groups": [
+      "INDETERMINATE"
+    ]
   },
   {
     "id": 282,
-    "identifier": "gardevoir"
+    "identifier": "gardevoir",
+    "base_happiness": 35,
+    "capture_rate": 45,
+    "color": "WHITE",
+    "egg_groups": [
+      "INDETERMINATE"
+    ]
   },
   {
     "id": 283,
-    "identifier": "surskit"
+    "identifier": "surskit",
+    "base_happiness": 70,
+    "capture_rate": 200,
+    "color": "BLUE",
+    "egg_groups": [
+      "WATER1",
+      "BUG"
+    ]
   },
   {
     "id": 284,
-    "identifier": "masquerain"
+    "identifier": "masquerain",
+    "base_happiness": 70,
+    "capture_rate": 75,
+    "color": "BLUE",
+    "egg_groups": [
+      "WATER1",
+      "BUG"
+    ]
   },
   {
     "id": 285,
-    "identifier": "shroomish"
+    "identifier": "shroomish",
+    "base_happiness": 70,
+    "capture_rate": 255,
+    "color": "BROWN",
+    "egg_groups": [
+      "FAIRY",
+      "PLANT"
+    ]
   },
   {
     "id": 286,
-    "identifier": "breloom"
+    "identifier": "breloom",
+    "base_happiness": 70,
+    "capture_rate": 90,
+    "color": "GREEN",
+    "egg_groups": [
+      "FAIRY",
+      "PLANT"
+    ]
   },
   {
     "id": 287,
-    "identifier": "slakoth"
+    "identifier": "slakoth",
+    "base_happiness": 70,
+    "capture_rate": 255,
+    "color": "BROWN",
+    "egg_groups": [
+      "GROUND"
+    ]
   },
   {
     "id": 288,
-    "identifier": "vigoroth"
+    "identifier": "vigoroth",
+    "base_happiness": 70,
+    "capture_rate": 120,
+    "color": "WHITE",
+    "egg_groups": [
+      "GROUND"
+    ]
   },
   {
     "id": 289,
-    "identifier": "slaking"
+    "identifier": "slaking",
+    "base_happiness": 70,
+    "capture_rate": 45,
+    "color": "BROWN",
+    "egg_groups": [
+      "GROUND"
+    ]
   },
   {
     "id": 290,
-    "identifier": "nincada"
+    "identifier": "nincada",
+    "base_happiness": 70,
+    "capture_rate": 255,
+    "color": "GRAY",
+    "egg_groups": [
+      "BUG"
+    ]
   },
   {
     "id": 291,
-    "identifier": "ninjask"
+    "identifier": "ninjask",
+    "base_happiness": 70,
+    "capture_rate": 120,
+    "color": "YELLOW",
+    "egg_groups": [
+      "BUG"
+    ]
   },
   {
     "id": 292,
-    "identifier": "shedinja"
+    "identifier": "shedinja",
+    "base_happiness": 70,
+    "capture_rate": 45,
+    "color": "BROWN",
+    "egg_groups": [
+      "MINERAL"
+    ]
   },
   {
     "id": 293,
-    "identifier": "whismur"
+    "identifier": "whismur",
+    "base_happiness": 70,
+    "capture_rate": 190,
+    "color": "PINK",
+    "egg_groups": [
+      "MONSTER",
+      "GROUND"
+    ]
   },
   {
     "id": 294,
-    "identifier": "loudred"
+    "identifier": "loudred",
+    "base_happiness": 70,
+    "capture_rate": 120,
+    "color": "BLUE",
+    "egg_groups": [
+      "MONSTER",
+      "GROUND"
+    ]
   },
   {
     "id": 295,
-    "identifier": "exploud"
+    "identifier": "exploud",
+    "base_happiness": 70,
+    "capture_rate": 45,
+    "color": "BLUE",
+    "egg_groups": [
+      "MONSTER",
+      "GROUND"
+    ]
   },
   {
     "id": 296,
-    "identifier": "makuhita"
+    "identifier": "makuhita",
+    "base_happiness": 70,
+    "capture_rate": 180,
+    "color": "YELLOW",
+    "egg_groups": [
+      "HUMANSHAPE"
+    ]
   },
   {
     "id": 297,
-    "identifier": "hariyama"
+    "identifier": "hariyama",
+    "base_happiness": 70,
+    "capture_rate": 200,
+    "color": "BROWN",
+    "egg_groups": [
+      "HUMANSHAPE"
+    ]
   },
   {
     "id": 298,
-    "identifier": "azurill"
+    "identifier": "azurill",
+    "base_happiness": 70,
+    "capture_rate": 150,
+    "color": "BLUE",
+    "egg_groups": [
+      "NO_EGGS"
+    ]
   },
   {
     "id": 299,
-    "identifier": "nosepass"
+    "identifier": "nosepass",
+    "base_happiness": 70,
+    "capture_rate": 255,
+    "color": "GRAY",
+    "egg_groups": [
+      "MINERAL"
+    ]
   },
   {
     "id": 300,
-    "identifier": "skitty"
+    "identifier": "skitty",
+    "base_happiness": 70,
+    "capture_rate": 255,
+    "color": "PINK",
+    "egg_groups": [
+      "GROUND",
+      "FAIRY"
+    ]
   },
   {
     "id": 301,
-    "identifier": "delcatty"
+    "identifier": "delcatty",
+    "base_happiness": 70,
+    "capture_rate": 60,
+    "color": "PURPLE",
+    "egg_groups": [
+      "GROUND",
+      "FAIRY"
+    ]
   },
   {
     "id": 302,
-    "identifier": "sableye"
+    "identifier": "sableye",
+    "base_happiness": 35,
+    "capture_rate": 45,
+    "color": "PURPLE",
+    "egg_groups": [
+      "HUMANSHAPE"
+    ]
   },
   {
     "id": 303,
-    "identifier": "mawile"
+    "identifier": "mawile",
+    "base_happiness": 70,
+    "capture_rate": 45,
+    "color": "BLACK",
+    "egg_groups": [
+      "GROUND",
+      "FAIRY"
+    ]
   },
   {
     "id": 304,
-    "identifier": "aron"
+    "identifier": "aron",
+    "base_happiness": 35,
+    "capture_rate": 180,
+    "color": "GRAY",
+    "egg_groups": [
+      "MONSTER"
+    ]
   },
   {
     "id": 305,
-    "identifier": "lairon"
+    "identifier": "lairon",
+    "base_happiness": 35,
+    "capture_rate": 90,
+    "color": "GRAY",
+    "egg_groups": [
+      "MONSTER"
+    ]
   },
   {
     "id": 306,
-    "identifier": "aggron"
+    "identifier": "aggron",
+    "base_happiness": 35,
+    "capture_rate": 45,
+    "color": "GRAY",
+    "egg_groups": [
+      "MONSTER"
+    ]
   },
   {
     "id": 307,
-    "identifier": "meditite"
+    "identifier": "meditite",
+    "base_happiness": 70,
+    "capture_rate": 180,
+    "color": "BLUE",
+    "egg_groups": [
+      "HUMANSHAPE"
+    ]
   },
   {
     "id": 308,
-    "identifier": "medicham"
+    "identifier": "medicham",
+    "base_happiness": 70,
+    "capture_rate": 90,
+    "color": "RED",
+    "egg_groups": [
+      "HUMANSHAPE"
+    ]
   },
   {
     "id": 309,
-    "identifier": "electrike"
+    "identifier": "electrike",
+    "base_happiness": 70,
+    "capture_rate": 120,
+    "color": "GREEN",
+    "egg_groups": [
+      "GROUND"
+    ]
   },
   {
     "id": 310,
-    "identifier": "manectric"
+    "identifier": "manectric",
+    "base_happiness": 70,
+    "capture_rate": 45,
+    "color": "YELLOW",
+    "egg_groups": [
+      "GROUND"
+    ]
   },
   {
     "id": 311,
-    "identifier": "plusle"
+    "identifier": "plusle",
+    "base_happiness": 70,
+    "capture_rate": 200,
+    "color": "YELLOW",
+    "egg_groups": [
+      "FAIRY"
+    ]
   },
   {
     "id": 312,
-    "identifier": "minun"
+    "identifier": "minun",
+    "base_happiness": 70,
+    "capture_rate": 200,
+    "color": "YELLOW",
+    "egg_groups": [
+      "FAIRY"
+    ]
   },
   {
     "id": 313,
-    "identifier": "volbeat"
+    "identifier": "volbeat",
+    "base_happiness": 70,
+    "capture_rate": 150,
+    "color": "GRAY",
+    "egg_groups": [
+      "BUG",
+      "HUMANSHAPE"
+    ]
   },
   {
     "id": 314,
-    "identifier": "illumise"
+    "identifier": "illumise",
+    "base_happiness": 70,
+    "capture_rate": 150,
+    "color": "PURPLE",
+    "egg_groups": [
+      "BUG",
+      "HUMANSHAPE"
+    ]
   },
   {
     "id": 315,
-    "identifier": "roselia"
+    "identifier": "roselia",
+    "base_happiness": 70,
+    "capture_rate": 150,
+    "color": "GREEN",
+    "egg_groups": [
+      "FAIRY",
+      "PLANT"
+    ]
   },
   {
     "id": 316,
-    "identifier": "gulpin"
+    "identifier": "gulpin",
+    "base_happiness": 70,
+    "capture_rate": 225,
+    "color": "GREEN",
+    "egg_groups": [
+      "INDETERMINATE"
+    ]
   },
   {
     "id": 317,
-    "identifier": "swalot"
+    "identifier": "swalot",
+    "base_happiness": 70,
+    "capture_rate": 75,
+    "color": "PURPLE",
+    "egg_groups": [
+      "INDETERMINATE"
+    ]
   },
   {
     "id": 318,
-    "identifier": "carvanha"
+    "identifier": "carvanha",
+    "base_happiness": 35,
+    "capture_rate": 225,
+    "color": "RED",
+    "egg_groups": [
+      "WATER2"
+    ]
   },
   {
     "id": 319,
-    "identifier": "sharpedo"
+    "identifier": "sharpedo",
+    "base_happiness": 35,
+    "capture_rate": 60,
+    "color": "BLUE",
+    "egg_groups": [
+      "WATER2"
+    ]
   },
   {
     "id": 320,
-    "identifier": "wailmer"
+    "identifier": "wailmer",
+    "base_happiness": 70,
+    "capture_rate": 125,
+    "color": "BLUE",
+    "egg_groups": [
+      "GROUND",
+      "WATER2"
+    ]
   },
   {
     "id": 321,
-    "identifier": "wailord"
+    "identifier": "wailord",
+    "base_happiness": 70,
+    "capture_rate": 60,
+    "color": "BLUE",
+    "egg_groups": [
+      "GROUND",
+      "WATER2"
+    ]
   },
   {
     "id": 322,
-    "identifier": "numel"
+    "identifier": "numel",
+    "base_happiness": 70,
+    "capture_rate": 255,
+    "color": "YELLOW",
+    "egg_groups": [
+      "GROUND"
+    ]
   },
   {
     "id": 323,
-    "identifier": "camerupt"
+    "identifier": "camerupt",
+    "base_happiness": 70,
+    "capture_rate": 150,
+    "color": "RED",
+    "egg_groups": [
+      "GROUND"
+    ]
   },
   {
     "id": 324,
-    "identifier": "torkoal"
+    "identifier": "torkoal",
+    "base_happiness": 70,
+    "capture_rate": 90,
+    "color": "BROWN",
+    "egg_groups": [
+      "GROUND"
+    ]
   },
   {
     "id": 325,
-    "identifier": "spoink"
+    "identifier": "spoink",
+    "base_happiness": 70,
+    "capture_rate": 255,
+    "color": "BLACK",
+    "egg_groups": [
+      "GROUND"
+    ]
   },
   {
     "id": 326,
-    "identifier": "grumpig"
+    "identifier": "grumpig",
+    "base_happiness": 70,
+    "capture_rate": 60,
+    "color": "PURPLE",
+    "egg_groups": [
+      "GROUND"
+    ]
   },
   {
     "id": 327,
-    "identifier": "spinda"
+    "identifier": "spinda",
+    "base_happiness": 70,
+    "capture_rate": 255,
+    "color": "BROWN",
+    "egg_groups": [
+      "GROUND",
+      "HUMANSHAPE"
+    ]
   },
   {
     "id": 328,
-    "identifier": "trapinch"
+    "identifier": "trapinch",
+    "base_happiness": 70,
+    "capture_rate": 255,
+    "color": "BROWN",
+    "egg_groups": [
+      "BUG"
+    ]
   },
   {
     "id": 329,
-    "identifier": "vibrava"
+    "identifier": "vibrava",
+    "base_happiness": 70,
+    "capture_rate": 120,
+    "color": "GREEN",
+    "egg_groups": [
+      "BUG"
+    ]
   },
   {
     "id": 330,
-    "identifier": "flygon"
+    "identifier": "flygon",
+    "base_happiness": 70,
+    "capture_rate": 45,
+    "color": "GREEN",
+    "egg_groups": [
+      "BUG"
+    ]
   },
   {
     "id": 331,
-    "identifier": "cacnea"
+    "identifier": "cacnea",
+    "base_happiness": 35,
+    "capture_rate": 190,
+    "color": "GREEN",
+    "egg_groups": [
+      "PLANT",
+      "HUMANSHAPE"
+    ]
   },
   {
     "id": 332,
-    "identifier": "cacturne"
+    "identifier": "cacturne",
+    "base_happiness": 35,
+    "capture_rate": 60,
+    "color": "GREEN",
+    "egg_groups": [
+      "PLANT",
+      "HUMANSHAPE"
+    ]
   },
   {
     "id": 333,
-    "identifier": "swablu"
+    "identifier": "swablu",
+    "base_happiness": 70,
+    "capture_rate": 255,
+    "color": "BLUE",
+    "egg_groups": [
+      "FLYING",
+      "DRAGON"
+    ]
   },
   {
     "id": 334,
-    "identifier": "altaria"
+    "identifier": "altaria",
+    "base_happiness": 70,
+    "capture_rate": 45,
+    "color": "BLUE",
+    "egg_groups": [
+      "FLYING",
+      "DRAGON"
+    ]
   },
   {
     "id": 335,
-    "identifier": "zangoose"
+    "identifier": "zangoose",
+    "base_happiness": 70,
+    "capture_rate": 90,
+    "color": "WHITE",
+    "egg_groups": [
+      "GROUND"
+    ]
   },
   {
     "id": 336,
-    "identifier": "seviper"
+    "identifier": "seviper",
+    "base_happiness": 70,
+    "capture_rate": 90,
+    "color": "BLACK",
+    "egg_groups": [
+      "GROUND",
+      "DRAGON"
+    ]
   },
   {
     "id": 337,
-    "identifier": "lunatone"
+    "identifier": "lunatone",
+    "base_happiness": 70,
+    "capture_rate": 45,
+    "color": "YELLOW",
+    "egg_groups": [
+      "MINERAL"
+    ]
   },
   {
     "id": 338,
-    "identifier": "solrock"
+    "identifier": "solrock",
+    "base_happiness": 70,
+    "capture_rate": 45,
+    "color": "RED",
+    "egg_groups": [
+      "MINERAL"
+    ]
   },
   {
     "id": 339,
-    "identifier": "barboach"
+    "identifier": "barboach",
+    "base_happiness": 70,
+    "capture_rate": 190,
+    "color": "GRAY",
+    "egg_groups": [
+      "WATER2"
+    ]
   },
   {
     "id": 340,
-    "identifier": "whiscash"
+    "identifier": "whiscash",
+    "base_happiness": 70,
+    "capture_rate": 75,
+    "color": "BLUE",
+    "egg_groups": [
+      "WATER2"
+    ]
   },
   {
     "id": 341,
-    "identifier": "corphish"
+    "identifier": "corphish",
+    "base_happiness": 70,
+    "capture_rate": 205,
+    "color": "RED",
+    "egg_groups": [
+      "WATER1",
+      "WATER3"
+    ]
   },
   {
     "id": 342,
-    "identifier": "crawdaunt"
+    "identifier": "crawdaunt",
+    "base_happiness": 70,
+    "capture_rate": 155,
+    "color": "RED",
+    "egg_groups": [
+      "WATER1",
+      "WATER3"
+    ]
   },
   {
     "id": 343,
-    "identifier": "baltoy"
+    "identifier": "baltoy",
+    "base_happiness": 70,
+    "capture_rate": 255,
+    "color": "BROWN",
+    "egg_groups": [
+      "MINERAL"
+    ]
   },
   {
     "id": 344,
-    "identifier": "claydol"
+    "identifier": "claydol",
+    "base_happiness": 70,
+    "capture_rate": 90,
+    "color": "BLACK",
+    "egg_groups": [
+      "MINERAL"
+    ]
   },
   {
     "id": 345,
-    "identifier": "lileep"
+    "identifier": "lileep",
+    "base_happiness": 70,
+    "capture_rate": 45,
+    "color": "PURPLE",
+    "egg_groups": [
+      "WATER3"
+    ]
   },
   {
     "id": 346,
-    "identifier": "cradily"
+    "identifier": "cradily",
+    "base_happiness": 70,
+    "capture_rate": 45,
+    "color": "GREEN",
+    "egg_groups": [
+      "WATER3"
+    ]
   },
   {
     "id": 347,
-    "identifier": "anorith"
+    "identifier": "anorith",
+    "base_happiness": 70,
+    "capture_rate": 45,
+    "color": "GRAY",
+    "egg_groups": [
+      "WATER3"
+    ]
   },
   {
     "id": 348,
-    "identifier": "armaldo"
+    "identifier": "armaldo",
+    "base_happiness": 70,
+    "capture_rate": 45,
+    "color": "GRAY",
+    "egg_groups": [
+      "WATER3"
+    ]
   },
   {
     "id": 349,
-    "identifier": "feebas"
+    "identifier": "feebas",
+    "base_happiness": 70,
+    "capture_rate": 255,
+    "color": "BROWN",
+    "egg_groups": [
+      "WATER1",
+      "DRAGON"
+    ]
   },
   {
     "id": 350,
-    "identifier": "milotic"
+    "identifier": "milotic",
+    "base_happiness": 70,
+    "capture_rate": 60,
+    "color": "PINK",
+    "egg_groups": [
+      "WATER1",
+      "DRAGON"
+    ]
   },
   {
     "id": 351,
-    "identifier": "castform"
+    "identifier": "castform",
+    "base_happiness": 70,
+    "capture_rate": 45,
+    "color": "GRAY",
+    "egg_groups": [
+      "FAIRY",
+      "INDETERMINATE"
+    ]
   },
   {
     "id": 352,
-    "identifier": "kecleon"
+    "identifier": "kecleon",
+    "base_happiness": 70,
+    "capture_rate": 200,
+    "color": "GREEN",
+    "egg_groups": [
+      "GROUND"
+    ]
   },
   {
     "id": 353,
-    "identifier": "shuppet"
+    "identifier": "shuppet",
+    "base_happiness": 35,
+    "capture_rate": 225,
+    "color": "BLACK",
+    "egg_groups": [
+      "INDETERMINATE"
+    ]
   },
   {
     "id": 354,
-    "identifier": "banette"
+    "identifier": "banette",
+    "base_happiness": 35,
+    "capture_rate": 45,
+    "color": "BLACK",
+    "egg_groups": [
+      "INDETERMINATE"
+    ]
   },
   {
     "id": 355,
-    "identifier": "duskull"
+    "identifier": "duskull",
+    "base_happiness": 35,
+    "capture_rate": 190,
+    "color": "BLACK",
+    "egg_groups": [
+      "INDETERMINATE"
+    ]
   },
   {
     "id": 356,
-    "identifier": "dusclops"
+    "identifier": "dusclops",
+    "base_happiness": 35,
+    "capture_rate": 90,
+    "color": "BLACK",
+    "egg_groups": [
+      "INDETERMINATE"
+    ]
   },
   {
     "id": 357,
-    "identifier": "tropius"
+    "identifier": "tropius",
+    "base_happiness": 70,
+    "capture_rate": 200,
+    "color": "GREEN",
+    "egg_groups": [
+      "MONSTER",
+      "PLANT"
+    ]
   },
   {
     "id": 358,
-    "identifier": "chimecho"
+    "identifier": "chimecho",
+    "base_happiness": 70,
+    "capture_rate": 45,
+    "color": "BLUE",
+    "egg_groups": [
+      "INDETERMINATE"
+    ]
   },
   {
     "id": 359,
-    "identifier": "absol"
+    "identifier": "absol",
+    "base_happiness": 35,
+    "capture_rate": 30,
+    "color": "WHITE",
+    "egg_groups": [
+      "GROUND"
+    ]
   },
   {
     "id": 360,
-    "identifier": "wynaut"
+    "identifier": "wynaut",
+    "base_happiness": 70,
+    "capture_rate": 125,
+    "color": "BLUE",
+    "egg_groups": [
+      "NO_EGGS"
+    ]
   },
   {
     "id": 361,
-    "identifier": "snorunt"
+    "identifier": "snorunt",
+    "base_happiness": 70,
+    "capture_rate": 190,
+    "color": "GRAY",
+    "egg_groups": [
+      "FAIRY",
+      "MINERAL"
+    ]
   },
   {
     "id": 362,
-    "identifier": "glalie"
+    "identifier": "glalie",
+    "base_happiness": 70,
+    "capture_rate": 75,
+    "color": "GRAY",
+    "egg_groups": [
+      "FAIRY",
+      "MINERAL"
+    ]
   },
   {
     "id": 363,
-    "identifier": "spheal"
+    "identifier": "spheal",
+    "base_happiness": 70,
+    "capture_rate": 255,
+    "color": "BLUE",
+    "egg_groups": [
+      "WATER1",
+      "GROUND"
+    ]
   },
   {
     "id": 364,
-    "identifier": "sealeo"
+    "identifier": "sealeo",
+    "base_happiness": 70,
+    "capture_rate": 120,
+    "color": "BLUE",
+    "egg_groups": [
+      "WATER1",
+      "GROUND"
+    ]
   },
   {
     "id": 365,
-    "identifier": "walrein"
+    "identifier": "walrein",
+    "base_happiness": 70,
+    "capture_rate": 45,
+    "color": "BLUE",
+    "egg_groups": [
+      "WATER1",
+      "GROUND"
+    ]
   },
   {
     "id": 366,
-    "identifier": "clamperl"
+    "identifier": "clamperl",
+    "base_happiness": 70,
+    "capture_rate": 255,
+    "color": "BLUE",
+    "egg_groups": [
+      "WATER1"
+    ]
   },
   {
     "id": 367,
-    "identifier": "huntail"
+    "identifier": "huntail",
+    "base_happiness": 70,
+    "capture_rate": 60,
+    "color": "BLUE",
+    "egg_groups": [
+      "WATER1"
+    ]
   },
   {
     "id": 368,
-    "identifier": "gorebyss"
+    "identifier": "gorebyss",
+    "base_happiness": 70,
+    "capture_rate": 60,
+    "color": "PINK",
+    "egg_groups": [
+      "WATER1"
+    ]
   },
   {
     "id": 369,
-    "identifier": "relicanth"
+    "identifier": "relicanth",
+    "base_happiness": 70,
+    "capture_rate": 25,
+    "color": "GRAY",
+    "egg_groups": [
+      "WATER1",
+      "WATER2"
+    ]
   },
   {
     "id": 370,
-    "identifier": "luvdisc"
+    "identifier": "luvdisc",
+    "base_happiness": 70,
+    "capture_rate": 225,
+    "color": "PINK",
+    "egg_groups": [
+      "WATER2"
+    ]
   },
   {
     "id": 371,
-    "identifier": "bagon"
+    "identifier": "bagon",
+    "base_happiness": 35,
+    "capture_rate": 45,
+    "color": "BLUE",
+    "egg_groups": [
+      "DRAGON"
+    ]
   },
   {
     "id": 372,
-    "identifier": "shelgon"
+    "identifier": "shelgon",
+    "base_happiness": 35,
+    "capture_rate": 45,
+    "color": "WHITE",
+    "egg_groups": [
+      "DRAGON"
+    ]
   },
   {
     "id": 373,
-    "identifier": "salamence"
+    "identifier": "salamence",
+    "base_happiness": 35,
+    "capture_rate": 45,
+    "color": "BLUE",
+    "egg_groups": [
+      "DRAGON"
+    ]
   },
   {
     "id": 374,
-    "identifier": "beldum"
+    "identifier": "beldum",
+    "base_happiness": 35,
+    "capture_rate": 3,
+    "color": "BLUE",
+    "egg_groups": [
+      "MINERAL"
+    ]
   },
   {
     "id": 375,
-    "identifier": "metang"
+    "identifier": "metang",
+    "base_happiness": 35,
+    "capture_rate": 3,
+    "color": "BLUE",
+    "egg_groups": [
+      "MINERAL"
+    ]
   },
   {
     "id": 376,
-    "identifier": "metagross"
+    "identifier": "metagross",
+    "base_happiness": 35,
+    "capture_rate": 3,
+    "color": "BLUE",
+    "egg_groups": [
+      "MINERAL"
+    ]
   },
   {
     "id": 377,
-    "identifier": "regirock"
+    "identifier": "regirock",
+    "base_happiness": 35,
+    "capture_rate": 3,
+    "color": "BROWN",
+    "egg_groups": [
+      "NO_EGGS"
+    ]
   },
   {
     "id": 378,
-    "identifier": "regice"
+    "identifier": "regice",
+    "base_happiness": 35,
+    "capture_rate": 3,
+    "color": "BLUE",
+    "egg_groups": [
+      "NO_EGGS"
+    ]
   },
   {
     "id": 379,
-    "identifier": "registeel"
+    "identifier": "registeel",
+    "base_happiness": 35,
+    "capture_rate": 3,
+    "color": "GRAY",
+    "egg_groups": [
+      "NO_EGGS"
+    ]
   },
   {
     "id": 380,
-    "identifier": "latias"
+    "identifier": "latias",
+    "base_happiness": 90,
+    "capture_rate": 3,
+    "color": "RED",
+    "egg_groups": [
+      "NO_EGGS"
+    ]
   },
   {
     "id": 381,
-    "identifier": "latios"
+    "identifier": "latios",
+    "base_happiness": 90,
+    "capture_rate": 3,
+    "color": "BLUE",
+    "egg_groups": [
+      "NO_EGGS"
+    ]
   },
   {
     "id": 382,
-    "identifier": "kyogre"
+    "identifier": "kyogre",
+    "base_happiness": 0,
+    "capture_rate": 3,
+    "color": "BLUE",
+    "egg_groups": [
+      "NO_EGGS"
+    ]
   },
   {
     "id": 383,
-    "identifier": "groudon"
+    "identifier": "groudon",
+    "base_happiness": 0,
+    "capture_rate": 3,
+    "color": "RED",
+    "egg_groups": [
+      "NO_EGGS"
+    ]
   },
   {
     "id": 384,
-    "identifier": "rayquaza"
+    "identifier": "rayquaza",
+    "base_happiness": 0,
+    "capture_rate": 45,
+    "color": "GREEN",
+    "egg_groups": [
+      "NO_EGGS"
+    ]
   },
   {
     "id": 385,
-    "identifier": "jirachi"
+    "identifier": "jirachi",
+    "base_happiness": 100,
+    "capture_rate": 3,
+    "color": "YELLOW",
+    "egg_groups": [
+      "NO_EGGS"
+    ]
   },
   {
     "id": 386,
-    "identifier": "deoxys"
+    "identifier": "deoxys",
+    "base_happiness": 0,
+    "capture_rate": 3,
+    "color": "RED",
+    "egg_groups": [
+      "NO_EGGS"
+    ]
   },
   {
     "id": 387,
-    "identifier": "turtwig"
+    "identifier": "turtwig",
+    "base_happiness": 70,
+    "capture_rate": 45,
+    "color": "GREEN",
+    "egg_groups": [
+      "MONSTER",
+      "PLANT"
+    ]
   },
   {
     "id": 388,
-    "identifier": "grotle"
+    "identifier": "grotle",
+    "base_happiness": 70,
+    "capture_rate": 45,
+    "color": "GREEN",
+    "egg_groups": [
+      "MONSTER",
+      "PLANT"
+    ]
   },
   {
     "id": 389,
-    "identifier": "torterra"
+    "identifier": "torterra",
+    "base_happiness": 70,
+    "capture_rate": 45,
+    "color": "GREEN",
+    "egg_groups": [
+      "MONSTER",
+      "PLANT"
+    ]
   },
   {
     "id": 390,
-    "identifier": "chimchar"
+    "identifier": "chimchar",
+    "base_happiness": 70,
+    "capture_rate": 45,
+    "color": "BROWN",
+    "egg_groups": [
+      "GROUND",
+      "HUMANSHAPE"
+    ]
   },
   {
     "id": 391,
-    "identifier": "monferno"
+    "identifier": "monferno",
+    "base_happiness": 70,
+    "capture_rate": 45,
+    "color": "BROWN",
+    "egg_groups": [
+      "GROUND",
+      "HUMANSHAPE"
+    ]
   },
   {
     "id": 392,
-    "identifier": "infernape"
+    "identifier": "infernape",
+    "base_happiness": 70,
+    "capture_rate": 45,
+    "color": "BROWN",
+    "egg_groups": [
+      "GROUND",
+      "HUMANSHAPE"
+    ]
   },
   {
     "id": 393,
-    "identifier": "piplup"
+    "identifier": "piplup",
+    "base_happiness": 70,
+    "capture_rate": 45,
+    "color": "BLUE",
+    "egg_groups": [
+      "WATER1",
+      "GROUND"
+    ]
   },
   {
     "id": 394,
-    "identifier": "prinplup"
+    "identifier": "prinplup",
+    "base_happiness": 70,
+    "capture_rate": 45,
+    "color": "BLUE",
+    "egg_groups": [
+      "WATER1",
+      "GROUND"
+    ]
   },
   {
     "id": 395,
-    "identifier": "empoleon"
+    "identifier": "empoleon",
+    "base_happiness": 70,
+    "capture_rate": 45,
+    "color": "BLUE",
+    "egg_groups": [
+      "WATER1",
+      "GROUND"
+    ]
   },
   {
     "id": 396,
-    "identifier": "starly"
+    "identifier": "starly",
+    "base_happiness": 70,
+    "capture_rate": 255,
+    "color": "BROWN",
+    "egg_groups": [
+      "FLYING"
+    ]
   },
   {
     "id": 397,
-    "identifier": "staravia"
+    "identifier": "staravia",
+    "base_happiness": 70,
+    "capture_rate": 120,
+    "color": "BROWN",
+    "egg_groups": [
+      "FLYING"
+    ]
   },
   {
     "id": 398,
-    "identifier": "staraptor"
+    "identifier": "staraptor",
+    "base_happiness": 70,
+    "capture_rate": 45,
+    "color": "BROWN",
+    "egg_groups": [
+      "FLYING"
+    ]
   },
   {
     "id": 399,
-    "identifier": "bidoof"
+    "identifier": "bidoof",
+    "base_happiness": 70,
+    "capture_rate": 255,
+    "color": "BROWN",
+    "egg_groups": [
+      "WATER1",
+      "GROUND"
+    ]
   },
   {
     "id": 400,
-    "identifier": "bibarel"
+    "identifier": "bibarel",
+    "base_happiness": 70,
+    "capture_rate": 127,
+    "color": "BROWN",
+    "egg_groups": [
+      "WATER1",
+      "GROUND"
+    ]
   },
   {
     "id": 401,
-    "identifier": "kricketot"
+    "identifier": "kricketot",
+    "base_happiness": 70,
+    "capture_rate": 255,
+    "color": "RED",
+    "egg_groups": [
+      "BUG"
+    ]
   },
   {
     "id": 402,
-    "identifier": "kricketune"
+    "identifier": "kricketune",
+    "base_happiness": 70,
+    "capture_rate": 45,
+    "color": "RED",
+    "egg_groups": [
+      "BUG"
+    ]
   },
   {
     "id": 403,
-    "identifier": "shinx"
+    "identifier": "shinx",
+    "base_happiness": 70,
+    "capture_rate": 235,
+    "color": "BLUE",
+    "egg_groups": [
+      "GROUND"
+    ]
   },
   {
     "id": 404,
-    "identifier": "luxio"
+    "identifier": "luxio",
+    "base_happiness": 100,
+    "capture_rate": 120,
+    "color": "BLUE",
+    "egg_groups": [
+      "GROUND"
+    ]
   },
   {
     "id": 405,
-    "identifier": "luxray"
+    "identifier": "luxray",
+    "base_happiness": 70,
+    "capture_rate": 45,
+    "color": "BLUE",
+    "egg_groups": [
+      "GROUND"
+    ]
   },
   {
     "id": 406,
-    "identifier": "budew"
+    "identifier": "budew",
+    "base_happiness": 70,
+    "capture_rate": 255,
+    "color": "GREEN",
+    "egg_groups": [
+      "NO_EGGS"
+    ]
   },
   {
     "id": 407,
-    "identifier": "roserade"
+    "identifier": "roserade",
+    "base_happiness": 70,
+    "capture_rate": 75,
+    "color": "GREEN",
+    "egg_groups": [
+      "FAIRY",
+      "PLANT"
+    ]
   },
   {
     "id": 408,
-    "identifier": "cranidos"
+    "identifier": "cranidos",
+    "base_happiness": 70,
+    "capture_rate": 45,
+    "color": "BLUE",
+    "egg_groups": [
+      "MONSTER"
+    ]
   },
   {
     "id": 409,
-    "identifier": "rampardos"
+    "identifier": "rampardos",
+    "base_happiness": 70,
+    "capture_rate": 45,
+    "color": "BLUE",
+    "egg_groups": [
+      "MONSTER"
+    ]
   },
   {
     "id": 410,
-    "identifier": "shieldon"
+    "identifier": "shieldon",
+    "base_happiness": 70,
+    "capture_rate": 45,
+    "color": "GRAY",
+    "egg_groups": [
+      "MONSTER"
+    ]
   },
   {
     "id": 411,
-    "identifier": "bastiodon"
+    "identifier": "bastiodon",
+    "base_happiness": 70,
+    "capture_rate": 45,
+    "color": "GRAY",
+    "egg_groups": [
+      "MONSTER"
+    ]
   },
   {
     "id": 412,
-    "identifier": "burmy"
+    "identifier": "burmy",
+    "base_happiness": 70,
+    "capture_rate": 120,
+    "color": "GREEN",
+    "egg_groups": [
+      "BUG"
+    ]
   },
   {
     "id": 413,
-    "identifier": "wormadam"
+    "identifier": "wormadam",
+    "base_happiness": 70,
+    "capture_rate": 45,
+    "color": "GREEN",
+    "egg_groups": [
+      "BUG"
+    ]
   },
   {
     "id": 414,
-    "identifier": "mothim"
+    "identifier": "mothim",
+    "base_happiness": 70,
+    "capture_rate": 45,
+    "color": "YELLOW",
+    "egg_groups": [
+      "BUG"
+    ]
   },
   {
     "id": 415,
-    "identifier": "combee"
+    "identifier": "combee",
+    "base_happiness": 70,
+    "capture_rate": 120,
+    "color": "YELLOW",
+    "egg_groups": [
+      "BUG"
+    ]
   },
   {
     "id": 416,
-    "identifier": "vespiquen"
+    "identifier": "vespiquen",
+    "base_happiness": 70,
+    "capture_rate": 45,
+    "color": "YELLOW",
+    "egg_groups": [
+      "BUG"
+    ]
   },
   {
     "id": 417,
-    "identifier": "pachirisu"
+    "identifier": "pachirisu",
+    "base_happiness": 100,
+    "capture_rate": 200,
+    "color": "WHITE",
+    "egg_groups": [
+      "GROUND",
+      "FAIRY"
+    ]
   },
   {
     "id": 418,
-    "identifier": "buizel"
+    "identifier": "buizel",
+    "base_happiness": 70,
+    "capture_rate": 190,
+    "color": "BROWN",
+    "egg_groups": [
+      "WATER1",
+      "GROUND"
+    ]
   },
   {
     "id": 419,
-    "identifier": "floatzel"
+    "identifier": "floatzel",
+    "base_happiness": 70,
+    "capture_rate": 75,
+    "color": "BROWN",
+    "egg_groups": [
+      "WATER1",
+      "GROUND"
+    ]
   },
   {
     "id": 420,
-    "identifier": "cherubi"
+    "identifier": "cherubi",
+    "base_happiness": 70,
+    "capture_rate": 190,
+    "color": "PINK",
+    "egg_groups": [
+      "FAIRY",
+      "PLANT"
+    ]
   },
   {
     "id": 421,
-    "identifier": "cherrim"
+    "identifier": "cherrim",
+    "base_happiness": 70,
+    "capture_rate": 75,
+    "color": "PURPLE",
+    "egg_groups": [
+      "FAIRY",
+      "PLANT"
+    ]
   },
   {
     "id": 422,
-    "identifier": "shellos"
+    "identifier": "shellos",
+    "base_happiness": 70,
+    "capture_rate": 190,
+    "color": "PURPLE",
+    "egg_groups": [
+      "WATER1",
+      "INDETERMINATE"
+    ]
   },
   {
     "id": 423,
-    "identifier": "gastrodon"
+    "identifier": "gastrodon",
+    "base_happiness": 70,
+    "capture_rate": 75,
+    "color": "PURPLE",
+    "egg_groups": [
+      "WATER1",
+      "INDETERMINATE"
+    ]
   },
   {
     "id": 424,
-    "identifier": "ambipom"
+    "identifier": "ambipom",
+    "base_happiness": 100,
+    "capture_rate": 45,
+    "color": "PURPLE",
+    "egg_groups": [
+      "GROUND"
+    ]
   },
   {
     "id": 425,
-    "identifier": "drifloon"
+    "identifier": "drifloon",
+    "base_happiness": 70,
+    "capture_rate": 125,
+    "color": "PURPLE",
+    "egg_groups": [
+      "INDETERMINATE"
+    ]
   },
   {
     "id": 426,
-    "identifier": "drifblim"
+    "identifier": "drifblim",
+    "base_happiness": 70,
+    "capture_rate": 60,
+    "color": "PURPLE",
+    "egg_groups": [
+      "INDETERMINATE"
+    ]
   },
   {
     "id": 427,
-    "identifier": "buneary"
+    "identifier": "buneary",
+    "base_happiness": 0,
+    "capture_rate": 190,
+    "color": "BROWN",
+    "egg_groups": [
+      "GROUND",
+      "HUMANSHAPE"
+    ]
   },
   {
     "id": 428,
-    "identifier": "lopunny"
+    "identifier": "lopunny",
+    "base_happiness": 140,
+    "capture_rate": 60,
+    "color": "BROWN",
+    "egg_groups": [
+      "GROUND",
+      "HUMANSHAPE"
+    ]
   },
   {
     "id": 429,
-    "identifier": "mismagius"
+    "identifier": "mismagius",
+    "base_happiness": 35,
+    "capture_rate": 45,
+    "color": "PURPLE",
+    "egg_groups": [
+      "INDETERMINATE"
+    ]
   },
   {
     "id": 430,
-    "identifier": "honchkrow"
+    "identifier": "honchkrow",
+    "base_happiness": 35,
+    "capture_rate": 30,
+    "color": "BLACK",
+    "egg_groups": [
+      "FLYING"
+    ]
   },
   {
     "id": 431,
-    "identifier": "glameow"
+    "identifier": "glameow",
+    "base_happiness": 70,
+    "capture_rate": 190,
+    "color": "GRAY",
+    "egg_groups": [
+      "GROUND"
+    ]
   },
   {
     "id": 432,
-    "identifier": "purugly"
+    "identifier": "purugly",
+    "base_happiness": 70,
+    "capture_rate": 75,
+    "color": "GRAY",
+    "egg_groups": [
+      "GROUND"
+    ]
   },
   {
     "id": 433,
-    "identifier": "chingling"
+    "identifier": "chingling",
+    "base_happiness": 70,
+    "capture_rate": 120,
+    "color": "YELLOW",
+    "egg_groups": [
+      "NO_EGGS"
+    ]
   },
   {
     "id": 434,
-    "identifier": "stunky"
+    "identifier": "stunky",
+    "base_happiness": 70,
+    "capture_rate": 225,
+    "color": "PURPLE",
+    "egg_groups": [
+      "GROUND"
+    ]
   },
   {
     "id": 435,
-    "identifier": "skuntank"
+    "identifier": "skuntank",
+    "base_happiness": 70,
+    "capture_rate": 60,
+    "color": "PURPLE",
+    "egg_groups": [
+      "GROUND"
+    ]
   },
   {
     "id": 436,
-    "identifier": "bronzor"
+    "identifier": "bronzor",
+    "base_happiness": 70,
+    "capture_rate": 255,
+    "color": "GREEN",
+    "egg_groups": [
+      "MINERAL"
+    ]
   },
   {
     "id": 437,
-    "identifier": "bronzong"
+    "identifier": "bronzong",
+    "base_happiness": 70,
+    "capture_rate": 90,
+    "color": "GREEN",
+    "egg_groups": [
+      "MINERAL"
+    ]
   },
   {
     "id": 438,
-    "identifier": "bonsly"
+    "identifier": "bonsly",
+    "base_happiness": 70,
+    "capture_rate": 255,
+    "color": "BROWN",
+    "egg_groups": [
+      "NO_EGGS"
+    ]
   },
   {
     "id": 439,
-    "identifier": "mime-jr"
+    "identifier": "mime-jr",
+    "base_happiness": 70,
+    "capture_rate": 145,
+    "color": "PINK",
+    "egg_groups": [
+      "NO_EGGS"
+    ]
   },
   {
     "id": 440,
-    "identifier": "happiny"
+    "identifier": "happiny",
+    "base_happiness": 140,
+    "capture_rate": 130,
+    "color": "PINK",
+    "egg_groups": [
+      "NO_EGGS"
+    ]
   },
   {
     "id": 441,
-    "identifier": "chatot"
+    "identifier": "chatot",
+    "base_happiness": 35,
+    "capture_rate": 30,
+    "color": "BLACK",
+    "egg_groups": [
+      "FLYING"
+    ]
   },
   {
     "id": 442,
-    "identifier": "spiritomb"
+    "identifier": "spiritomb",
+    "base_happiness": 70,
+    "capture_rate": 100,
+    "color": "PURPLE",
+    "egg_groups": [
+      "INDETERMINATE"
+    ]
   },
   {
     "id": 443,
-    "identifier": "gible"
+    "identifier": "gible",
+    "base_happiness": 70,
+    "capture_rate": 45,
+    "color": "BLUE",
+    "egg_groups": [
+      "MONSTER",
+      "DRAGON"
+    ]
   },
   {
     "id": 444,
-    "identifier": "gabite"
+    "identifier": "gabite",
+    "base_happiness": 70,
+    "capture_rate": 45,
+    "color": "BLUE",
+    "egg_groups": [
+      "MONSTER",
+      "DRAGON"
+    ]
   },
   {
     "id": 445,
-    "identifier": "garchomp"
+    "identifier": "garchomp",
+    "base_happiness": 70,
+    "capture_rate": 45,
+    "color": "BLUE",
+    "egg_groups": [
+      "MONSTER",
+      "DRAGON"
+    ]
   },
   {
     "id": 446,
-    "identifier": "munchlax"
+    "identifier": "munchlax",
+    "base_happiness": 70,
+    "capture_rate": 50,
+    "color": "BLACK",
+    "egg_groups": [
+      "NO_EGGS"
+    ]
   },
   {
     "id": 447,
-    "identifier": "riolu"
+    "identifier": "riolu",
+    "base_happiness": 70,
+    "capture_rate": 75,
+    "color": "BLUE",
+    "egg_groups": [
+      "NO_EGGS"
+    ]
   },
   {
     "id": 448,
-    "identifier": "lucario"
+    "identifier": "lucario",
+    "base_happiness": 70,
+    "capture_rate": 45,
+    "color": "BLUE",
+    "egg_groups": [
+      "GROUND",
+      "HUMANSHAPE"
+    ]
   },
   {
     "id": 449,
-    "identifier": "hippopotas"
+    "identifier": "hippopotas",
+    "base_happiness": 70,
+    "capture_rate": 140,
+    "color": "BROWN",
+    "egg_groups": [
+      "GROUND"
+    ]
   },
   {
     "id": 450,
-    "identifier": "hippowdon"
+    "identifier": "hippowdon",
+    "base_happiness": 70,
+    "capture_rate": 60,
+    "color": "BROWN",
+    "egg_groups": [
+      "GROUND"
+    ]
   },
   {
     "id": 451,
-    "identifier": "skorupi"
+    "identifier": "skorupi",
+    "base_happiness": 70,
+    "capture_rate": 120,
+    "color": "PURPLE",
+    "egg_groups": [
+      "BUG",
+      "WATER3"
+    ]
   },
   {
     "id": 452,
-    "identifier": "drapion"
+    "identifier": "drapion",
+    "base_happiness": 70,
+    "capture_rate": 45,
+    "color": "PURPLE",
+    "egg_groups": [
+      "BUG",
+      "WATER3"
+    ]
   },
   {
     "id": 453,
-    "identifier": "croagunk"
+    "identifier": "croagunk",
+    "base_happiness": 100,
+    "capture_rate": 140,
+    "color": "BLUE",
+    "egg_groups": [
+      "HUMANSHAPE"
+    ]
   },
   {
     "id": 454,
-    "identifier": "toxicroak"
+    "identifier": "toxicroak",
+    "base_happiness": 70,
+    "capture_rate": 75,
+    "color": "BLUE",
+    "egg_groups": [
+      "HUMANSHAPE"
+    ]
   },
   {
     "id": 455,
-    "identifier": "carnivine"
+    "identifier": "carnivine",
+    "base_happiness": 70,
+    "capture_rate": 200,
+    "color": "GREEN",
+    "egg_groups": [
+      "PLANT"
+    ]
   },
   {
     "id": 456,
-    "identifier": "finneon"
+    "identifier": "finneon",
+    "base_happiness": 70,
+    "capture_rate": 190,
+    "color": "BLUE",
+    "egg_groups": [
+      "WATER2"
+    ]
   },
   {
     "id": 457,
-    "identifier": "lumineon"
+    "identifier": "lumineon",
+    "base_happiness": 70,
+    "capture_rate": 75,
+    "color": "BLUE",
+    "egg_groups": [
+      "WATER2"
+    ]
   },
   {
     "id": 458,
-    "identifier": "mantyke"
+    "identifier": "mantyke",
+    "base_happiness": 70,
+    "capture_rate": 25,
+    "color": "BLUE",
+    "egg_groups": [
+      "NO_EGGS"
+    ]
   },
   {
     "id": 459,
-    "identifier": "snover"
+    "identifier": "snover",
+    "base_happiness": 70,
+    "capture_rate": 120,
+    "color": "WHITE",
+    "egg_groups": [
+      "MONSTER",
+      "PLANT"
+    ]
   },
   {
     "id": 460,
-    "identifier": "abomasnow"
+    "identifier": "abomasnow",
+    "base_happiness": 70,
+    "capture_rate": 60,
+    "color": "WHITE",
+    "egg_groups": [
+      "MONSTER",
+      "PLANT"
+    ]
   },
   {
     "id": 461,
-    "identifier": "weavile"
+    "identifier": "weavile",
+    "base_happiness": 35,
+    "capture_rate": 45,
+    "color": "BLACK",
+    "egg_groups": [
+      "GROUND"
+    ]
   },
   {
     "id": 462,
-    "identifier": "magnezone"
+    "identifier": "magnezone",
+    "base_happiness": 70,
+    "capture_rate": 30,
+    "color": "GRAY",
+    "egg_groups": [
+      "MINERAL"
+    ]
   },
   {
     "id": 463,
-    "identifier": "lickilicky"
+    "identifier": "lickilicky",
+    "base_happiness": 70,
+    "capture_rate": 30,
+    "color": "PINK",
+    "egg_groups": [
+      "MONSTER"
+    ]
   },
   {
     "id": 464,
-    "identifier": "rhyperior"
+    "identifier": "rhyperior",
+    "base_happiness": 70,
+    "capture_rate": 30,
+    "color": "GRAY",
+    "egg_groups": [
+      "MONSTER",
+      "GROUND"
+    ]
   },
   {
     "id": 465,
-    "identifier": "tangrowth"
+    "identifier": "tangrowth",
+    "base_happiness": 70,
+    "capture_rate": 30,
+    "color": "BLUE",
+    "egg_groups": [
+      "PLANT"
+    ]
   },
   {
     "id": 466,
-    "identifier": "electivire"
+    "identifier": "electivire",
+    "base_happiness": 70,
+    "capture_rate": 30,
+    "color": "YELLOW",
+    "egg_groups": [
+      "HUMANSHAPE"
+    ]
   },
   {
     "id": 467,
-    "identifier": "magmortar"
+    "identifier": "magmortar",
+    "base_happiness": 70,
+    "capture_rate": 30,
+    "color": "RED",
+    "egg_groups": [
+      "HUMANSHAPE"
+    ]
   },
   {
     "id": 468,
-    "identifier": "togekiss"
+    "identifier": "togekiss",
+    "base_happiness": 70,
+    "capture_rate": 30,
+    "color": "WHITE",
+    "egg_groups": [
+      "FLYING",
+      "FAIRY"
+    ]
   },
   {
     "id": 469,
-    "identifier": "yanmega"
+    "identifier": "yanmega",
+    "base_happiness": 70,
+    "capture_rate": 30,
+    "color": "GREEN",
+    "egg_groups": [
+      "BUG"
+    ]
   },
   {
     "id": 470,
-    "identifier": "leafeon"
+    "identifier": "leafeon",
+    "base_happiness": 35,
+    "capture_rate": 45,
+    "color": "GREEN",
+    "egg_groups": [
+      "GROUND"
+    ]
   },
   {
     "id": 471,
-    "identifier": "glaceon"
+    "identifier": "glaceon",
+    "base_happiness": 35,
+    "capture_rate": 45,
+    "color": "BLUE",
+    "egg_groups": [
+      "GROUND"
+    ]
   },
   {
     "id": 472,
-    "identifier": "gliscor"
+    "identifier": "gliscor",
+    "base_happiness": 70,
+    "capture_rate": 30,
+    "color": "PURPLE",
+    "egg_groups": [
+      "BUG"
+    ]
   },
   {
     "id": 473,
-    "identifier": "mamoswine"
+    "identifier": "mamoswine",
+    "base_happiness": 70,
+    "capture_rate": 50,
+    "color": "BROWN",
+    "egg_groups": [
+      "GROUND"
+    ]
   },
   {
     "id": 474,
-    "identifier": "porygon-z"
+    "identifier": "porygon-z",
+    "base_happiness": 70,
+    "capture_rate": 30,
+    "color": "RED",
+    "egg_groups": [
+      "MINERAL"
+    ]
   },
   {
     "id": 475,
-    "identifier": "gallade"
+    "identifier": "gallade",
+    "base_happiness": 35,
+    "capture_rate": 45,
+    "color": "WHITE",
+    "egg_groups": [
+      "INDETERMINATE"
+    ]
   },
   {
     "id": 476,
-    "identifier": "probopass"
+    "identifier": "probopass",
+    "base_happiness": 70,
+    "capture_rate": 60,
+    "color": "GRAY",
+    "egg_groups": [
+      "MINERAL"
+    ]
   },
   {
     "id": 477,
-    "identifier": "dusknoir"
+    "identifier": "dusknoir",
+    "base_happiness": 35,
+    "capture_rate": 45,
+    "color": "BLACK",
+    "egg_groups": [
+      "INDETERMINATE"
+    ]
   },
   {
     "id": 478,
-    "identifier": "froslass"
+    "identifier": "froslass",
+    "base_happiness": 70,
+    "capture_rate": 75,
+    "color": "WHITE",
+    "egg_groups": [
+      "FAIRY",
+      "MINERAL"
+    ]
   },
   {
     "id": 479,
-    "identifier": "rotom"
+    "identifier": "rotom",
+    "base_happiness": 70,
+    "capture_rate": 45,
+    "color": "RED",
+    "egg_groups": [
+      "INDETERMINATE"
+    ]
   },
   {
     "id": 480,
-    "identifier": "uxie"
+    "identifier": "uxie",
+    "base_happiness": 140,
+    "capture_rate": 3,
+    "color": "YELLOW",
+    "egg_groups": [
+      "NO_EGGS"
+    ]
   },
   {
     "id": 481,
-    "identifier": "mesprit"
+    "identifier": "mesprit",
+    "base_happiness": 140,
+    "capture_rate": 3,
+    "color": "PINK",
+    "egg_groups": [
+      "NO_EGGS"
+    ]
   },
   {
     "id": 482,
-    "identifier": "azelf"
+    "identifier": "azelf",
+    "base_happiness": 140,
+    "capture_rate": 3,
+    "color": "BLUE",
+    "egg_groups": [
+      "NO_EGGS"
+    ]
   },
   {
     "id": 483,
-    "identifier": "dialga"
+    "identifier": "dialga",
+    "base_happiness": 0,
+    "capture_rate": 3,
+    "color": "WHITE",
+    "egg_groups": [
+      "NO_EGGS"
+    ]
   },
   {
     "id": 484,
-    "identifier": "palkia"
+    "identifier": "palkia",
+    "base_happiness": 0,
+    "capture_rate": 3,
+    "color": "PURPLE",
+    "egg_groups": [
+      "NO_EGGS"
+    ]
   },
   {
     "id": 485,
-    "identifier": "heatran"
+    "identifier": "heatran",
+    "base_happiness": 100,
+    "capture_rate": 3,
+    "color": "BROWN",
+    "egg_groups": [
+      "NO_EGGS"
+    ]
   },
   {
     "id": 486,
-    "identifier": "regigigas"
+    "identifier": "regigigas",
+    "base_happiness": 0,
+    "capture_rate": 3,
+    "color": "WHITE",
+    "egg_groups": [
+      "NO_EGGS"
+    ]
   },
   {
     "id": 487,
-    "identifier": "giratina"
+    "identifier": "giratina",
+    "base_happiness": 0,
+    "capture_rate": 3,
+    "color": "BLACK",
+    "egg_groups": [
+      "NO_EGGS"
+    ]
   },
   {
     "id": 488,
-    "identifier": "cresselia"
+    "identifier": "cresselia",
+    "base_happiness": 100,
+    "capture_rate": 3,
+    "color": "YELLOW",
+    "egg_groups": [
+      "NO_EGGS"
+    ]
   },
   {
     "id": 489,
-    "identifier": "phione"
+    "identifier": "phione",
+    "base_happiness": 70,
+    "capture_rate": 30,
+    "color": "BLUE",
+    "egg_groups": [
+      "WATER1",
+      "FAIRY"
+    ]
   },
   {
     "id": 490,
-    "identifier": "manaphy"
+    "identifier": "manaphy",
+    "base_happiness": 70,
+    "capture_rate": 3,
+    "color": "BLUE",
+    "egg_groups": [
+      "WATER1",
+      "FAIRY"
+    ]
   },
   {
     "id": 491,
-    "identifier": "darkrai"
+    "identifier": "darkrai",
+    "base_happiness": 0,
+    "capture_rate": 3,
+    "color": "BLACK",
+    "egg_groups": [
+      "NO_EGGS"
+    ]
   },
   {
     "id": 492,
-    "identifier": "shaymin"
+    "identifier": "shaymin",
+    "base_happiness": 100,
+    "capture_rate": 45,
+    "color": "GREEN",
+    "egg_groups": [
+      "NO_EGGS"
+    ]
   },
   {
     "id": 493,
-    "identifier": "arceus"
+    "identifier": "arceus",
+    "base_happiness": 0,
+    "capture_rate": 3,
+    "color": "WHITE",
+    "egg_groups": [
+      "NO_EGGS"
+    ]
   },
   {
     "id": 494,
-    "identifier": "victini"
+    "identifier": "victini",
+    "base_happiness": 100,
+    "capture_rate": 3,
+    "color": "YELLOW",
+    "egg_groups": [
+      "NO_EGGS"
+    ]
   },
   {
     "id": 495,
-    "identifier": "snivy"
+    "identifier": "snivy",
+    "base_happiness": 70,
+    "capture_rate": 45,
+    "color": "GREEN",
+    "egg_groups": [
+      "GROUND",
+      "PLANT"
+    ]
   },
   {
     "id": 496,
-    "identifier": "servine"
+    "identifier": "servine",
+    "base_happiness": 70,
+    "capture_rate": 45,
+    "color": "GREEN",
+    "egg_groups": [
+      "GROUND",
+      "PLANT"
+    ]
   },
   {
     "id": 497,
-    "identifier": "serperior"
+    "identifier": "serperior",
+    "base_happiness": 70,
+    "capture_rate": 45,
+    "color": "GREEN",
+    "egg_groups": [
+      "GROUND",
+      "PLANT"
+    ]
   },
   {
     "id": 498,
-    "identifier": "tepig"
+    "identifier": "tepig",
+    "base_happiness": 70,
+    "capture_rate": 45,
+    "color": "RED",
+    "egg_groups": [
+      "GROUND"
+    ]
   },
   {
     "id": 499,
-    "identifier": "pignite"
+    "identifier": "pignite",
+    "base_happiness": 70,
+    "capture_rate": 45,
+    "color": "RED",
+    "egg_groups": [
+      "GROUND"
+    ]
   },
   {
     "id": 500,
-    "identifier": "emboar"
+    "identifier": "emboar",
+    "base_happiness": 70,
+    "capture_rate": 45,
+    "color": "RED",
+    "egg_groups": [
+      "GROUND"
+    ]
   },
   {
     "id": 501,
-    "identifier": "oshawott"
+    "identifier": "oshawott",
+    "base_happiness": 70,
+    "capture_rate": 45,
+    "color": "BLUE",
+    "egg_groups": [
+      "GROUND"
+    ]
   },
   {
     "id": 502,
-    "identifier": "dewott"
+    "identifier": "dewott",
+    "base_happiness": 70,
+    "capture_rate": 45,
+    "color": "BLUE",
+    "egg_groups": [
+      "GROUND"
+    ]
   },
   {
     "id": 503,
-    "identifier": "samurott"
+    "identifier": "samurott",
+    "base_happiness": 70,
+    "capture_rate": 45,
+    "color": "BLUE",
+    "egg_groups": [
+      "GROUND"
+    ]
   },
   {
     "id": 504,
-    "identifier": "patrat"
+    "identifier": "patrat",
+    "base_happiness": 70,
+    "capture_rate": 255,
+    "color": "BROWN",
+    "egg_groups": [
+      "GROUND"
+    ]
   },
   {
     "id": 505,
-    "identifier": "watchog"
+    "identifier": "watchog",
+    "base_happiness": 70,
+    "capture_rate": 255,
+    "color": "BROWN",
+    "egg_groups": [
+      "GROUND"
+    ]
   },
   {
     "id": 506,
-    "identifier": "lillipup"
+    "identifier": "lillipup",
+    "base_happiness": 70,
+    "capture_rate": 255,
+    "color": "BROWN",
+    "egg_groups": [
+      "GROUND"
+    ]
   },
   {
     "id": 507,
-    "identifier": "herdier"
+    "identifier": "herdier",
+    "base_happiness": 70,
+    "capture_rate": 120,
+    "color": "GRAY",
+    "egg_groups": [
+      "GROUND"
+    ]
   },
   {
     "id": 508,
-    "identifier": "stoutland"
+    "identifier": "stoutland",
+    "base_happiness": 70,
+    "capture_rate": 45,
+    "color": "GRAY",
+    "egg_groups": [
+      "GROUND"
+    ]
   },
   {
     "id": 509,
-    "identifier": "purrloin"
+    "identifier": "purrloin",
+    "base_happiness": 70,
+    "capture_rate": 255,
+    "color": "PURPLE",
+    "egg_groups": [
+      "GROUND"
+    ]
   },
   {
     "id": 510,
-    "identifier": "liepard"
+    "identifier": "liepard",
+    "base_happiness": 70,
+    "capture_rate": 90,
+    "color": "PURPLE",
+    "egg_groups": [
+      "GROUND"
+    ]
   },
   {
     "id": 511,
-    "identifier": "pansage"
+    "identifier": "pansage",
+    "base_happiness": 70,
+    "capture_rate": 190,
+    "color": "GREEN",
+    "egg_groups": [
+      "GROUND"
+    ]
   },
   {
     "id": 512,
-    "identifier": "simisage"
+    "identifier": "simisage",
+    "base_happiness": 70,
+    "capture_rate": 75,
+    "color": "GREEN",
+    "egg_groups": [
+      "GROUND"
+    ]
   },
   {
     "id": 513,
-    "identifier": "pansear"
+    "identifier": "pansear",
+    "base_happiness": 70,
+    "capture_rate": 190,
+    "color": "RED",
+    "egg_groups": [
+      "GROUND"
+    ]
   },
   {
     "id": 514,
-    "identifier": "simisear"
+    "identifier": "simisear",
+    "base_happiness": 70,
+    "capture_rate": 75,
+    "color": "RED",
+    "egg_groups": [
+      "GROUND"
+    ]
   },
   {
     "id": 515,
-    "identifier": "panpour"
+    "identifier": "panpour",
+    "base_happiness": 70,
+    "capture_rate": 190,
+    "color": "BLUE",
+    "egg_groups": [
+      "GROUND"
+    ]
   },
   {
     "id": 516,
-    "identifier": "simipour"
+    "identifier": "simipour",
+    "base_happiness": 70,
+    "capture_rate": 75,
+    "color": "BLUE",
+    "egg_groups": [
+      "GROUND"
+    ]
   },
   {
     "id": 517,
-    "identifier": "munna"
+    "identifier": "munna",
+    "base_happiness": 70,
+    "capture_rate": 190,
+    "color": "PINK",
+    "egg_groups": [
+      "GROUND"
+    ]
   },
   {
     "id": 518,
-    "identifier": "musharna"
+    "identifier": "musharna",
+    "base_happiness": 70,
+    "capture_rate": 75,
+    "color": "PINK",
+    "egg_groups": [
+      "GROUND"
+    ]
   },
   {
     "id": 519,
-    "identifier": "pidove"
+    "identifier": "pidove",
+    "base_happiness": 70,
+    "capture_rate": 255,
+    "color": "GRAY",
+    "egg_groups": [
+      "FLYING"
+    ]
   },
   {
     "id": 520,
-    "identifier": "tranquill"
+    "identifier": "tranquill",
+    "base_happiness": 70,
+    "capture_rate": 120,
+    "color": "GRAY",
+    "egg_groups": [
+      "FLYING"
+    ]
   },
   {
     "id": 521,
-    "identifier": "unfezant"
+    "identifier": "unfezant",
+    "base_happiness": 70,
+    "capture_rate": 45,
+    "color": "GRAY",
+    "egg_groups": [
+      "FLYING"
+    ]
   },
   {
     "id": 522,
-    "identifier": "blitzle"
+    "identifier": "blitzle",
+    "base_happiness": 70,
+    "capture_rate": 190,
+    "color": "BLACK",
+    "egg_groups": [
+      "GROUND"
+    ]
   },
   {
     "id": 523,
-    "identifier": "zebstrika"
+    "identifier": "zebstrika",
+    "base_happiness": 70,
+    "capture_rate": 75,
+    "color": "BLACK",
+    "egg_groups": [
+      "GROUND"
+    ]
   },
   {
     "id": 524,
-    "identifier": "roggenrola"
+    "identifier": "roggenrola",
+    "base_happiness": 70,
+    "capture_rate": 255,
+    "color": "BLUE",
+    "egg_groups": [
+      "MINERAL"
+    ]
   },
   {
     "id": 525,
-    "identifier": "boldore"
+    "identifier": "boldore",
+    "base_happiness": 70,
+    "capture_rate": 120,
+    "color": "BLUE",
+    "egg_groups": [
+      "MINERAL"
+    ]
   },
   {
     "id": 526,
-    "identifier": "gigalith"
+    "identifier": "gigalith",
+    "base_happiness": 70,
+    "capture_rate": 45,
+    "color": "BLUE",
+    "egg_groups": [
+      "MINERAL"
+    ]
   },
   {
     "id": 527,
-    "identifier": "woobat"
+    "identifier": "woobat",
+    "base_happiness": 70,
+    "capture_rate": 190,
+    "color": "BLUE",
+    "egg_groups": [
+      "FLYING",
+      "GROUND"
+    ]
   },
   {
     "id": 528,
-    "identifier": "swoobat"
+    "identifier": "swoobat",
+    "base_happiness": 70,
+    "capture_rate": 45,
+    "color": "BLUE",
+    "egg_groups": [
+      "FLYING",
+      "GROUND"
+    ]
   },
   {
     "id": 529,
-    "identifier": "drilbur"
+    "identifier": "drilbur",
+    "base_happiness": 70,
+    "capture_rate": 120,
+    "color": "GRAY",
+    "egg_groups": [
+      "GROUND"
+    ]
   },
   {
     "id": 530,
-    "identifier": "excadrill"
+    "identifier": "excadrill",
+    "base_happiness": 70,
+    "capture_rate": 60,
+    "color": "GRAY",
+    "egg_groups": [
+      "GROUND"
+    ]
   },
   {
     "id": 531,
-    "identifier": "audino"
+    "identifier": "audino",
+    "base_happiness": 70,
+    "capture_rate": 255,
+    "color": "PINK",
+    "egg_groups": [
+      "FAIRY"
+    ]
   },
   {
     "id": 532,
-    "identifier": "timburr"
+    "identifier": "timburr",
+    "base_happiness": 70,
+    "capture_rate": 180,
+    "color": "GRAY",
+    "egg_groups": [
+      "HUMANSHAPE"
+    ]
   },
   {
     "id": 533,
-    "identifier": "gurdurr"
+    "identifier": "gurdurr",
+    "base_happiness": 70,
+    "capture_rate": 90,
+    "color": "GRAY",
+    "egg_groups": [
+      "HUMANSHAPE"
+    ]
   },
   {
     "id": 534,
-    "identifier": "conkeldurr"
+    "identifier": "conkeldurr",
+    "base_happiness": 70,
+    "capture_rate": 45,
+    "color": "BROWN",
+    "egg_groups": [
+      "HUMANSHAPE"
+    ]
   },
   {
     "id": 535,
-    "identifier": "tympole"
+    "identifier": "tympole",
+    "base_happiness": 70,
+    "capture_rate": 255,
+    "color": "BLUE",
+    "egg_groups": [
+      "WATER1"
+    ]
   },
   {
     "id": 536,
-    "identifier": "palpitoad"
+    "identifier": "palpitoad",
+    "base_happiness": 70,
+    "capture_rate": 120,
+    "color": "BLUE",
+    "egg_groups": [
+      "WATER1"
+    ]
   },
   {
     "id": 537,
-    "identifier": "seismitoad"
+    "identifier": "seismitoad",
+    "base_happiness": 70,
+    "capture_rate": 45,
+    "color": "BLUE",
+    "egg_groups": [
+      "WATER1"
+    ]
   },
   {
     "id": 538,
-    "identifier": "throh"
+    "identifier": "throh",
+    "base_happiness": 70,
+    "capture_rate": 45,
+    "color": "RED",
+    "egg_groups": [
+      "HUMANSHAPE"
+    ]
   },
   {
     "id": 539,
-    "identifier": "sawk"
+    "identifier": "sawk",
+    "base_happiness": 70,
+    "capture_rate": 45,
+    "color": "BLUE",
+    "egg_groups": [
+      "HUMANSHAPE"
+    ]
   },
   {
     "id": 540,
-    "identifier": "sewaddle"
+    "identifier": "sewaddle",
+    "base_happiness": 70,
+    "capture_rate": 255,
+    "color": "YELLOW",
+    "egg_groups": [
+      "BUG"
+    ]
   },
   {
     "id": 541,
-    "identifier": "swadloon"
+    "identifier": "swadloon",
+    "base_happiness": 70,
+    "capture_rate": 120,
+    "color": "GREEN",
+    "egg_groups": [
+      "BUG"
+    ]
   },
   {
     "id": 542,
-    "identifier": "leavanny"
+    "identifier": "leavanny",
+    "base_happiness": 70,
+    "capture_rate": 45,
+    "color": "YELLOW",
+    "egg_groups": [
+      "BUG"
+    ]
   },
   {
     "id": 543,
-    "identifier": "venipede"
+    "identifier": "venipede",
+    "base_happiness": 70,
+    "capture_rate": 255,
+    "color": "RED",
+    "egg_groups": [
+      "BUG"
+    ]
   },
   {
     "id": 544,
-    "identifier": "whirlipede"
+    "identifier": "whirlipede",
+    "base_happiness": 70,
+    "capture_rate": 120,
+    "color": "GRAY",
+    "egg_groups": [
+      "BUG"
+    ]
   },
   {
     "id": 545,
-    "identifier": "scolipede"
+    "identifier": "scolipede",
+    "base_happiness": 70,
+    "capture_rate": 45,
+    "color": "RED",
+    "egg_groups": [
+      "BUG"
+    ]
   },
   {
     "id": 546,
-    "identifier": "cottonee"
+    "identifier": "cottonee",
+    "base_happiness": 70,
+    "capture_rate": 190,
+    "color": "GREEN",
+    "egg_groups": [
+      "FAIRY",
+      "PLANT"
+    ]
   },
   {
     "id": 547,
-    "identifier": "whimsicott"
+    "identifier": "whimsicott",
+    "base_happiness": 70,
+    "capture_rate": 75,
+    "color": "GREEN",
+    "egg_groups": [
+      "FAIRY",
+      "PLANT"
+    ]
   },
   {
     "id": 548,
-    "identifier": "petilil"
+    "identifier": "petilil",
+    "base_happiness": 70,
+    "capture_rate": 190,
+    "color": "GREEN",
+    "egg_groups": [
+      "PLANT"
+    ]
   },
   {
     "id": 549,
-    "identifier": "lilligant"
+    "identifier": "lilligant",
+    "base_happiness": 70,
+    "capture_rate": 75,
+    "color": "GREEN",
+    "egg_groups": [
+      "PLANT"
+    ]
   },
   {
     "id": 550,
-    "identifier": "basculin"
+    "identifier": "basculin",
+    "base_happiness": 70,
+    "capture_rate": 25,
+    "color": "GREEN",
+    "egg_groups": [
+      "WATER2"
+    ]
   },
   {
     "id": 551,
-    "identifier": "sandile"
+    "identifier": "sandile",
+    "base_happiness": 70,
+    "capture_rate": 180,
+    "color": "BROWN",
+    "egg_groups": [
+      "GROUND"
+    ]
   },
   {
     "id": 552,
-    "identifier": "krokorok"
+    "identifier": "krokorok",
+    "base_happiness": 70,
+    "capture_rate": 90,
+    "color": "BROWN",
+    "egg_groups": [
+      "GROUND"
+    ]
   },
   {
     "id": 553,
-    "identifier": "krookodile"
+    "identifier": "krookodile",
+    "base_happiness": 70,
+    "capture_rate": 45,
+    "color": "RED",
+    "egg_groups": [
+      "GROUND"
+    ]
   },
   {
     "id": 554,
-    "identifier": "darumaka"
+    "identifier": "darumaka",
+    "base_happiness": 70,
+    "capture_rate": 120,
+    "color": "RED",
+    "egg_groups": [
+      "GROUND"
+    ]
   },
   {
     "id": 555,
-    "identifier": "darmanitan"
+    "identifier": "darmanitan",
+    "base_happiness": 70,
+    "capture_rate": 60,
+    "color": "RED",
+    "egg_groups": [
+      "GROUND"
+    ]
   },
   {
     "id": 556,
-    "identifier": "maractus"
+    "identifier": "maractus",
+    "base_happiness": 70,
+    "capture_rate": 255,
+    "color": "GREEN",
+    "egg_groups": [
+      "PLANT"
+    ]
   },
   {
     "id": 557,
-    "identifier": "dwebble"
+    "identifier": "dwebble",
+    "base_happiness": 70,
+    "capture_rate": 190,
+    "color": "RED",
+    "egg_groups": [
+      "BUG",
+      "MINERAL"
+    ]
   },
   {
     "id": 558,
-    "identifier": "crustle"
+    "identifier": "crustle",
+    "base_happiness": 70,
+    "capture_rate": 75,
+    "color": "RED",
+    "egg_groups": [
+      "BUG",
+      "MINERAL"
+    ]
   },
   {
     "id": 559,
-    "identifier": "scraggy"
+    "identifier": "scraggy",
+    "base_happiness": 35,
+    "capture_rate": 180,
+    "color": "YELLOW",
+    "egg_groups": [
+      "GROUND",
+      "DRAGON"
+    ]
   },
   {
     "id": 560,
-    "identifier": "scrafty"
+    "identifier": "scrafty",
+    "base_happiness": 70,
+    "capture_rate": 90,
+    "color": "RED",
+    "egg_groups": [
+      "GROUND",
+      "DRAGON"
+    ]
   },
   {
     "id": 561,
-    "identifier": "sigilyph"
+    "identifier": "sigilyph",
+    "base_happiness": 70,
+    "capture_rate": 45,
+    "color": "BLACK",
+    "egg_groups": [
+      "FLYING"
+    ]
   },
   {
     "id": 562,
-    "identifier": "yamask"
+    "identifier": "yamask",
+    "base_happiness": 70,
+    "capture_rate": 190,
+    "color": "BLACK",
+    "egg_groups": [
+      "MINERAL",
+      "INDETERMINATE"
+    ]
   },
   {
     "id": 563,
-    "identifier": "cofagrigus"
+    "identifier": "cofagrigus",
+    "base_happiness": 70,
+    "capture_rate": 90,
+    "color": "YELLOW",
+    "egg_groups": [
+      "MINERAL",
+      "INDETERMINATE"
+    ]
   },
   {
     "id": 564,
-    "identifier": "tirtouga"
+    "identifier": "tirtouga",
+    "base_happiness": 70,
+    "capture_rate": 45,
+    "color": "BLUE",
+    "egg_groups": [
+      "WATER1",
+      "WATER3"
+    ]
   },
   {
     "id": 565,
-    "identifier": "carracosta"
+    "identifier": "carracosta",
+    "base_happiness": 70,
+    "capture_rate": 45,
+    "color": "BLUE",
+    "egg_groups": [
+      "WATER1",
+      "WATER3"
+    ]
   },
   {
     "id": 566,
-    "identifier": "archen"
+    "identifier": "archen",
+    "base_happiness": 70,
+    "capture_rate": 45,
+    "color": "YELLOW",
+    "egg_groups": [
+      "FLYING",
+      "WATER3"
+    ]
   },
   {
     "id": 567,
-    "identifier": "archeops"
+    "identifier": "archeops",
+    "base_happiness": 70,
+    "capture_rate": 45,
+    "color": "YELLOW",
+    "egg_groups": [
+      "FLYING",
+      "WATER3"
+    ]
   },
   {
     "id": 568,
-    "identifier": "trubbish"
+    "identifier": "trubbish",
+    "base_happiness": 70,
+    "capture_rate": 190,
+    "color": "GREEN",
+    "egg_groups": [
+      "MINERAL"
+    ]
   },
   {
     "id": 569,
-    "identifier": "garbodor"
+    "identifier": "garbodor",
+    "base_happiness": 70,
+    "capture_rate": 60,
+    "color": "GREEN",
+    "egg_groups": [
+      "MINERAL"
+    ]
   },
   {
     "id": 570,
-    "identifier": "zorua"
+    "identifier": "zorua",
+    "base_happiness": 70,
+    "capture_rate": 75,
+    "color": "GRAY",
+    "egg_groups": [
+      "GROUND"
+    ]
   },
   {
     "id": 571,
-    "identifier": "zoroark"
+    "identifier": "zoroark",
+    "base_happiness": 70,
+    "capture_rate": 45,
+    "color": "GRAY",
+    "egg_groups": [
+      "GROUND"
+    ]
   },
   {
     "id": 572,
-    "identifier": "minccino"
+    "identifier": "minccino",
+    "base_happiness": 70,
+    "capture_rate": 255,
+    "color": "GRAY",
+    "egg_groups": [
+      "GROUND"
+    ]
   },
   {
     "id": 573,
-    "identifier": "cinccino"
+    "identifier": "cinccino",
+    "base_happiness": 70,
+    "capture_rate": 60,
+    "color": "GRAY",
+    "egg_groups": [
+      "GROUND"
+    ]
   },
   {
     "id": 574,
-    "identifier": "gothita"
+    "identifier": "gothita",
+    "base_happiness": 70,
+    "capture_rate": 200,
+    "color": "PURPLE",
+    "egg_groups": [
+      "HUMANSHAPE"
+    ]
   },
   {
     "id": 575,
-    "identifier": "gothorita"
+    "identifier": "gothorita",
+    "base_happiness": 70,
+    "capture_rate": 100,
+    "color": "PURPLE",
+    "egg_groups": [
+      "HUMANSHAPE"
+    ]
   },
   {
     "id": 576,
-    "identifier": "gothitelle"
+    "identifier": "gothitelle",
+    "base_happiness": 70,
+    "capture_rate": 50,
+    "color": "PURPLE",
+    "egg_groups": [
+      "HUMANSHAPE"
+    ]
   },
   {
     "id": 577,
-    "identifier": "solosis"
+    "identifier": "solosis",
+    "base_happiness": 70,
+    "capture_rate": 200,
+    "color": "GREEN",
+    "egg_groups": [
+      "INDETERMINATE"
+    ]
   },
   {
     "id": 578,
-    "identifier": "duosion"
+    "identifier": "duosion",
+    "base_happiness": 70,
+    "capture_rate": 100,
+    "color": "GREEN",
+    "egg_groups": [
+      "INDETERMINATE"
+    ]
   },
   {
     "id": 579,
-    "identifier": "reuniclus"
+    "identifier": "reuniclus",
+    "base_happiness": 70,
+    "capture_rate": 50,
+    "color": "GREEN",
+    "egg_groups": [
+      "INDETERMINATE"
+    ]
   },
   {
     "id": 580,
-    "identifier": "ducklett"
+    "identifier": "ducklett",
+    "base_happiness": 70,
+    "capture_rate": 190,
+    "color": "BLUE",
+    "egg_groups": [
+      "WATER1",
+      "FLYING"
+    ]
   },
   {
     "id": 581,
-    "identifier": "swanna"
+    "identifier": "swanna",
+    "base_happiness": 70,
+    "capture_rate": 45,
+    "color": "WHITE",
+    "egg_groups": [
+      "WATER1",
+      "FLYING"
+    ]
   },
   {
     "id": 582,
-    "identifier": "vanillite"
+    "identifier": "vanillite",
+    "base_happiness": 70,
+    "capture_rate": 255,
+    "color": "WHITE",
+    "egg_groups": [
+      "MINERAL"
+    ]
   },
   {
     "id": 583,
-    "identifier": "vanillish"
+    "identifier": "vanillish",
+    "base_happiness": 70,
+    "capture_rate": 120,
+    "color": "WHITE",
+    "egg_groups": [
+      "MINERAL"
+    ]
   },
   {
     "id": 584,
-    "identifier": "vanilluxe"
+    "identifier": "vanilluxe",
+    "base_happiness": 70,
+    "capture_rate": 45,
+    "color": "WHITE",
+    "egg_groups": [
+      "MINERAL"
+    ]
   },
   {
     "id": 585,
-    "identifier": "deerling"
+    "identifier": "deerling",
+    "base_happiness": 70,
+    "capture_rate": 190,
+    "color": "PINK",
+    "egg_groups": [
+      "GROUND"
+    ]
   },
   {
     "id": 586,
-    "identifier": "sawsbuck"
+    "identifier": "sawsbuck",
+    "base_happiness": 70,
+    "capture_rate": 75,
+    "color": "BROWN",
+    "egg_groups": [
+      "GROUND"
+    ]
   },
   {
     "id": 587,
-    "identifier": "emolga"
+    "identifier": "emolga",
+    "base_happiness": 70,
+    "capture_rate": 200,
+    "color": "WHITE",
+    "egg_groups": [
+      "GROUND"
+    ]
   },
   {
     "id": 588,
-    "identifier": "karrablast"
+    "identifier": "karrablast",
+    "base_happiness": 70,
+    "capture_rate": 200,
+    "color": "BLUE",
+    "egg_groups": [
+      "BUG"
+    ]
   },
   {
     "id": 589,
-    "identifier": "escavalier"
+    "identifier": "escavalier",
+    "base_happiness": 70,
+    "capture_rate": 75,
+    "color": "GRAY",
+    "egg_groups": [
+      "BUG"
+    ]
   },
   {
     "id": 590,
-    "identifier": "foongus"
+    "identifier": "foongus",
+    "base_happiness": 70,
+    "capture_rate": 190,
+    "color": "WHITE",
+    "egg_groups": [
+      "PLANT"
+    ]
   },
   {
     "id": 591,
-    "identifier": "amoonguss"
+    "identifier": "amoonguss",
+    "base_happiness": 70,
+    "capture_rate": 75,
+    "color": "WHITE",
+    "egg_groups": [
+      "PLANT"
+    ]
   },
   {
     "id": 592,
-    "identifier": "frillish"
+    "identifier": "frillish",
+    "base_happiness": 70,
+    "capture_rate": 190,
+    "color": "WHITE",
+    "egg_groups": [
+      "INDETERMINATE"
+    ]
   },
   {
     "id": 593,
-    "identifier": "jellicent"
+    "identifier": "jellicent",
+    "base_happiness": 70,
+    "capture_rate": 60,
+    "color": "WHITE",
+    "egg_groups": [
+      "INDETERMINATE"
+    ]
   },
   {
     "id": 594,
-    "identifier": "alomomola"
+    "identifier": "alomomola",
+    "base_happiness": 70,
+    "capture_rate": 75,
+    "color": "PINK",
+    "egg_groups": [
+      "WATER1",
+      "WATER2"
+    ]
   },
   {
     "id": 595,
-    "identifier": "joltik"
+    "identifier": "joltik",
+    "base_happiness": 70,
+    "capture_rate": 190,
+    "color": "YELLOW",
+    "egg_groups": [
+      "BUG"
+    ]
   },
   {
     "id": 596,
-    "identifier": "galvantula"
+    "identifier": "galvantula",
+    "base_happiness": 70,
+    "capture_rate": 75,
+    "color": "YELLOW",
+    "egg_groups": [
+      "BUG"
+    ]
   },
   {
     "id": 597,
-    "identifier": "ferroseed"
+    "identifier": "ferroseed",
+    "base_happiness": 70,
+    "capture_rate": 255,
+    "color": "GRAY",
+    "egg_groups": [
+      "PLANT",
+      "MINERAL"
+    ]
   },
   {
     "id": 598,
-    "identifier": "ferrothorn"
+    "identifier": "ferrothorn",
+    "base_happiness": 70,
+    "capture_rate": 90,
+    "color": "GRAY",
+    "egg_groups": [
+      "PLANT",
+      "MINERAL"
+    ]
   },
   {
     "id": 599,
-    "identifier": "klink"
+    "identifier": "klink",
+    "base_happiness": 70,
+    "capture_rate": 130,
+    "color": "GRAY",
+    "egg_groups": [
+      "MINERAL"
+    ]
   },
   {
     "id": 600,
-    "identifier": "klang"
+    "identifier": "klang",
+    "base_happiness": 70,
+    "capture_rate": 60,
+    "color": "GRAY",
+    "egg_groups": [
+      "MINERAL"
+    ]
   },
   {
     "id": 601,
-    "identifier": "klinklang"
+    "identifier": "klinklang",
+    "base_happiness": 70,
+    "capture_rate": 30,
+    "color": "GRAY",
+    "egg_groups": [
+      "MINERAL"
+    ]
   },
   {
     "id": 602,
-    "identifier": "tynamo"
+    "identifier": "tynamo",
+    "base_happiness": 70,
+    "capture_rate": 190,
+    "color": "WHITE",
+    "egg_groups": [
+      "INDETERMINATE"
+    ]
   },
   {
     "id": 603,
-    "identifier": "eelektrik"
+    "identifier": "eelektrik",
+    "base_happiness": 70,
+    "capture_rate": 60,
+    "color": "BLUE",
+    "egg_groups": [
+      "INDETERMINATE"
+    ]
   },
   {
     "id": 604,
-    "identifier": "eelektross"
+    "identifier": "eelektross",
+    "base_happiness": 70,
+    "capture_rate": 30,
+    "color": "BLUE",
+    "egg_groups": [
+      "INDETERMINATE"
+    ]
   },
   {
     "id": 605,
-    "identifier": "elgyem"
+    "identifier": "elgyem",
+    "base_happiness": 70,
+    "capture_rate": 255,
+    "color": "BLUE",
+    "egg_groups": [
+      "HUMANSHAPE"
+    ]
   },
   {
     "id": 606,
-    "identifier": "beheeyem"
+    "identifier": "beheeyem",
+    "base_happiness": 70,
+    "capture_rate": 90,
+    "color": "BROWN",
+    "egg_groups": [
+      "HUMANSHAPE"
+    ]
   },
   {
     "id": 607,
-    "identifier": "litwick"
+    "identifier": "litwick",
+    "base_happiness": 70,
+    "capture_rate": 190,
+    "color": "WHITE",
+    "egg_groups": [
+      "INDETERMINATE"
+    ]
   },
   {
     "id": 608,
-    "identifier": "lampent"
+    "identifier": "lampent",
+    "base_happiness": 70,
+    "capture_rate": 90,
+    "color": "BLACK",
+    "egg_groups": [
+      "INDETERMINATE"
+    ]
   },
   {
     "id": 609,
-    "identifier": "chandelure"
+    "identifier": "chandelure",
+    "base_happiness": 70,
+    "capture_rate": 45,
+    "color": "BLACK",
+    "egg_groups": [
+      "INDETERMINATE"
+    ]
   },
   {
     "id": 610,
-    "identifier": "axew"
+    "identifier": "axew",
+    "base_happiness": 35,
+    "capture_rate": 75,
+    "color": "GREEN",
+    "egg_groups": [
+      "MONSTER",
+      "DRAGON"
+    ]
   },
   {
     "id": 611,
-    "identifier": "fraxure"
+    "identifier": "fraxure",
+    "base_happiness": 35,
+    "capture_rate": 60,
+    "color": "GREEN",
+    "egg_groups": [
+      "MONSTER",
+      "DRAGON"
+    ]
   },
   {
     "id": 612,
-    "identifier": "haxorus"
+    "identifier": "haxorus",
+    "base_happiness": 35,
+    "capture_rate": 45,
+    "color": "YELLOW",
+    "egg_groups": [
+      "MONSTER",
+      "DRAGON"
+    ]
   },
   {
     "id": 613,
-    "identifier": "cubchoo"
+    "identifier": "cubchoo",
+    "base_happiness": 70,
+    "capture_rate": 120,
+    "color": "WHITE",
+    "egg_groups": [
+      "GROUND"
+    ]
   },
   {
     "id": 614,
-    "identifier": "beartic"
+    "identifier": "beartic",
+    "base_happiness": 70,
+    "capture_rate": 60,
+    "color": "WHITE",
+    "egg_groups": [
+      "GROUND"
+    ]
   },
   {
     "id": 615,
-    "identifier": "cryogonal"
+    "identifier": "cryogonal",
+    "base_happiness": 70,
+    "capture_rate": 25,
+    "color": "BLUE",
+    "egg_groups": [
+      "MINERAL"
+    ]
   },
   {
     "id": 616,
-    "identifier": "shelmet"
+    "identifier": "shelmet",
+    "base_happiness": 70,
+    "capture_rate": 200,
+    "color": "RED",
+    "egg_groups": [
+      "BUG"
+    ]
   },
   {
     "id": 617,
-    "identifier": "accelgor"
+    "identifier": "accelgor",
+    "base_happiness": 70,
+    "capture_rate": 75,
+    "color": "RED",
+    "egg_groups": [
+      "BUG"
+    ]
   },
   {
     "id": 618,
-    "identifier": "stunfisk"
+    "identifier": "stunfisk",
+    "base_happiness": 70,
+    "capture_rate": 75,
+    "color": "BROWN",
+    "egg_groups": [
+      "WATER1",
+      "INDETERMINATE"
+    ]
   },
   {
     "id": 619,
-    "identifier": "mienfoo"
+    "identifier": "mienfoo",
+    "base_happiness": 70,
+    "capture_rate": 180,
+    "color": "YELLOW",
+    "egg_groups": [
+      "GROUND",
+      "HUMANSHAPE"
+    ]
   },
   {
     "id": 620,
-    "identifier": "mienshao"
+    "identifier": "mienshao",
+    "base_happiness": 70,
+    "capture_rate": 45,
+    "color": "PURPLE",
+    "egg_groups": [
+      "GROUND",
+      "HUMANSHAPE"
+    ]
   },
   {
     "id": 621,
-    "identifier": "druddigon"
+    "identifier": "druddigon",
+    "base_happiness": 70,
+    "capture_rate": 45,
+    "color": "RED",
+    "egg_groups": [
+      "MONSTER",
+      "DRAGON"
+    ]
   },
   {
     "id": 622,
-    "identifier": "golett"
+    "identifier": "golett",
+    "base_happiness": 70,
+    "capture_rate": 190,
+    "color": "GREEN",
+    "egg_groups": [
+      "MINERAL"
+    ]
   },
   {
     "id": 623,
-    "identifier": "golurk"
+    "identifier": "golurk",
+    "base_happiness": 70,
+    "capture_rate": 90,
+    "color": "GREEN",
+    "egg_groups": [
+      "MINERAL"
+    ]
   },
   {
     "id": 624,
-    "identifier": "pawniard"
+    "identifier": "pawniard",
+    "base_happiness": 35,
+    "capture_rate": 120,
+    "color": "RED",
+    "egg_groups": [
+      "HUMANSHAPE"
+    ]
   },
   {
     "id": 625,
-    "identifier": "bisharp"
+    "identifier": "bisharp",
+    "base_happiness": 35,
+    "capture_rate": 45,
+    "color": "RED",
+    "egg_groups": [
+      "HUMANSHAPE"
+    ]
   },
   {
     "id": 626,
-    "identifier": "bouffalant"
+    "identifier": "bouffalant",
+    "base_happiness": 70,
+    "capture_rate": 45,
+    "color": "BROWN",
+    "egg_groups": [
+      "GROUND"
+    ]
   },
   {
     "id": 627,
-    "identifier": "rufflet"
+    "identifier": "rufflet",
+    "base_happiness": 70,
+    "capture_rate": 190,
+    "color": "WHITE",
+    "egg_groups": [
+      "FLYING"
+    ]
   },
   {
     "id": 628,
-    "identifier": "braviary"
+    "identifier": "braviary",
+    "base_happiness": 70,
+    "capture_rate": 60,
+    "color": "RED",
+    "egg_groups": [
+      "FLYING"
+    ]
   },
   {
     "id": 629,
-    "identifier": "vullaby"
+    "identifier": "vullaby",
+    "base_happiness": 35,
+    "capture_rate": 190,
+    "color": "BROWN",
+    "egg_groups": [
+      "FLYING"
+    ]
   },
   {
     "id": 630,
-    "identifier": "mandibuzz"
+    "identifier": "mandibuzz",
+    "base_happiness": 35,
+    "capture_rate": 60,
+    "color": "BROWN",
+    "egg_groups": [
+      "FLYING"
+    ]
   },
   {
     "id": 631,
-    "identifier": "heatmor"
+    "identifier": "heatmor",
+    "base_happiness": 70,
+    "capture_rate": 90,
+    "color": "RED",
+    "egg_groups": [
+      "GROUND"
+    ]
   },
   {
     "id": 632,
-    "identifier": "durant"
+    "identifier": "durant",
+    "base_happiness": 70,
+    "capture_rate": 90,
+    "color": "GRAY",
+    "egg_groups": [
+      "BUG"
+    ]
   },
   {
     "id": 633,
-    "identifier": "deino"
+    "identifier": "deino",
+    "base_happiness": 35,
+    "capture_rate": 45,
+    "color": "BLUE",
+    "egg_groups": [
+      "DRAGON"
+    ]
   },
   {
     "id": 634,
-    "identifier": "zweilous"
+    "identifier": "zweilous",
+    "base_happiness": 35,
+    "capture_rate": 45,
+    "color": "BLUE",
+    "egg_groups": [
+      "DRAGON"
+    ]
   },
   {
     "id": 635,
-    "identifier": "hydreigon"
+    "identifier": "hydreigon",
+    "base_happiness": 35,
+    "capture_rate": 45,
+    "color": "BLUE",
+    "egg_groups": [
+      "DRAGON"
+    ]
   },
   {
     "id": 636,
-    "identifier": "larvesta"
+    "identifier": "larvesta",
+    "base_happiness": 70,
+    "capture_rate": 45,
+    "color": "WHITE",
+    "egg_groups": [
+      "BUG"
+    ]
   },
   {
     "id": 637,
-    "identifier": "volcarona"
+    "identifier": "volcarona",
+    "base_happiness": 70,
+    "capture_rate": 15,
+    "color": "WHITE",
+    "egg_groups": [
+      "BUG"
+    ]
   },
   {
     "id": 638,
-    "identifier": "cobalion"
+    "identifier": "cobalion",
+    "base_happiness": 35,
+    "capture_rate": 3,
+    "color": "BLUE",
+    "egg_groups": [
+      "NO_EGGS"
+    ]
   },
   {
     "id": 639,
-    "identifier": "terrakion"
+    "identifier": "terrakion",
+    "base_happiness": 35,
+    "capture_rate": 3,
+    "color": "GRAY",
+    "egg_groups": [
+      "NO_EGGS"
+    ]
   },
   {
     "id": 640,
-    "identifier": "virizion"
+    "identifier": "virizion",
+    "base_happiness": 35,
+    "capture_rate": 3,
+    "color": "GREEN",
+    "egg_groups": [
+      "NO_EGGS"
+    ]
   },
   {
     "id": 641,
-    "identifier": "tornadus"
+    "identifier": "tornadus",
+    "base_happiness": 90,
+    "capture_rate": 3,
+    "color": "GREEN",
+    "egg_groups": [
+      "NO_EGGS"
+    ]
   },
   {
     "id": 642,
-    "identifier": "thundurus"
+    "identifier": "thundurus",
+    "base_happiness": 90,
+    "capture_rate": 3,
+    "color": "BLUE",
+    "egg_groups": [
+      "NO_EGGS"
+    ]
   },
   {
     "id": 643,
-    "identifier": "reshiram"
+    "identifier": "reshiram",
+    "base_happiness": 0,
+    "capture_rate": 3,
+    "color": "WHITE",
+    "egg_groups": [
+      "NO_EGGS"
+    ]
   },
   {
     "id": 644,
-    "identifier": "zekrom"
+    "identifier": "zekrom",
+    "base_happiness": 0,
+    "capture_rate": 3,
+    "color": "BLACK",
+    "egg_groups": [
+      "NO_EGGS"
+    ]
   },
   {
     "id": 645,
-    "identifier": "landorus"
+    "identifier": "landorus",
+    "base_happiness": 90,
+    "capture_rate": 3,
+    "color": "BROWN",
+    "egg_groups": [
+      "NO_EGGS"
+    ]
   },
   {
     "id": 646,
-    "identifier": "kyurem"
+    "identifier": "kyurem",
+    "base_happiness": 0,
+    "capture_rate": 3,
+    "color": "GRAY",
+    "egg_groups": [
+      "NO_EGGS"
+    ]
   },
   {
     "id": 647,
-    "identifier": "keldeo"
+    "identifier": "keldeo",
+    "base_happiness": 35,
+    "capture_rate": 3,
+    "color": "YELLOW",
+    "egg_groups": [
+      "NO_EGGS"
+    ]
   },
   {
     "id": 648,
-    "identifier": "meloetta"
+    "identifier": "meloetta",
+    "base_happiness": 100,
+    "capture_rate": 3,
+    "color": "WHITE",
+    "egg_groups": [
+      "NO_EGGS"
+    ]
   },
   {
     "id": 649,
-    "identifier": "genesect"
+    "identifier": "genesect",
+    "base_happiness": 0,
+    "capture_rate": 3,
+    "color": "PURPLE",
+    "egg_groups": [
+      "NO_EGGS"
+    ]
   },
   {
     "id": 650,
-    "identifier": "chespin"
+    "identifier": "chespin",
+    "base_happiness": 70,
+    "capture_rate": 45,
+    "color": "GREEN",
+    "egg_groups": [
+      "GROUND"
+    ]
   },
   {
     "id": 651,
-    "identifier": "quilladin"
+    "identifier": "quilladin",
+    "base_happiness": 70,
+    "capture_rate": 45,
+    "color": "GREEN",
+    "egg_groups": [
+      "GROUND"
+    ]
   },
   {
     "id": 652,
-    "identifier": "chesnaught"
+    "identifier": "chesnaught",
+    "base_happiness": 70,
+    "capture_rate": 45,
+    "color": "GREEN",
+    "egg_groups": [
+      "GROUND"
+    ]
   },
   {
     "id": 653,
-    "identifier": "fennekin"
+    "identifier": "fennekin",
+    "base_happiness": 70,
+    "capture_rate": 45,
+    "color": "RED",
+    "egg_groups": [
+      "GROUND"
+    ]
   },
   {
     "id": 654,
-    "identifier": "braixen"
+    "identifier": "braixen",
+    "base_happiness": 70,
+    "capture_rate": 45,
+    "color": "RED",
+    "egg_groups": [
+      "GROUND"
+    ]
   },
   {
     "id": 655,
-    "identifier": "delphox"
+    "identifier": "delphox",
+    "base_happiness": 70,
+    "capture_rate": 45,
+    "color": "RED",
+    "egg_groups": [
+      "GROUND"
+    ]
   },
   {
     "id": 656,
-    "identifier": "froakie"
+    "identifier": "froakie",
+    "base_happiness": 70,
+    "capture_rate": 45,
+    "color": "BLUE",
+    "egg_groups": [
+      "WATER1"
+    ]
   },
   {
     "id": 657,
-    "identifier": "frogadier"
+    "identifier": "frogadier",
+    "base_happiness": 70,
+    "capture_rate": 45,
+    "color": "BLUE",
+    "egg_groups": [
+      "WATER1"
+    ]
   },
   {
     "id": 658,
-    "identifier": "greninja"
+    "identifier": "greninja",
+    "base_happiness": 70,
+    "capture_rate": 45,
+    "color": "BLUE",
+    "egg_groups": [
+      "WATER1"
+    ]
   },
   {
     "id": 659,
-    "identifier": "bunnelby"
+    "identifier": "bunnelby",
+    "base_happiness": 70,
+    "capture_rate": 255,
+    "color": "BROWN",
+    "egg_groups": [
+      "GROUND"
+    ]
   },
   {
     "id": 660,
-    "identifier": "diggersby"
+    "identifier": "diggersby",
+    "base_happiness": 70,
+    "capture_rate": 127,
+    "color": "BROWN",
+    "egg_groups": [
+      "GROUND"
+    ]
   },
   {
     "id": 661,
-    "identifier": "fletchling"
+    "identifier": "fletchling",
+    "base_happiness": 70,
+    "capture_rate": 255,
+    "color": "RED",
+    "egg_groups": [
+      "FLYING"
+    ]
   },
   {
     "id": 662,
-    "identifier": "fletchinder"
+    "identifier": "fletchinder",
+    "base_happiness": 70,
+    "capture_rate": 120,
+    "color": "RED",
+    "egg_groups": [
+      "FLYING"
+    ]
   },
   {
     "id": 663,
-    "identifier": "talonflame"
+    "identifier": "talonflame",
+    "base_happiness": 70,
+    "capture_rate": 45,
+    "color": "RED",
+    "egg_groups": [
+      "FLYING"
+    ]
   },
   {
     "id": 664,
-    "identifier": "scatterbug"
+    "identifier": "scatterbug",
+    "base_happiness": 70,
+    "capture_rate": 255,
+    "color": "BLACK",
+    "egg_groups": [
+      "BUG"
+    ]
   },
   {
     "id": 665,
-    "identifier": "spewpa"
+    "identifier": "spewpa",
+    "base_happiness": 70,
+    "capture_rate": 120,
+    "color": "BLACK",
+    "egg_groups": [
+      "BUG"
+    ]
   },
   {
     "id": 666,
-    "identifier": "vivillon"
+    "identifier": "vivillon",
+    "base_happiness": 70,
+    "capture_rate": 45,
+    "color": "WHITE",
+    "egg_groups": [
+      "BUG"
+    ]
   },
   {
     "id": 667,
-    "identifier": "litleo"
+    "identifier": "litleo",
+    "base_happiness": 70,
+    "capture_rate": 220,
+    "color": "BROWN",
+    "egg_groups": [
+      "GROUND"
+    ]
   },
   {
     "id": 668,
-    "identifier": "pyroar"
+    "identifier": "pyroar",
+    "base_happiness": 70,
+    "capture_rate": 65,
+    "color": "BROWN",
+    "egg_groups": [
+      "GROUND"
+    ]
   },
   {
     "id": 669,
-    "identifier": "flabebe"
+    "identifier": "flabebe",
+    "base_happiness": 70,
+    "capture_rate": 225,
+    "color": "WHITE",
+    "egg_groups": [
+      "FAIRY"
+    ]
   },
   {
     "id": 670,
-    "identifier": "floette"
+    "identifier": "floette",
+    "base_happiness": 70,
+    "capture_rate": 120,
+    "color": "WHITE",
+    "egg_groups": [
+      "FAIRY"
+    ]
   },
   {
     "id": 671,
-    "identifier": "florges"
+    "identifier": "florges",
+    "base_happiness": 70,
+    "capture_rate": 45,
+    "color": "WHITE",
+    "egg_groups": [
+      "FAIRY"
+    ]
   },
   {
     "id": 672,
-    "identifier": "skiddo"
+    "identifier": "skiddo",
+    "base_happiness": 70,
+    "capture_rate": 200,
+    "color": "BROWN",
+    "egg_groups": [
+      "GROUND"
+    ]
   },
   {
     "id": 673,
-    "identifier": "gogoat"
+    "identifier": "gogoat",
+    "base_happiness": 70,
+    "capture_rate": 45,
+    "color": "BROWN",
+    "egg_groups": [
+      "GROUND"
+    ]
   },
   {
     "id": 674,
-    "identifier": "pancham"
+    "identifier": "pancham",
+    "base_happiness": 70,
+    "capture_rate": 220,
+    "color": "WHITE",
+    "egg_groups": [
+      "GROUND",
+      "HUMANSHAPE"
+    ]
   },
   {
     "id": 675,
-    "identifier": "pangoro"
+    "identifier": "pangoro",
+    "base_happiness": 70,
+    "capture_rate": 65,
+    "color": "WHITE",
+    "egg_groups": [
+      "GROUND",
+      "HUMANSHAPE"
+    ]
   },
   {
     "id": 676,
-    "identifier": "furfrou"
+    "identifier": "furfrou",
+    "base_happiness": 70,
+    "capture_rate": 160,
+    "color": "WHITE",
+    "egg_groups": [
+      "GROUND"
+    ]
   },
   {
     "id": 677,
-    "identifier": "espurr"
+    "identifier": "espurr",
+    "base_happiness": 70,
+    "capture_rate": 190,
+    "color": "GRAY",
+    "egg_groups": [
+      "GROUND"
+    ]
   },
   {
     "id": 678,
-    "identifier": "meowstic"
+    "identifier": "meowstic",
+    "base_happiness": 70,
+    "capture_rate": 75,
+    "color": "BLUE",
+    "egg_groups": [
+      "GROUND"
+    ]
   },
   {
     "id": 679,
-    "identifier": "honedge"
+    "identifier": "honedge",
+    "base_happiness": 70,
+    "capture_rate": 180,
+    "color": "BROWN",
+    "egg_groups": [
+      "MINERAL"
+    ]
   },
   {
     "id": 680,
-    "identifier": "doublade"
+    "identifier": "doublade",
+    "base_happiness": 70,
+    "capture_rate": 90,
+    "color": "BROWN",
+    "egg_groups": [
+      "MINERAL"
+    ]
   },
   {
     "id": 681,
-    "identifier": "aegislash"
+    "identifier": "aegislash",
+    "base_happiness": 70,
+    "capture_rate": 45,
+    "color": "BROWN",
+    "egg_groups": [
+      "MINERAL"
+    ]
   },
   {
     "id": 682,
-    "identifier": "spritzee"
+    "identifier": "spritzee",
+    "base_happiness": 70,
+    "capture_rate": 200,
+    "color": "PINK",
+    "egg_groups": [
+      "FAIRY"
+    ]
   },
   {
     "id": 683,
-    "identifier": "aromatisse"
+    "identifier": "aromatisse",
+    "base_happiness": 70,
+    "capture_rate": 140,
+    "color": "PINK",
+    "egg_groups": [
+      "FAIRY"
+    ]
   },
   {
     "id": 684,
-    "identifier": "swirlix"
+    "identifier": "swirlix",
+    "base_happiness": 70,
+    "capture_rate": 200,
+    "color": "WHITE",
+    "egg_groups": [
+      "FAIRY"
+    ]
   },
   {
     "id": 685,
-    "identifier": "slurpuff"
+    "identifier": "slurpuff",
+    "base_happiness": 70,
+    "capture_rate": 140,
+    "color": "WHITE",
+    "egg_groups": [
+      "FAIRY"
+    ]
   },
   {
     "id": 686,
-    "identifier": "inkay"
+    "identifier": "inkay",
+    "base_happiness": 70,
+    "capture_rate": 190,
+    "color": "BLUE",
+    "egg_groups": [
+      "WATER1",
+      "WATER2"
+    ]
   },
   {
     "id": 687,
-    "identifier": "malamar"
+    "identifier": "malamar",
+    "base_happiness": 70,
+    "capture_rate": 80,
+    "color": "BLUE",
+    "egg_groups": [
+      "WATER1",
+      "WATER2"
+    ]
   },
   {
     "id": 688,
-    "identifier": "binacle"
+    "identifier": "binacle",
+    "base_happiness": 70,
+    "capture_rate": 120,
+    "color": "BROWN",
+    "egg_groups": [
+      "WATER3"
+    ]
   },
   {
     "id": 689,
-    "identifier": "barbaracle"
+    "identifier": "barbaracle",
+    "base_happiness": 70,
+    "capture_rate": 45,
+    "color": "BROWN",
+    "egg_groups": [
+      "WATER3"
+    ]
   },
   {
     "id": 690,
-    "identifier": "skrelp"
+    "identifier": "skrelp",
+    "base_happiness": 70,
+    "capture_rate": 225,
+    "color": "BROWN",
+    "egg_groups": [
+      "WATER1",
+      "DRAGON"
+    ]
   },
   {
     "id": 691,
-    "identifier": "dragalge"
+    "identifier": "dragalge",
+    "base_happiness": 70,
+    "capture_rate": 55,
+    "color": "BROWN",
+    "egg_groups": [
+      "WATER1",
+      "DRAGON"
+    ]
   },
   {
     "id": 692,
-    "identifier": "clauncher"
+    "identifier": "clauncher",
+    "base_happiness": 70,
+    "capture_rate": 225,
+    "color": "BLUE",
+    "egg_groups": [
+      "WATER1",
+      "WATER3"
+    ]
   },
   {
     "id": 693,
-    "identifier": "clawitzer"
+    "identifier": "clawitzer",
+    "base_happiness": 70,
+    "capture_rate": 55,
+    "color": "BLUE",
+    "egg_groups": [
+      "WATER1",
+      "WATER3"
+    ]
   },
   {
     "id": 694,
-    "identifier": "helioptile"
+    "identifier": "helioptile",
+    "base_happiness": 70,
+    "capture_rate": 190,
+    "color": "YELLOW",
+    "egg_groups": [
+      "MONSTER",
+      "DRAGON"
+    ]
   },
   {
     "id": 695,
-    "identifier": "heliolisk"
+    "identifier": "heliolisk",
+    "base_happiness": 70,
+    "capture_rate": 75,
+    "color": "YELLOW",
+    "egg_groups": [
+      "MONSTER",
+      "DRAGON"
+    ]
   },
   {
     "id": 696,
-    "identifier": "tyrunt"
+    "identifier": "tyrunt",
+    "base_happiness": 70,
+    "capture_rate": 45,
+    "color": "BROWN",
+    "egg_groups": [
+      "MONSTER",
+      "DRAGON"
+    ]
   },
   {
     "id": 697,
-    "identifier": "tyrantrum"
+    "identifier": "tyrantrum",
+    "base_happiness": 70,
+    "capture_rate": 45,
+    "color": "RED",
+    "egg_groups": [
+      "MONSTER",
+      "DRAGON"
+    ]
   },
   {
     "id": 698,
-    "identifier": "amaura"
+    "identifier": "amaura",
+    "base_happiness": 70,
+    "capture_rate": 45,
+    "color": "BLUE",
+    "egg_groups": [
+      "MONSTER"
+    ]
   },
   {
     "id": 699,
-    "identifier": "aurorus"
+    "identifier": "aurorus",
+    "base_happiness": 70,
+    "capture_rate": 45,
+    "color": "BLUE",
+    "egg_groups": [
+      "MONSTER"
+    ]
   },
   {
     "id": 700,
-    "identifier": "sylveon"
+    "identifier": "sylveon",
+    "base_happiness": 70,
+    "capture_rate": 45,
+    "color": "PINK",
+    "egg_groups": [
+      "GROUND"
+    ]
   },
   {
     "id": 701,
-    "identifier": "hawlucha"
+    "identifier": "hawlucha",
+    "base_happiness": 70,
+    "capture_rate": 100,
+    "color": "GREEN",
+    "egg_groups": [
+      "HUMANSHAPE"
+    ]
   },
   {
     "id": 702,
-    "identifier": "dedenne"
+    "identifier": "dedenne",
+    "base_happiness": 70,
+    "capture_rate": 180,
+    "color": "YELLOW",
+    "egg_groups": [
+      "GROUND",
+      "FAIRY"
+    ]
   },
   {
     "id": 703,
-    "identifier": "carbink"
+    "identifier": "carbink",
+    "base_happiness": 70,
+    "capture_rate": 60,
+    "color": "GRAY",
+    "egg_groups": [
+      "FAIRY",
+      "MINERAL"
+    ]
   },
   {
     "id": 704,
-    "identifier": "goomy"
+    "identifier": "goomy",
+    "base_happiness": 35,
+    "capture_rate": 45,
+    "color": "PURPLE",
+    "egg_groups": [
+      "DRAGON"
+    ]
   },
   {
     "id": 705,
-    "identifier": "sliggoo"
+    "identifier": "sliggoo",
+    "base_happiness": 35,
+    "capture_rate": 45,
+    "color": "PURPLE",
+    "egg_groups": [
+      "DRAGON"
+    ]
   },
   {
     "id": 706,
-    "identifier": "goodra"
+    "identifier": "goodra",
+    "base_happiness": 35,
+    "capture_rate": 45,
+    "color": "PURPLE",
+    "egg_groups": [
+      "DRAGON"
+    ]
   },
   {
     "id": 707,
-    "identifier": "klefki"
+    "identifier": "klefki",
+    "base_happiness": 70,
+    "capture_rate": 75,
+    "color": "GRAY",
+    "egg_groups": [
+      "MINERAL"
+    ]
   },
   {
     "id": 708,
-    "identifier": "phantump"
+    "identifier": "phantump",
+    "base_happiness": 70,
+    "capture_rate": 120,
+    "color": "BROWN",
+    "egg_groups": [
+      "PLANT",
+      "INDETERMINATE"
+    ]
   },
   {
     "id": 709,
-    "identifier": "trevenant"
+    "identifier": "trevenant",
+    "base_happiness": 70,
+    "capture_rate": 60,
+    "color": "BROWN",
+    "egg_groups": [
+      "PLANT",
+      "INDETERMINATE"
+    ]
   },
   {
     "id": 710,
-    "identifier": "pumpkaboo"
+    "identifier": "pumpkaboo",
+    "base_happiness": 70,
+    "capture_rate": 120,
+    "color": "BROWN",
+    "egg_groups": [
+      "INDETERMINATE"
+    ]
   },
   {
     "id": 711,
-    "identifier": "gourgeist"
+    "identifier": "gourgeist",
+    "base_happiness": 70,
+    "capture_rate": 60,
+    "color": "BROWN",
+    "egg_groups": [
+      "INDETERMINATE"
+    ]
   },
   {
     "id": 712,
-    "identifier": "bergmite"
+    "identifier": "bergmite",
+    "base_happiness": 70,
+    "capture_rate": 190,
+    "color": "BLUE",
+    "egg_groups": [
+      "MONSTER"
+    ]
   },
   {
     "id": 713,
-    "identifier": "avalugg"
+    "identifier": "avalugg",
+    "base_happiness": 70,
+    "capture_rate": 55,
+    "color": "BLUE",
+    "egg_groups": [
+      "MONSTER"
+    ]
   },
   {
     "id": 714,
-    "identifier": "noibat"
+    "identifier": "noibat",
+    "base_happiness": 70,
+    "capture_rate": 190,
+    "color": "PURPLE",
+    "egg_groups": [
+      "FLYING"
+    ]
   },
   {
     "id": 715,
-    "identifier": "noivern"
+    "identifier": "noivern",
+    "base_happiness": 70,
+    "capture_rate": 45,
+    "color": "PURPLE",
+    "egg_groups": [
+      "FLYING"
+    ]
   },
   {
     "id": 716,
-    "identifier": "xerneas"
+    "identifier": "xerneas",
+    "base_happiness": 0,
+    "capture_rate": 45,
+    "color": "BLUE",
+    "egg_groups": [
+      "NO_EGGS"
+    ]
   },
   {
     "id": 717,
-    "identifier": "yveltal"
+    "identifier": "yveltal",
+    "base_happiness": 0,
+    "capture_rate": 45,
+    "color": "RED",
+    "egg_groups": [
+      "NO_EGGS"
+    ]
   },
   {
     "id": 718,
-    "identifier": "zygarde"
+    "identifier": "zygarde",
+    "base_happiness": 0,
+    "capture_rate": 3,
+    "color": "GREEN",
+    "egg_groups": [
+      "NO_EGGS"
+    ]
   },
   {
     "id": 719,
-    "identifier": "diancie"
+    "identifier": "diancie",
+    "base_happiness": 70,
+    "capture_rate": 3,
+    "color": "PINK",
+    "egg_groups": [
+      "NO_EGGS"
+    ]
   },
   {
     "id": 720,
-    "identifier": "hoopa"
+    "identifier": "hoopa",
+    "base_happiness": 100,
+    "capture_rate": 3,
+    "color": "PURPLE",
+    "egg_groups": [
+      "NO_EGGS"
+    ]
   },
   {
     "id": 721,
-    "identifier": "volcanion"
+    "identifier": "volcanion",
+    "base_happiness": 100,
+    "capture_rate": 3,
+    "color": "BROWN",
+    "egg_groups": [
+      "NO_EGGS"
+    ]
   },
   {
     "id": 722,
-    "identifier": "rowlet"
+    "identifier": "rowlet",
+    "base_happiness": 70,
+    "capture_rate": 45,
+    "color": "BROWN",
+    "egg_groups": [
+      "FLYING"
+    ]
   },
   {
     "id": 723,
-    "identifier": "dartrix"
+    "identifier": "dartrix",
+    "base_happiness": 70,
+    "capture_rate": 45,
+    "color": "BROWN",
+    "egg_groups": [
+      "FLYING"
+    ]
   },
   {
     "id": 724,
-    "identifier": "decidueye"
+    "identifier": "decidueye",
+    "base_happiness": 70,
+    "capture_rate": 45,
+    "color": "BROWN",
+    "egg_groups": [
+      "FLYING"
+    ]
   },
   {
     "id": 725,
-    "identifier": "litten"
+    "identifier": "litten",
+    "base_happiness": 70,
+    "capture_rate": 45,
+    "color": "RED",
+    "egg_groups": [
+      "GROUND"
+    ]
   },
   {
     "id": 726,
-    "identifier": "torracat"
+    "identifier": "torracat",
+    "base_happiness": 70,
+    "capture_rate": 45,
+    "color": "RED",
+    "egg_groups": [
+      "GROUND"
+    ]
   },
   {
     "id": 727,
-    "identifier": "incineroar"
+    "identifier": "incineroar",
+    "base_happiness": 70,
+    "capture_rate": 45,
+    "color": "RED",
+    "egg_groups": [
+      "GROUND"
+    ]
   },
   {
     "id": 728,
-    "identifier": "popplio"
+    "identifier": "popplio",
+    "base_happiness": 70,
+    "capture_rate": 45,
+    "color": "BLUE",
+    "egg_groups": [
+      "WATER1",
+      "GROUND"
+    ]
   },
   {
     "id": 729,
-    "identifier": "brionne"
+    "identifier": "brionne",
+    "base_happiness": 70,
+    "capture_rate": 45,
+    "color": "BLUE",
+    "egg_groups": [
+      "WATER1",
+      "GROUND"
+    ]
   },
   {
     "id": 730,
-    "identifier": "primarina"
+    "identifier": "primarina",
+    "base_happiness": 70,
+    "capture_rate": 45,
+    "color": "BLUE",
+    "egg_groups": [
+      "WATER1",
+      "GROUND"
+    ]
   },
   {
     "id": 731,
-    "identifier": "pikipek"
+    "identifier": "pikipek",
+    "base_happiness": 70,
+    "capture_rate": 255,
+    "color": "BLACK",
+    "egg_groups": [
+      "FLYING"
+    ]
   },
   {
     "id": 732,
-    "identifier": "trumbeak"
+    "identifier": "trumbeak",
+    "base_happiness": 70,
+    "capture_rate": 120,
+    "color": "BLACK",
+    "egg_groups": [
+      "FLYING"
+    ]
   },
   {
     "id": 733,
-    "identifier": "toucannon"
+    "identifier": "toucannon",
+    "base_happiness": 70,
+    "capture_rate": 45,
+    "color": "BLACK",
+    "egg_groups": [
+      "FLYING"
+    ]
   },
   {
     "id": 734,
-    "identifier": "yungoos"
+    "identifier": "yungoos",
+    "base_happiness": 70,
+    "capture_rate": 255,
+    "color": "BROWN",
+    "egg_groups": [
+      "GROUND"
+    ]
   },
   {
     "id": 735,
-    "identifier": "gumshoos"
+    "identifier": "gumshoos",
+    "base_happiness": 70,
+    "capture_rate": 127,
+    "color": "BROWN",
+    "egg_groups": [
+      "GROUND"
+    ]
   },
   {
     "id": 736,
-    "identifier": "grubbin"
+    "identifier": "grubbin",
+    "base_happiness": 70,
+    "capture_rate": 255,
+    "color": "GRAY",
+    "egg_groups": [
+      "BUG"
+    ]
   },
   {
     "id": 737,
-    "identifier": "charjabug"
+    "identifier": "charjabug",
+    "base_happiness": 70,
+    "capture_rate": 120,
+    "color": "GREEN",
+    "egg_groups": [
+      "BUG"
+    ]
   },
   {
     "id": 738,
-    "identifier": "vikavolt"
+    "identifier": "vikavolt",
+    "base_happiness": 70,
+    "capture_rate": 45,
+    "color": "BLUE",
+    "egg_groups": [
+      "BUG"
+    ]
   },
   {
     "id": 739,
-    "identifier": "crabrawler"
+    "identifier": "crabrawler",
+    "base_happiness": 70,
+    "capture_rate": 225,
+    "color": "PURPLE",
+    "egg_groups": [
+      "WATER3"
+    ]
   },
   {
     "id": 740,
-    "identifier": "crabominable"
+    "identifier": "crabominable",
+    "base_happiness": 70,
+    "capture_rate": 60,
+    "color": "WHITE",
+    "egg_groups": [
+      "WATER3"
+    ]
   },
   {
     "id": 741,
-    "identifier": "oricorio"
+    "identifier": "oricorio",
+    "base_happiness": 70,
+    "capture_rate": 45,
+    "color": "RED",
+    "egg_groups": [
+      "FLYING"
+    ]
   },
   {
     "id": 742,
-    "identifier": "cutiefly"
+    "identifier": "cutiefly",
+    "base_happiness": 70,
+    "capture_rate": 190,
+    "color": "YELLOW",
+    "egg_groups": [
+      "BUG",
+      "FAIRY"
+    ]
   },
   {
     "id": 743,
-    "identifier": "ribombee"
+    "identifier": "ribombee",
+    "base_happiness": 70,
+    "capture_rate": 75,
+    "color": "YELLOW",
+    "egg_groups": [
+      "BUG",
+      "FAIRY"
+    ]
   },
   {
     "id": 744,
-    "identifier": "rockruff"
+    "identifier": "rockruff",
+    "base_happiness": 70,
+    "capture_rate": 190,
+    "color": "BROWN",
+    "egg_groups": [
+      "GROUND"
+    ]
   },
   {
     "id": 745,
-    "identifier": "lycanroc"
+    "identifier": "lycanroc",
+    "base_happiness": 70,
+    "capture_rate": 90,
+    "color": "BROWN",
+    "egg_groups": [
+      "GROUND"
+    ]
   },
   {
     "id": 746,
-    "identifier": "wishiwashi"
+    "identifier": "wishiwashi",
+    "base_happiness": 70,
+    "capture_rate": 60,
+    "color": "BLUE",
+    "egg_groups": [
+      "WATER2"
+    ]
   },
   {
     "id": 747,
-    "identifier": "mareanie"
+    "identifier": "mareanie",
+    "base_happiness": 70,
+    "capture_rate": 190,
+    "color": "BLUE",
+    "egg_groups": [
+      "WATER1"
+    ]
   },
   {
     "id": 748,
-    "identifier": "toxapex"
+    "identifier": "toxapex",
+    "base_happiness": 70,
+    "capture_rate": 75,
+    "color": "BLUE",
+    "egg_groups": [
+      "WATER1"
+    ]
   },
   {
     "id": 749,
-    "identifier": "mudbray"
+    "identifier": "mudbray",
+    "base_happiness": 70,
+    "capture_rate": 190,
+    "color": "BROWN",
+    "egg_groups": [
+      "GROUND"
+    ]
   },
   {
     "id": 750,
-    "identifier": "mudsdale"
+    "identifier": "mudsdale",
+    "base_happiness": 70,
+    "capture_rate": 60,
+    "color": "BROWN",
+    "egg_groups": [
+      "GROUND"
+    ]
   },
   {
     "id": 751,
-    "identifier": "dewpider"
+    "identifier": "dewpider",
+    "base_happiness": 70,
+    "capture_rate": 200,
+    "color": "GREEN",
+    "egg_groups": [
+      "WATER1",
+      "BUG"
+    ]
   },
   {
     "id": 752,
-    "identifier": "araquanid"
+    "identifier": "araquanid",
+    "base_happiness": 70,
+    "capture_rate": 100,
+    "color": "GREEN",
+    "egg_groups": [
+      "WATER1",
+      "BUG"
+    ]
   },
   {
     "id": 753,
-    "identifier": "fomantis"
+    "identifier": "fomantis",
+    "base_happiness": 70,
+    "capture_rate": 190,
+    "color": "PINK",
+    "egg_groups": [
+      "PLANT"
+    ]
   },
   {
     "id": 754,
-    "identifier": "lurantis"
+    "identifier": "lurantis",
+    "base_happiness": 70,
+    "capture_rate": 75,
+    "color": "PINK",
+    "egg_groups": [
+      "PLANT"
+    ]
   },
   {
     "id": 755,
-    "identifier": "morelull"
+    "identifier": "morelull",
+    "base_happiness": 70,
+    "capture_rate": 190,
+    "color": "PURPLE",
+    "egg_groups": [
+      "PLANT"
+    ]
   },
   {
     "id": 756,
-    "identifier": "shiinotic"
+    "identifier": "shiinotic",
+    "base_happiness": 70,
+    "capture_rate": 75,
+    "color": "PURPLE",
+    "egg_groups": [
+      "PLANT"
+    ]
   },
   {
     "id": 757,
-    "identifier": "salandit"
+    "identifier": "salandit",
+    "base_happiness": 70,
+    "capture_rate": 120,
+    "color": "BLACK",
+    "egg_groups": [
+      "MONSTER",
+      "DRAGON"
+    ]
   },
   {
     "id": 758,
-    "identifier": "salazzle"
+    "identifier": "salazzle",
+    "base_happiness": 70,
+    "capture_rate": 45,
+    "color": "BLACK",
+    "egg_groups": [
+      "MONSTER",
+      "DRAGON"
+    ]
   },
   {
     "id": 759,
-    "identifier": "stufful"
+    "identifier": "stufful",
+    "base_happiness": 70,
+    "capture_rate": 140,
+    "color": "PINK",
+    "egg_groups": [
+      "GROUND"
+    ]
   },
   {
     "id": 760,
-    "identifier": "bewear"
+    "identifier": "bewear",
+    "base_happiness": 70,
+    "capture_rate": 70,
+    "color": "PINK",
+    "egg_groups": [
+      "GROUND"
+    ]
   },
   {
     "id": 761,
-    "identifier": "bounsweet"
+    "identifier": "bounsweet",
+    "base_happiness": 70,
+    "capture_rate": 235,
+    "color": "PURPLE",
+    "egg_groups": [
+      "PLANT"
+    ]
   },
   {
     "id": 762,
-    "identifier": "steenee"
+    "identifier": "steenee",
+    "base_happiness": 70,
+    "capture_rate": 120,
+    "color": "PURPLE",
+    "egg_groups": [
+      "PLANT"
+    ]
   },
   {
     "id": 763,
-    "identifier": "tsareena"
+    "identifier": "tsareena",
+    "base_happiness": 70,
+    "capture_rate": 45,
+    "color": "PURPLE",
+    "egg_groups": [
+      "PLANT"
+    ]
   },
   {
     "id": 764,
-    "identifier": "comfey"
+    "identifier": "comfey",
+    "base_happiness": 70,
+    "capture_rate": 60,
+    "color": "GREEN",
+    "egg_groups": [
+      "PLANT"
+    ]
   },
   {
     "id": 765,
-    "identifier": "oranguru"
+    "identifier": "oranguru",
+    "base_happiness": 70,
+    "capture_rate": 45,
+    "color": "WHITE",
+    "egg_groups": [
+      "GROUND"
+    ]
   },
   {
     "id": 766,
-    "identifier": "passimian"
+    "identifier": "passimian",
+    "base_happiness": 70,
+    "capture_rate": 45,
+    "color": "WHITE",
+    "egg_groups": [
+      "GROUND"
+    ]
   },
   {
     "id": 767,
-    "identifier": "wimpod"
+    "identifier": "wimpod",
+    "base_happiness": 70,
+    "capture_rate": 90,
+    "color": "GRAY",
+    "egg_groups": [
+      "BUG",
+      "WATER3"
+    ]
   },
   {
     "id": 768,
-    "identifier": "golisopod"
+    "identifier": "golisopod",
+    "base_happiness": 70,
+    "capture_rate": 45,
+    "color": "GRAY",
+    "egg_groups": [
+      "BUG",
+      "WATER3"
+    ]
   },
   {
     "id": 769,
-    "identifier": "sandygast"
+    "identifier": "sandygast",
+    "base_happiness": 70,
+    "capture_rate": 140,
+    "color": "BROWN",
+    "egg_groups": [
+      "INDETERMINATE"
+    ]
   },
   {
     "id": 770,
-    "identifier": "palossand"
+    "identifier": "palossand",
+    "base_happiness": 70,
+    "capture_rate": 60,
+    "color": "BROWN",
+    "egg_groups": [
+      "INDETERMINATE"
+    ]
   },
   {
     "id": 771,
-    "identifier": "pyukumuku"
+    "identifier": "pyukumuku",
+    "base_happiness": 70,
+    "capture_rate": 60,
+    "color": "BLACK",
+    "egg_groups": [
+      "WATER1"
+    ]
   },
   {
     "id": 772,
-    "identifier": "type-null"
+    "identifier": "type-null",
+    "base_happiness": 0,
+    "capture_rate": 3,
+    "color": "GRAY",
+    "egg_groups": [
+      "NO_EGGS"
+    ]
   },
   {
     "id": 773,
-    "identifier": "silvally"
+    "identifier": "silvally",
+    "base_happiness": 0,
+    "capture_rate": 3,
+    "color": "GRAY",
+    "egg_groups": [
+      "NO_EGGS"
+    ]
   },
   {
     "id": 774,
-    "identifier": "minior"
+    "identifier": "minior",
+    "base_happiness": 70,
+    "capture_rate": 30,
+    "color": "BROWN",
+    "egg_groups": [
+      "MINERAL"
+    ]
   },
   {
     "id": 775,
-    "identifier": "komala"
+    "identifier": "komala",
+    "base_happiness": 70,
+    "capture_rate": 45,
+    "color": "BLUE",
+    "egg_groups": [
+      "GROUND"
+    ]
   },
   {
     "id": 776,
-    "identifier": "turtonator"
+    "identifier": "turtonator",
+    "base_happiness": 70,
+    "capture_rate": 70,
+    "color": "RED",
+    "egg_groups": [
+      "MONSTER",
+      "DRAGON"
+    ]
   },
   {
     "id": 777,
-    "identifier": "togedemaru"
+    "identifier": "togedemaru",
+    "base_happiness": 70,
+    "capture_rate": 180,
+    "color": "GRAY",
+    "egg_groups": [
+      "GROUND",
+      "FAIRY"
+    ]
   },
   {
     "id": 778,
-    "identifier": "mimikyu"
+    "identifier": "mimikyu",
+    "base_happiness": 70,
+    "capture_rate": 45,
+    "color": "YELLOW",
+    "egg_groups": [
+      "INDETERMINATE"
+    ]
   },
   {
     "id": 779,
-    "identifier": "bruxish"
+    "identifier": "bruxish",
+    "base_happiness": 70,
+    "capture_rate": 80,
+    "color": "PINK",
+    "egg_groups": [
+      "WATER2"
+    ]
   },
   {
     "id": 780,
-    "identifier": "drampa"
+    "identifier": "drampa",
+    "base_happiness": 70,
+    "capture_rate": 70,
+    "color": "WHITE",
+    "egg_groups": [
+      "MONSTER",
+      "DRAGON"
+    ]
   },
   {
     "id": 781,
-    "identifier": "dhelmise"
+    "identifier": "dhelmise",
+    "base_happiness": 70,
+    "capture_rate": 25,
+    "color": "GREEN",
+    "egg_groups": [
+      "MINERAL"
+    ]
   },
   {
     "id": 782,
-    "identifier": "jangmo-o"
+    "identifier": "jangmo-o",
+    "base_happiness": 70,
+    "capture_rate": 45,
+    "color": "GRAY",
+    "egg_groups": [
+      "DRAGON"
+    ]
   },
   {
     "id": 783,
-    "identifier": "hakamo-o"
+    "identifier": "hakamo-o",
+    "base_happiness": 70,
+    "capture_rate": 45,
+    "color": "GRAY",
+    "egg_groups": [
+      "DRAGON"
+    ]
   },
   {
     "id": 784,
-    "identifier": "kommo-o"
+    "identifier": "kommo-o",
+    "base_happiness": 70,
+    "capture_rate": 45,
+    "color": "GRAY",
+    "egg_groups": [
+      "DRAGON"
+    ]
   },
   {
     "id": 785,
-    "identifier": "tapu-koko"
+    "identifier": "tapu-koko",
+    "base_happiness": 70,
+    "capture_rate": 3,
+    "color": "YELLOW",
+    "egg_groups": [
+      "NO_EGGS"
+    ]
   },
   {
     "id": 786,
-    "identifier": "tapu-lele"
+    "identifier": "tapu-lele",
+    "base_happiness": 70,
+    "capture_rate": 3,
+    "color": "PINK",
+    "egg_groups": [
+      "NO_EGGS"
+    ]
   },
   {
     "id": 787,
-    "identifier": "tapu-bulu"
+    "identifier": "tapu-bulu",
+    "base_happiness": 70,
+    "capture_rate": 3,
+    "color": "RED",
+    "egg_groups": [
+      "NO_EGGS"
+    ]
   },
   {
     "id": 788,
-    "identifier": "tapu-fini"
+    "identifier": "tapu-fini",
+    "base_happiness": 70,
+    "capture_rate": 3,
+    "color": "PURPLE",
+    "egg_groups": [
+      "NO_EGGS"
+    ]
   },
   {
     "id": 789,
-    "identifier": "cosmog"
+    "identifier": "cosmog",
+    "base_happiness": 0,
+    "capture_rate": 45,
+    "color": "BLUE",
+    "egg_groups": [
+      "NO_EGGS"
+    ]
   },
   {
     "id": 790,
-    "identifier": "cosmoem"
+    "identifier": "cosmoem",
+    "base_happiness": 0,
+    "capture_rate": 45,
+    "color": "BLUE",
+    "egg_groups": [
+      "NO_EGGS"
+    ]
   },
   {
     "id": 791,
-    "identifier": "solgaleo"
+    "identifier": "solgaleo",
+    "base_happiness": 0,
+    "capture_rate": 45,
+    "color": "WHITE",
+    "egg_groups": [
+      "NO_EGGS"
+    ]
   },
   {
     "id": 792,
-    "identifier": "lunala"
+    "identifier": "lunala",
+    "base_happiness": 0,
+    "capture_rate": 45,
+    "color": "PURPLE",
+    "egg_groups": [
+      "NO_EGGS"
+    ]
   },
   {
     "id": 793,
-    "identifier": "nihilego"
+    "identifier": "nihilego",
+    "base_happiness": 0,
+    "capture_rate": 45,
+    "color": "WHITE",
+    "egg_groups": [
+      "NO_EGGS"
+    ]
   },
   {
     "id": 794,
-    "identifier": "buzzwole"
+    "identifier": "buzzwole",
+    "base_happiness": 0,
+    "capture_rate": 45,
+    "color": "RED",
+    "egg_groups": [
+      "NO_EGGS"
+    ]
   },
   {
     "id": 795,
-    "identifier": "pheromosa"
+    "identifier": "pheromosa",
+    "base_happiness": 0,
+    "capture_rate": 45,
+    "color": "WHITE",
+    "egg_groups": [
+      "NO_EGGS"
+    ]
   },
   {
     "id": 796,
-    "identifier": "xurkitree"
+    "identifier": "xurkitree",
+    "base_happiness": 0,
+    "capture_rate": 45,
+    "color": "BLACK",
+    "egg_groups": [
+      "NO_EGGS"
+    ]
   },
   {
     "id": 797,
-    "identifier": "celesteela"
+    "identifier": "celesteela",
+    "base_happiness": 0,
+    "capture_rate": 45,
+    "color": "GREEN",
+    "egg_groups": [
+      "NO_EGGS"
+    ]
   },
   {
     "id": 798,
-    "identifier": "kartana"
+    "identifier": "kartana",
+    "base_happiness": 0,
+    "capture_rate": 45,
+    "color": "WHITE",
+    "egg_groups": [
+      "NO_EGGS"
+    ]
   },
   {
     "id": 799,
-    "identifier": "guzzlord"
+    "identifier": "guzzlord",
+    "base_happiness": 0,
+    "capture_rate": 45,
+    "color": "BLACK",
+    "egg_groups": [
+      "NO_EGGS"
+    ]
   },
   {
     "id": 800,
-    "identifier": "necrozma"
+    "identifier": "necrozma",
+    "base_happiness": 0,
+    "capture_rate": 255,
+    "color": "BLACK",
+    "egg_groups": [
+      "NO_EGGS"
+    ]
   },
   {
     "id": 801,
-    "identifier": "magearna"
+    "identifier": "magearna",
+    "base_happiness": 0,
+    "capture_rate": 3,
+    "color": "GRAY",
+    "egg_groups": [
+      "NO_EGGS"
+    ]
   },
   {
     "id": 802,
-    "identifier": "marshadow"
+    "identifier": "marshadow",
+    "base_happiness": 0,
+    "capture_rate": 3,
+    "color": "GRAY",
+    "egg_groups": [
+      "NO_EGGS"
+    ]
   },
   {
     "id": 803,
-    "identifier": "poipole"
+    "identifier": "poipole",
+    "base_happiness": 0,
+    "capture_rate": 45,
+    "color": "PURPLE",
+    "egg_groups": [
+      "NO_EGGS"
+    ]
   },
   {
     "id": 804,
-    "identifier": "naganadel"
+    "identifier": "naganadel",
+    "base_happiness": 0,
+    "capture_rate": 45,
+    "color": "PURPLE",
+    "egg_groups": [
+      "NO_EGGS"
+    ]
   },
   {
     "id": 805,
-    "identifier": "stakataka"
+    "identifier": "stakataka",
+    "base_happiness": 0,
+    "capture_rate": 30,
+    "color": "GRAY",
+    "egg_groups": [
+      "NO_EGGS"
+    ]
   },
   {
     "id": 806,
-    "identifier": "blacephalon"
+    "identifier": "blacephalon",
+    "base_happiness": 0,
+    "capture_rate": 30,
+    "color": "WHITE",
+    "egg_groups": [
+      "NO_EGGS"
+    ]
   },
   {
     "id": 807,
-    "identifier": "zeraora"
+    "identifier": "zeraora",
+    "base_happiness": 0,
+    "capture_rate": 3,
+    "color": "YELLOW",
+    "egg_groups": [
+      "NO_EGGS"
+    ]
   },
   {
     "id": 808,
-    "identifier": "meltan"
+    "identifier": "meltan",
+    "base_happiness": 0,
+    "capture_rate": 3,
+    "color": "GRAY",
+    "egg_groups": []
   },
   {
     "id": 809,
-    "identifier": "melmetal"
+    "identifier": "melmetal",
+    "base_happiness": 0,
+    "capture_rate": 3,
+    "color": "GRAY",
+    "egg_groups": []
   },
   {
     "id": 810,
-    "identifier": "grookey"
+    "identifier": "grookey",
+    "base_happiness": 50,
+    "capture_rate": 45,
+    "color": "GREEN",
+    "egg_groups": []
   },
   {
     "id": 811,
-    "identifier": "thwackey"
+    "identifier": "thwackey",
+    "base_happiness": 50,
+    "capture_rate": 45,
+    "color": "GREEN",
+    "egg_groups": []
   },
   {
     "id": 812,
-    "identifier": "rillaboom"
+    "identifier": "rillaboom",
+    "base_happiness": 50,
+    "capture_rate": 45,
+    "color": "GREEN",
+    "egg_groups": []
   },
   {
     "id": 813,
-    "identifier": "scorbunny"
+    "identifier": "scorbunny",
+    "base_happiness": 50,
+    "capture_rate": 45,
+    "color": "WHITE",
+    "egg_groups": []
   },
   {
     "id": 814,
-    "identifier": "raboot"
+    "identifier": "raboot",
+    "base_happiness": 50,
+    "capture_rate": 45,
+    "color": "GRAY",
+    "egg_groups": []
   },
   {
     "id": 815,
-    "identifier": "cinderace"
+    "identifier": "cinderace",
+    "base_happiness": 50,
+    "capture_rate": 45,
+    "color": "WHITE",
+    "egg_groups": []
   },
   {
     "id": 816,
-    "identifier": "sobble"
+    "identifier": "sobble",
+    "base_happiness": 50,
+    "capture_rate": 45,
+    "color": "BLUE",
+    "egg_groups": []
   },
   {
     "id": 817,
-    "identifier": "drizzile"
+    "identifier": "drizzile",
+    "base_happiness": 50,
+    "capture_rate": 45,
+    "color": "BLUE",
+    "egg_groups": []
   },
   {
     "id": 818,
-    "identifier": "inteleon"
+    "identifier": "inteleon",
+    "base_happiness": 50,
+    "capture_rate": 45,
+    "color": "BLUE",
+    "egg_groups": []
   },
   {
     "id": 819,
-    "identifier": "skwovet"
+    "identifier": "skwovet",
+    "base_happiness": 50,
+    "capture_rate": 255,
+    "color": "BROWN",
+    "egg_groups": []
   },
   {
     "id": 820,
-    "identifier": "greedent"
+    "identifier": "greedent",
+    "base_happiness": 50,
+    "capture_rate": 90,
+    "color": "BROWN",
+    "egg_groups": []
   },
   {
     "id": 821,
-    "identifier": "rookidee"
+    "identifier": "rookidee",
+    "base_happiness": 50,
+    "capture_rate": 255,
+    "color": "BLUE",
+    "egg_groups": []
   },
   {
     "id": 822,
-    "identifier": "corvisquire"
+    "identifier": "corvisquire",
+    "base_happiness": 50,
+    "capture_rate": 120,
+    "color": "BLUE",
+    "egg_groups": []
   },
   {
     "id": 823,
-    "identifier": "corviknight"
+    "identifier": "corviknight",
+    "base_happiness": 50,
+    "capture_rate": 45,
+    "color": "PURPLE",
+    "egg_groups": []
   },
   {
     "id": 824,
-    "identifier": "blipbug"
+    "identifier": "blipbug",
+    "base_happiness": 50,
+    "capture_rate": 255,
+    "color": "BLUE",
+    "egg_groups": []
   },
   {
     "id": 825,
-    "identifier": "dottler"
+    "identifier": "dottler",
+    "base_happiness": 50,
+    "capture_rate": 120,
+    "color": "YELLOW",
+    "egg_groups": []
   },
   {
     "id": 826,
-    "identifier": "orbeetle"
+    "identifier": "orbeetle",
+    "base_happiness": 50,
+    "capture_rate": 45,
+    "color": "RED",
+    "egg_groups": []
   },
   {
     "id": 827,
-    "identifier": "nickit"
+    "identifier": "nickit",
+    "base_happiness": 50,
+    "capture_rate": 255,
+    "color": "BROWN",
+    "egg_groups": []
   },
   {
     "id": 828,
-    "identifier": "thievul"
+    "identifier": "thievul",
+    "base_happiness": 50,
+    "capture_rate": 127,
+    "color": "BROWN",
+    "egg_groups": []
   },
   {
     "id": 829,
-    "identifier": "gossifleur"
+    "identifier": "gossifleur",
+    "base_happiness": 50,
+    "capture_rate": 190,
+    "color": "GREEN",
+    "egg_groups": []
   },
   {
     "id": 830,
-    "identifier": "eldegoss"
+    "identifier": "eldegoss",
+    "base_happiness": 50,
+    "capture_rate": 75,
+    "color": "GREEN",
+    "egg_groups": []
   },
   {
     "id": 831,
-    "identifier": "wooloo"
+    "identifier": "wooloo",
+    "base_happiness": 50,
+    "capture_rate": 255,
+    "color": "WHITE",
+    "egg_groups": []
   },
   {
     "id": 832,
-    "identifier": "dubwool"
+    "identifier": "dubwool",
+    "base_happiness": 50,
+    "capture_rate": 127,
+    "color": "WHITE",
+    "egg_groups": []
   },
   {
     "id": 833,
-    "identifier": "chewtle"
+    "identifier": "chewtle",
+    "base_happiness": 50,
+    "capture_rate": 255,
+    "color": "GREEN",
+    "egg_groups": []
   },
   {
     "id": 834,
-    "identifier": "drednaw"
+    "identifier": "drednaw",
+    "base_happiness": 50,
+    "capture_rate": 75,
+    "color": "GREEN",
+    "egg_groups": []
   },
   {
     "id": 835,
-    "identifier": "yamper"
+    "identifier": "yamper",
+    "base_happiness": 50,
+    "capture_rate": 255,
+    "color": "YELLOW",
+    "egg_groups": []
   },
   {
     "id": 836,
-    "identifier": "boltund"
+    "identifier": "boltund",
+    "base_happiness": 50,
+    "capture_rate": 45,
+    "color": "YELLOW",
+    "egg_groups": []
   },
   {
     "id": 837,
-    "identifier": "rolycoly"
+    "identifier": "rolycoly",
+    "base_happiness": 50,
+    "capture_rate": 255,
+    "color": "BLACK",
+    "egg_groups": []
   },
   {
     "id": 838,
-    "identifier": "carkol"
+    "identifier": "carkol",
+    "base_happiness": 50,
+    "capture_rate": 120,
+    "color": "BLACK",
+    "egg_groups": []
   },
   {
     "id": 839,
-    "identifier": "coalossal"
+    "identifier": "coalossal",
+    "base_happiness": 50,
+    "capture_rate": 45,
+    "color": "BLACK",
+    "egg_groups": []
   },
   {
     "id": 840,
-    "identifier": "applin"
+    "identifier": "applin",
+    "base_happiness": 50,
+    "capture_rate": 255,
+    "color": "GREEN",
+    "egg_groups": []
   },
   {
     "id": 841,
-    "identifier": "flapple"
+    "identifier": "flapple",
+    "base_happiness": 50,
+    "capture_rate": 45,
+    "color": "GREEN",
+    "egg_groups": []
   },
   {
     "id": 842,
-    "identifier": "appletun"
+    "identifier": "appletun",
+    "base_happiness": 50,
+    "capture_rate": 45,
+    "color": "GREEN",
+    "egg_groups": []
   },
   {
     "id": 843,
-    "identifier": "silicobra"
+    "identifier": "silicobra",
+    "base_happiness": 50,
+    "capture_rate": 255,
+    "color": "GREEN",
+    "egg_groups": []
   },
   {
     "id": 844,
-    "identifier": "sandaconda"
+    "identifier": "sandaconda",
+    "base_happiness": 50,
+    "capture_rate": 120,
+    "color": "GREEN",
+    "egg_groups": []
   },
   {
     "id": 845,
-    "identifier": "cramorant"
+    "identifier": "cramorant",
+    "base_happiness": 50,
+    "capture_rate": 45,
+    "color": "BLUE",
+    "egg_groups": []
   },
   {
     "id": 846,
-    "identifier": "arrokuda"
+    "identifier": "arrokuda",
+    "base_happiness": 50,
+    "capture_rate": 255,
+    "color": "BROWN",
+    "egg_groups": []
   },
   {
     "id": 847,
-    "identifier": "barraskewda"
+    "identifier": "barraskewda",
+    "base_happiness": 50,
+    "capture_rate": 60,
+    "color": "BROWN",
+    "egg_groups": []
   },
   {
     "id": 848,
-    "identifier": "toxel"
+    "identifier": "toxel",
+    "base_happiness": 50,
+    "capture_rate": 75,
+    "color": "PURPLE",
+    "egg_groups": []
   },
   {
     "id": 849,
-    "identifier": "toxtricity"
+    "identifier": "toxtricity",
+    "base_happiness": 50,
+    "capture_rate": 45,
+    "color": "PURPLE",
+    "egg_groups": []
   },
   {
     "id": 850,
-    "identifier": "sizzlipede"
+    "identifier": "sizzlipede",
+    "base_happiness": 50,
+    "capture_rate": 190,
+    "color": "RED",
+    "egg_groups": []
   },
   {
     "id": 851,
-    "identifier": "centiskorch"
+    "identifier": "centiskorch",
+    "base_happiness": 50,
+    "capture_rate": 75,
+    "color": "RED",
+    "egg_groups": []
   },
   {
     "id": 852,
-    "identifier": "clobbopus"
+    "identifier": "clobbopus",
+    "base_happiness": 50,
+    "capture_rate": 180,
+    "color": "BROWN",
+    "egg_groups": []
   },
   {
     "id": 853,
-    "identifier": "grapploct"
+    "identifier": "grapploct",
+    "base_happiness": 50,
+    "capture_rate": 45,
+    "color": "BLUE",
+    "egg_groups": []
   },
   {
     "id": 854,
-    "identifier": "sinistea"
+    "identifier": "sinistea",
+    "base_happiness": 50,
+    "capture_rate": 120,
+    "color": "PURPLE",
+    "egg_groups": []
   },
   {
     "id": 855,
-    "identifier": "polteageist"
+    "identifier": "polteageist",
+    "base_happiness": 50,
+    "capture_rate": 60,
+    "color": "PURPLE",
+    "egg_groups": []
   },
   {
     "id": 856,
-    "identifier": "hatenna"
+    "identifier": "hatenna",
+    "base_happiness": 50,
+    "capture_rate": 235,
+    "color": "PINK",
+    "egg_groups": []
   },
   {
     "id": 857,
-    "identifier": "hattrem"
+    "identifier": "hattrem",
+    "base_happiness": 50,
+    "capture_rate": 120,
+    "color": "PINK",
+    "egg_groups": []
   },
   {
     "id": 858,
-    "identifier": "hatterene"
+    "identifier": "hatterene",
+    "base_happiness": 50,
+    "capture_rate": 45,
+    "color": "PINK",
+    "egg_groups": []
   },
   {
     "id": 859,
-    "identifier": "impidimp"
+    "identifier": "impidimp",
+    "base_happiness": 50,
+    "capture_rate": 255,
+    "color": "PINK",
+    "egg_groups": []
   },
   {
     "id": 860,
-    "identifier": "morgrem"
+    "identifier": "morgrem",
+    "base_happiness": 50,
+    "capture_rate": 120,
+    "color": "PINK",
+    "egg_groups": []
   },
   {
     "id": 861,
-    "identifier": "grimmsnarl"
+    "identifier": "grimmsnarl",
+    "base_happiness": 50,
+    "capture_rate": 45,
+    "color": "PURPLE",
+    "egg_groups": []
   },
   {
     "id": 862,
-    "identifier": "obstagoon"
+    "identifier": "obstagoon",
+    "base_happiness": 50,
+    "capture_rate": 45,
+    "color": "GRAY",
+    "egg_groups": []
   },
   {
     "id": 863,
-    "identifier": "perrserker"
+    "identifier": "perrserker",
+    "base_happiness": 50,
+    "capture_rate": 90,
+    "color": "BROWN",
+    "egg_groups": []
   },
   {
     "id": 864,
-    "identifier": "cursola"
+    "identifier": "cursola",
+    "base_happiness": 50,
+    "capture_rate": 30,
+    "color": "WHITE",
+    "egg_groups": []
   },
   {
     "id": 865,
-    "identifier": "sirfetchd"
+    "identifier": "sirfetchd",
+    "base_happiness": 50,
+    "capture_rate": 45,
+    "color": "WHITE",
+    "egg_groups": []
   },
   {
     "id": 866,
-    "identifier": "mr-rime"
+    "identifier": "mr-rime",
+    "base_happiness": 50,
+    "capture_rate": 45,
+    "color": "PURPLE",
+    "egg_groups": []
   },
   {
     "id": 867,
-    "identifier": "runerigus"
+    "identifier": "runerigus",
+    "base_happiness": 50,
+    "capture_rate": 90,
+    "color": "GRAY",
+    "egg_groups": []
   },
   {
     "id": 868,
-    "identifier": "milcery"
+    "identifier": "milcery",
+    "base_happiness": 50,
+    "capture_rate": 200,
+    "color": "WHITE",
+    "egg_groups": []
   },
   {
     "id": 869,
-    "identifier": "alcremie"
+    "identifier": "alcremie",
+    "base_happiness": 50,
+    "capture_rate": 100,
+    "color": "WHITE",
+    "egg_groups": []
   },
   {
     "id": 870,
-    "identifier": "falinks"
+    "identifier": "falinks",
+    "base_happiness": 50,
+    "capture_rate": 45,
+    "color": "YELLOW",
+    "egg_groups": []
   },
   {
     "id": 871,
-    "identifier": "pincurchin"
+    "identifier": "pincurchin",
+    "base_happiness": 50,
+    "capture_rate": 75,
+    "color": "PURPLE",
+    "egg_groups": []
   },
   {
     "id": 872,
-    "identifier": "snom"
+    "identifier": "snom",
+    "base_happiness": 50,
+    "capture_rate": 190,
+    "color": "WHITE",
+    "egg_groups": []
   },
   {
     "id": 873,
-    "identifier": "frosmoth"
+    "identifier": "frosmoth",
+    "base_happiness": 50,
+    "capture_rate": 75,
+    "color": "WHITE",
+    "egg_groups": []
   },
   {
     "id": 874,
-    "identifier": "stonjourner"
+    "identifier": "stonjourner",
+    "base_happiness": 50,
+    "capture_rate": 60,
+    "color": "GRAY",
+    "egg_groups": []
   },
   {
     "id": 875,
-    "identifier": "eiscue"
+    "identifier": "eiscue",
+    "base_happiness": 50,
+    "capture_rate": 60,
+    "color": "BLUE",
+    "egg_groups": []
   },
   {
     "id": 876,
-    "identifier": "indeedee"
+    "identifier": "indeedee",
+    "base_happiness": 140,
+    "capture_rate": 30,
+    "color": "PURPLE",
+    "egg_groups": []
   },
   {
     "id": 877,
-    "identifier": "morpeko"
+    "identifier": "morpeko",
+    "base_happiness": 50,
+    "capture_rate": 180,
+    "color": "YELLOW",
+    "egg_groups": []
   },
   {
     "id": 878,
-    "identifier": "cufant"
+    "identifier": "cufant",
+    "base_happiness": 50,
+    "capture_rate": 190,
+    "color": "YELLOW",
+    "egg_groups": []
   },
   {
     "id": 879,
-    "identifier": "copperajah"
+    "identifier": "copperajah",
+    "base_happiness": 50,
+    "capture_rate": 90,
+    "color": "GREEN",
+    "egg_groups": []
   },
   {
     "id": 880,
-    "identifier": "dracozolt"
+    "identifier": "dracozolt",
+    "base_happiness": 50,
+    "capture_rate": 45,
+    "color": "GREEN",
+    "egg_groups": []
   },
   {
     "id": 881,
-    "identifier": "arctozolt"
+    "identifier": "arctozolt",
+    "base_happiness": 50,
+    "capture_rate": 45,
+    "color": "BLUE",
+    "egg_groups": []
   },
   {
     "id": 882,
-    "identifier": "dracovish"
+    "identifier": "dracovish",
+    "base_happiness": 50,
+    "capture_rate": 45,
+    "color": "GREEN",
+    "egg_groups": []
   },
   {
     "id": 883,
-    "identifier": "arctovish"
+    "identifier": "arctovish",
+    "base_happiness": 50,
+    "capture_rate": 45,
+    "color": "BLUE",
+    "egg_groups": []
   },
   {
     "id": 884,
-    "identifier": "duraludon"
+    "identifier": "duraludon",
+    "base_happiness": 50,
+    "capture_rate": 45,
+    "color": "WHITE",
+    "egg_groups": []
   },
   {
     "id": 885,
-    "identifier": "dreepy"
+    "identifier": "dreepy",
+    "base_happiness": 50,
+    "capture_rate": 45,
+    "color": "GREEN",
+    "egg_groups": []
   },
   {
     "id": 886,
-    "identifier": "drakloak"
+    "identifier": "drakloak",
+    "base_happiness": 50,
+    "capture_rate": 45,
+    "color": "GREEN",
+    "egg_groups": []
   },
   {
     "id": 887,
-    "identifier": "dragapult"
+    "identifier": "dragapult",
+    "base_happiness": 50,
+    "capture_rate": 45,
+    "color": "GREEN",
+    "egg_groups": []
   },
   {
     "id": 888,
-    "identifier": "zacian"
+    "identifier": "zacian",
+    "base_happiness": 0,
+    "capture_rate": 10,
+    "color": "BLUE",
+    "egg_groups": []
   },
   {
     "id": 889,
-    "identifier": "zamazenta"
+    "identifier": "zamazenta",
+    "base_happiness": 0,
+    "capture_rate": 10,
+    "color": "RED",
+    "egg_groups": []
   },
   {
     "id": 890,
-    "identifier": "eternatus"
+    "identifier": "eternatus",
+    "base_happiness": 0,
+    "capture_rate": 255,
+    "color": "PURPLE",
+    "egg_groups": []
   },
   {
     "id": 891,
-    "identifier": "kubfu"
+    "identifier": "kubfu",
+    "base_happiness": 50,
+    "capture_rate": 3,
+    "color": "GRAY",
+    "egg_groups": []
   },
   {
     "id": 892,
-    "identifier": "urshifu"
+    "identifier": "urshifu",
+    "base_happiness": 50,
+    "capture_rate": 3,
+    "color": "GRAY",
+    "egg_groups": []
   },
   {
     "id": 893,
-    "identifier": "zarude"
+    "identifier": "zarude",
+    "base_happiness": 0,
+    "capture_rate": 3,
+    "color": "GREEN",
+    "egg_groups": []
   },
   {
     "id": 894,
-    "identifier": "regieleki"
+    "identifier": "regieleki",
+    "base_happiness": 35,
+    "capture_rate": 3,
+    "color": "YELLOW",
+    "egg_groups": []
   },
   {
     "id": 895,
-    "identifier": "regidrago"
+    "identifier": "regidrago",
+    "base_happiness": 35,
+    "capture_rate": 3,
+    "color": "GREEN",
+    "egg_groups": []
   },
   {
     "id": 896,
-    "identifier": "glastrier"
+    "identifier": "glastrier",
+    "base_happiness": 35,
+    "capture_rate": 3,
+    "color": "WHITE",
+    "egg_groups": []
   },
   {
     "id": 897,
-    "identifier": "spectrier"
+    "identifier": "spectrier",
+    "base_happiness": 35,
+    "capture_rate": 3,
+    "color": "BLACK",
+    "egg_groups": []
   },
   {
     "id": 898,
-    "identifier": "calyrex"
+    "identifier": "calyrex",
+    "base_happiness": 100,
+    "capture_rate": 3,
+    "color": "GREEN",
+    "egg_groups": []
   }
 ]
