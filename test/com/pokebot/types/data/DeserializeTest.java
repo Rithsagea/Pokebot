@@ -13,7 +13,11 @@ public class DeserializeTest {
 		Gson g = new GsonBuilder()
 				.registerTypeAdapter(new TypeToken<LanguageString>() {}.getType(), new LanguageStringAdapter())
 				.create();
+		
 		SpeciesData[] d = g.fromJson(new InputStreamReader(DeserializeTest.class.getResourceAsStream("species.json")), SpeciesData[].class);
 		System.out.println(d[349].growth_rate);
+		
+		PokemonData[] p = g.fromJson(new InputStreamReader(DeserializeTest.class.getResourceAsStream("pokemon.json")), PokemonData[].class);
+		System.out.println(p[349].species);
 	}
 }

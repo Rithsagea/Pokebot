@@ -1,4 +1,4 @@
-package com.pokebot.json;
+package com.pokebot.json.importer;
 
 import java.io.File;
 import java.util.ArrayList;
@@ -8,6 +8,9 @@ import com.google.gson.Gson;
 import com.google.gson.GsonBuilder;
 import com.google.gson.JsonElement;
 import com.google.gson.JsonObject;
+import com.pokebot.json.ClassExclusionStrategy;
+import com.pokebot.json.DataImporter;
+import com.pokebot.json.FieldExclusionStrategy;
 import com.pokebot.types.EggGroup;
 import com.pokebot.types.GrowthRate;
 import com.pokebot.types.Habitat;
