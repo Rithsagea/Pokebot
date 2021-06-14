@@ -15,6 +15,9 @@ import com.google.gson.JsonIOException;
 import com.google.gson.JsonObject;
 import com.google.gson.JsonParser;
 import com.google.gson.JsonSyntaxException;
+import com.google.gson.reflect.TypeToken;
+import com.pokebot.types.data.LanguageString;
+import com.pokebot.types.data.LanguageStringAdapter;
 
 public abstract class DataImporter<T extends Comparable<T>> {
 	
@@ -37,7 +40,10 @@ public abstract class DataImporter<T extends Comparable<T>> {
 		
 		Collections.sort(data);
 		
-		Gson g = new GsonBuilder().setPrettyPrinting().create();
+		Gson g = new GsonBuilder()
+				.registerTypeAdapter(new TypeToken<LanguageString>() {}.getType(), new LanguageStringAdapter())
+				.setPrettyPrinting()
+				.create();
 		FileWriter f;
 		
 		try {
