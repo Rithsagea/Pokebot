@@ -1,6 +1,11 @@
 package com.pokebot.types.data;
 
-public class SpeciesData {
+public class SpeciesData implements  Comparable<SpeciesData> {
 	public int id;
-	public String name;
+	public String identifier;
+	
+	@Override
+	public int compareTo(SpeciesData o) {
+		return id - o.id;
+	}
 }
