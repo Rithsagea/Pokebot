@@ -12,8 +12,8 @@ public class PokemonData {
 	public boolean is_default;
 	public int base_experience;
 	
-//	public StatData base_stats;
-//	public StatData effort;
+	public StatData base_stats;
+	public StatData effort;
 	
 	public PokemonType type1;
 	public PokemonType type2;
@@ -23,10 +23,10 @@ public class PokemonData {
 	public AbilityData abilityh;
 	
 //	public Move[] moves;
-//	public HashMap<Integer, Move> move_levels;
+//	public HashMap<Integer, List<Move>> move_levels;
 	
 	public SpeciesData species;
 //	public PokemonForm[] forms;
 	
-//	public SpriteData sprites;
+	public SpriteData sprites;
 }
