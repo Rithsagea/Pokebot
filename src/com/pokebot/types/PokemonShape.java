@@ -1,4 +1,4 @@
-package com.rithsagea.types;
+package com.pokebot.types;
 
 public enum PokemonShape {
 	BALL,
