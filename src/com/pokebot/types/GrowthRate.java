@@ -14,7 +14,7 @@ public enum GrowthRate {
 	}
 	
 	public int getExperience(int level) {
-		return experienceData[level];
+		return experienceData[level - 1];
 	}
 	
 	public int getLevel(int experience) {
