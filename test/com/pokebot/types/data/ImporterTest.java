@@ -3,6 +3,7 @@ package com.pokebot.types.data;
 import java.io.File;
 
 import com.pokebot.json.importer.AbilityImporter;
+import com.pokebot.json.importer.FormImporter;
 import com.pokebot.json.importer.MoveImporter;
 import com.pokebot.json.importer.PokemonImporter;
 import com.pokebot.json.importer.SpeciesImporter;
@@ -22,5 +23,8 @@ public class ImporterTest {
 		
 		MoveImporter m = new MoveImporter(new File("python/move"));
 		m.run(new File(rscPath + "move.json"));
+		
+		FormImporter f = new FormImporter(new File("python/form"));
+		f.run(new File(rscPath + "form.json"));
 	}
 }

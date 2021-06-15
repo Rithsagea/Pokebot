@@ -12,7 +12,7 @@ public class PokemonData implements Comparable<PokemonData> {
 	public String abilityh;
 	
 	public int base_experience;
-	//TODO: forms???
+	public String[] forms;
 	
 	public int weight;
 	public int height;

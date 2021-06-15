@@ -1,6 +1,7 @@
 package com.pokebot.json.importer;
 
 import java.io.File;
+import java.util.ArrayList;
 
 import com.google.gson.Gson;
 import com.google.gson.GsonBuilder;
@@ -27,6 +28,7 @@ public class PokemonImporter extends DataImporter<PokemonData> {
 				.addDeserializationExclusionStrategy(new FieldExclusionStrategy("ability2"))
 				.addDeserializationExclusionStrategy(new FieldExclusionStrategy("abilityh"))
 				.addDeserializationExclusionStrategy(new FieldExclusionStrategy("species"))
+				.addDeserializationExclusionStrategy(new FieldExclusionStrategy("forms"))
 				.addDeserializationExclusionStrategy(new ClassExclusionStrategy(SpriteData.class))
 				.addDeserializationExclusionStrategy(new ClassExclusionStrategy(PokemonType.class))
 				.create();
@@ -85,6 +87,13 @@ public class PokemonImporter extends DataImporter<PokemonData> {
 		p.species = JsonUtil.get(o, "species/name").getAsString();
 		
 		p.identifier = o.get("name").getAsString();
+		
+		ArrayList<String> f = new ArrayList<>();
+		for(JsonElement t : o.get("forms").getAsJsonArray()) {
+			f.add(t.getAsJsonObject().get("name").getAsString());
+		}
+		
+		p.forms = f.toArray(new String[0]);
 		
 		return p;
 	}
