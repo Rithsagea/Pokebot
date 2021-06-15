@@ -7,7 +7,7 @@ import com.pokebot.types.data.DataRegistry;
 public class PokemonGeneratorTest {
 	public static void main(String[] args) {
 		DataRegistry.getInstance().loadData();
-		Pokemon p = PokemonGenerator.generatePokemon("sceptile", 50);
+		Pokemon p = PokemonGenerator.generatePokemon("gardevoir", 50);
 		Stat[] stats = {Stat.HP, Stat.ATK, Stat.DEF, Stat.SPA, Stat.SPD, Stat.SPE};
 		Language l = Language.en;
 		
