@@ -6,5 +6,8 @@ public enum Stat {
 	DEF,
 	SPA,
 	SPD,
-	SPE;
+	SPE,
+	
+	ACC,
+	EVA;
 }

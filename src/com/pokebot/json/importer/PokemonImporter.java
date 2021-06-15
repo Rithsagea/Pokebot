@@ -65,7 +65,15 @@ public class PokemonImporter extends DataImporter<PokemonData> {
 		p.base = new StatData();
 		p.effort = new StatData();
 		for(JsonElement s : o.get("stats").getAsJsonArray()) {
-			Stat stat = Stat.valueOf(JsonUtil.getString(s, "stat/name").toUpperCase());
+			Stat stat = null;
+			switch(JsonUtil.getString(s, "stat/name")) {
+				case "hp": stat = Stat.HP; break;
+				case "attack": stat = Stat.ATK; break;
+				case "defense": stat = Stat.DEF; break;
+				case "special-attack": stat = Stat.SPA; break;
+				case "special-defense": stat = Stat.SPD; break;
+				case "speed": stat = Stat.SPE; break;
+			}
 			p.base.set(stat, s.getAsJsonObject().get("base_stat").getAsInt());
 			p.effort.set(stat, s.getAsJsonObject().get("effort").getAsInt());
 		}
