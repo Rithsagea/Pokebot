@@ -58,7 +58,7 @@ public class PokemonImporter extends DataImporter<PokemonData> {
 		p.sprites.back_female = verify(spriteData.get("back_female"));
 		p.sprites.back_female_shiny = verify(spriteData.get("back_female_shiny"));
 		
-		p.sprites.artwork = verify(spriteData.get("artwork"));
+		p.sprites.artwork = verify(JsonUtil.get(spriteData, "other/official-artwork/front_default"));
 		
 		p.base = new StatData();
 		p.effort = new StatData();

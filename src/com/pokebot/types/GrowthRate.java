@@ -25,4 +25,10 @@ public enum GrowthRate {
 		
 		return 100; //overflow
 	}
+	
+	public int getNextLevelExp(int level) {
+		if(level == 1) return experienceData[1];
+		if(level >= 100) return 0;
+		return experienceData[level] - experienceData[level - 1];
+	}
 }

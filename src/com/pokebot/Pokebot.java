@@ -4,6 +4,9 @@ import java.io.File;
 
 import javax.security.auth.login.LoginException;
 
+import com.pokebot.discord.CommandRegistry;
+import com.pokebot.discord.MessageListener;
+import com.pokebot.discord.command.CommandGeneratePokemon;
 import com.pokebot.types.data.DataRegistry;
 
 import net.dv8tion.jda.api.JDA;
@@ -15,6 +18,9 @@ public class Pokebot {
 	private JDA jda;
 	
 	private Config config;
+	
+	private CommandRegistry commandRegistry;
+	private MessageListener messageListener;
 	
 	public Pokebot() {
 		config = new Config(new File("pokebot.config"));
@@ -32,6 +38,10 @@ public class Pokebot {
 		}
 		
 		DataRegistry.getInstance().loadData();
+		commandRegistry = new CommandRegistry(config.getBotPrefix());
+		messageListener = new MessageListener(commandRegistry);
+		
+		commandRegistry.registerCommand(new CommandGeneratePokemon());
 		
 		try {
 			jda.awaitReady();
@@ -39,5 +49,7 @@ public class Pokebot {
 			e.printStackTrace(); //not sure when this happens. just in case
 			System.exit(0);
 		}
+		
+		jda.addEventListener(messageListener);
 	}
 }

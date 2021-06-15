@@ -83,6 +83,10 @@ public class Pokemon {
 		level = species.growth_rate.getLevel(exp);
 	}
 	
+	public int getCurrentExp() {
+		return species.growth_rate.getExperience(level) - expPoints;
+	}
+	
 	public void calculateStats() {
 		Stat[] statKeys = Stat.values();
 		StatData base = pokemon.base;
@@ -92,6 +96,16 @@ public class Pokemon {
 					(Math.floor(level / 100f * (2 * base.get(statKeys[x]) + ivs.get(statKeys[x]) + Math.floor(0.25 * evs.get(statKeys[x])) ) ) + 5) *
 					(1 + (nature.getIncrease() == statKeys[x] ? 0.1 : 0) - (nature.getDecrease() == statKeys[x] ? 0.1 : 0)) ));
 		}
+	}
+	
+	public double getIVPercentage() {
+		Stat[] stat = Stat.values();
+		int total = 0;
+		for(int x = 0; x < 6; x++) {
+			total += ivs.get(stat[x]);
+		}
+		
+		return total / 1.86;
 	}
 	
 	public void learnMove(MoveData move, int slot) {
@@ -114,5 +128,18 @@ public class Pokemon {
 		if(name == null) name = species.name.get(lang);
 		
 		return name;
+	}
+	
+	public String getDescription() {
+		StringBuilder s = new StringBuilder();
+		
+		s.append(String.format("\n**HP:** %d/%d", currHp, stats.get(Stat.HP), evs.get(Stat.HP), ivs.get(Stat.HP)));
+		s.append(String.format("\n**Attack:** %d", stats.get(Stat.ATK), evs.get(Stat.ATK), ivs.get(Stat.ATK)));
+		s.append(String.format("\n**Defense:** %d", stats.get(Stat.DEF), evs.get(Stat.DEF), ivs.get(Stat.DEF)));
+		s.append(String.format("\n**Sp. Atk:** %d", stats.get(Stat.SPA), evs.get(Stat.SPA), ivs.get(Stat.SPA)));
+		s.append(String.format("\n**Sp. Def:** %d", stats.get(Stat.SPD), evs.get(Stat.SPD), ivs.get(Stat.SPD)));
+		s.append(String.format("\n**Speed:** %d", stats.get(Stat.SPE), evs.get(Stat.SPE), ivs.get(Stat.SPE)));
+		
+		return s.toString();
 	}
 }
