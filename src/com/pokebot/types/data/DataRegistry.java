@@ -7,6 +7,7 @@ import com.google.gson.Gson;
 import com.google.gson.GsonBuilder;
 import com.google.gson.reflect.TypeToken;
 import com.pokebot.json.LanguageStringAdapter;
+import com.pokebot.json.StatDataAdapter;
 import com.pokebot.types.LanguageString;
 
 public class DataRegistry {
@@ -28,6 +29,7 @@ public class DataRegistry {
 	public void loadData() {
 		Gson g = new GsonBuilder()
 				.registerTypeAdapter(new TypeToken<LanguageString>() {}.getType(), new LanguageStringAdapter())
+				.registerTypeAdapter(new TypeToken<StatData>() {}.getType(), new StatDataAdapter())
 				.create();
 		
 		SpeciesData[] s = g.fromJson(new InputStreamReader(DeserializeTest.class.getResourceAsStream("species.json")), SpeciesData[].class);

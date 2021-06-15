@@ -12,6 +12,7 @@ import com.pokebot.json.DataImporter;
 import com.pokebot.json.FieldExclusionStrategy;
 import com.pokebot.json.JsonUtil;
 import com.pokebot.types.PokemonType;
+import com.pokebot.types.Stat;
 import com.pokebot.types.data.PokemonData;
 import com.pokebot.types.data.SpriteData;
 import com.pokebot.types.data.StatData;
@@ -64,16 +65,9 @@ public class PokemonImporter extends DataImporter<PokemonData> {
 		p.base = new StatData();
 		p.effort = new StatData();
 		for(JsonElement s : o.get("stats").getAsJsonArray()) {
-			int base = s.getAsJsonObject().get("base_stat").getAsInt();
-			int effort = s.getAsJsonObject().get("effort").getAsInt();
-			switch(s.getAsJsonObject().get("stat").getAsJsonObject().get("name").getAsString()) {
-				case "hp": p.base.hp = base; p.effort.hp = effort; break;
-				case "atk": p.base.atk = base; p.effort.atk = effort; break;
-				case "def": p.base.def = base; p.effort.def = effort; break;
-				case "spa": p.base.spa = base; p.effort.spa = effort; break;
-				case "spd": p.base.spd = base; p.effort.spd = effort; break;
-				case "spe": p.base.spe = base; p.effort.spe = effort; break;
-			}
+			Stat stat = Stat.valueOf(JsonUtil.getString(s, "stat/name").toUpperCase());
+			p.base.set(stat, s.getAsJsonObject().get("base_stat").getAsInt());
+			p.effort.set(stat, s.getAsJsonObject().get("effort").getAsInt());
 		}
 		
 		for(JsonElement t : o.get("types").getAsJsonArray()) {
