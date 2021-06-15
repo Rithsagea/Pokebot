@@ -9,6 +9,7 @@ import com.google.gson.JsonObject;
 import com.pokebot.json.ClassExclusionStrategy;
 import com.pokebot.json.DataImporter;
 import com.pokebot.json.FieldExclusionStrategy;
+import com.pokebot.json.JsonUtil;
 import com.pokebot.types.PokemonType;
 import com.pokebot.types.data.PokemonData;
 import com.pokebot.types.data.SpriteData;
@@ -81,7 +82,7 @@ public class PokemonImporter extends DataImporter<PokemonData> {
 			}
 		}
 		
-		p.species = o.get("species").getAsJsonObject().get("name").getAsString();
+		p.species = JsonUtil.get(o, "species/name").getAsString();
 		
 		p.identifier = o.get("name").getAsString();
 		

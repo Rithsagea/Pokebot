@@ -31,7 +31,8 @@ public abstract class DataImporter<T extends Comparable<T>> {
 	public void run(File output) {
 		for(File f : path.listFiles()) {
 			try {
-				data.add(construct(JsonParser.parseReader(new FileReader(f)).getAsJsonObject()));
+				T t = construct(JsonParser.parseReader(new FileReader(f)).getAsJsonObject());
+				if(t != null) data.add(t);
 			} catch (JsonIOException | JsonSyntaxException | FileNotFoundException e) {
 				e.printStackTrace();
 			}
