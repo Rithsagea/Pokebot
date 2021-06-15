@@ -1,6 +1,5 @@
 Goals:
 
-- Add moves to PokeData
 - Structure for party pokemon (basic none battle data)
 - Command API for discord
 - Figure out how catching pokemon will work
