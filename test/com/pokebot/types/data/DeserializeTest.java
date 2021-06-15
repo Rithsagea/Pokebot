@@ -19,5 +19,16 @@ public class DeserializeTest {
 		
 		PokemonData[] p = g.fromJson(new InputStreamReader(DeserializeTest.class.getResourceAsStream("pokemon.json")), PokemonData[].class);
 		System.out.println(p[349].species);
+		
+		FormData[] f = g.fromJson(new InputStreamReader(DeserializeTest.class.getResourceAsStream("form.json")), FormData[].class);
+		System.out.println(f[349].form_identifier);
+		
+		MoveData[] m = g.fromJson(new InputStreamReader(DeserializeTest.class.getResourceAsStream("move.json")), MoveData[].class);
+		System.out.println(m[150].identifier);
+		
+		AbilityData[] a = g.fromJson(new InputStreamReader(DeserializeTest.class.getResourceAsStream("ability.json")), AbilityData[].class);
+		System.out.println(a[100].identifier);
+		
+		
 	}
 }
