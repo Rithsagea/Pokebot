@@ -16,15 +16,11 @@ public class Pokebot {
 	
 	private Config config;
 	
-	private DataRegistry dataRegistry;
-	
 	public Pokebot() {
 		config = new Config(new File("pokebot.config"));
 		config.loadConfig(); config.saveConfig();
 		
 		builder = JDABuilder.createDefault(config.getDiscordToken());
-		
-		dataRegistry = new DataRegistry();
 	}
 	
 	public void init() {
@@ -35,7 +31,7 @@ public class Pokebot {
 			System.exit(0);
 		}
 		
-		dataRegistry.loadData();
+		DataRegistry.getInstance().loadData();
 		
 		try {
 			jda.awaitReady();

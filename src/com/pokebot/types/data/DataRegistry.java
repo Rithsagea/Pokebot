@@ -12,13 +12,18 @@ import com.pokebot.types.LanguageString;
 
 public class DataRegistry {
 	
+	private static DataRegistry instance = new DataRegistry();
+	public static DataRegistry getInstance() {
+		return instance;
+	}
+	
 	private HashMap<String, SpeciesData> speciesMap;
 	private HashMap<String, PokemonData> pokemonMap;
 	private HashMap<String, FormData> formMap;
 	private HashMap<String, MoveData> moveMap;
 	private HashMap<String, AbilityData> abilityMap;
 	
-	public DataRegistry() {
+	private DataRegistry() {
 		speciesMap = new HashMap<>();
 		pokemonMap = new HashMap<>();
 		formMap = new HashMap<>();
