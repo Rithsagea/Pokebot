@@ -16,4 +16,13 @@ public enum GrowthRate {
 	public int getExperience(int level) {
 		return experienceData[level];
 	}
+	
+	public int getLevel(int experience) {
+		for(int x = 0; x < 100; x++) {
+			if(experienceData[x] >= experience)
+				return x + 1;
+		}
+		
+		return 100; //overflow
+	}
 }
