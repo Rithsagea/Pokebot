@@ -1,4 +1,4 @@
-package com.pokebot.json;
+package com.pokebot.json.importer;
 
 import java.io.File;
 import java.io.FileNotFoundException;
@@ -16,6 +16,8 @@ import com.google.gson.JsonObject;
 import com.google.gson.JsonParser;
 import com.google.gson.JsonSyntaxException;
 import com.google.gson.reflect.TypeToken;
+import com.pokebot.json.LanguageStringAdapter;
+import com.pokebot.json.StatDataAdapter;
 import com.pokebot.types.LanguageString;
 import com.pokebot.types.data.StatData;
 

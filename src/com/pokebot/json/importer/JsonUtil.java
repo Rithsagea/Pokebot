@@ -1,4 +1,4 @@
-package com.pokebot.json;
+package com.pokebot.json.importer;
 
 import com.google.gson.JsonElement;
 
