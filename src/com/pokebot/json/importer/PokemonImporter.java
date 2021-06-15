@@ -2,6 +2,8 @@ package com.pokebot.json.importer;
 
 import java.io.File;
 import java.util.ArrayList;
+import java.util.HashMap;
+import java.util.LinkedHashMap;
 
 import com.google.gson.Gson;
 import com.google.gson.GsonBuilder;
@@ -92,6 +94,46 @@ public class PokemonImporter extends DataImporter<PokemonData> {
 		}
 		
 		p.forms = f.toArray(new String[0]);
+		
+		VersionGroup n, v = VersionGroup.RED_BLUE;
+		for(JsonElement m : o.get("moves").getAsJsonArray()) {
+			for(JsonElement l : m.getAsJsonObject().get("version_group_details").getAsJsonArray()) {
+				n = VersionGroup.valueOf(JsonUtil.getString(l, "version_group/name").toUpperCase().replace('-', '_'));
+				if(n.ordinal() > v.ordinal()) v = n;
+			}
+		}
+		
+		HashMap<Integer, ArrayList<String>> level_move = new HashMap<>();
+		ArrayList<String> egg_move = new ArrayList<>();
+		ArrayList<String> tutor_move = new ArrayList<>();
+		ArrayList<String> machine_move = new ArrayList<>();
+		
+		String v_str = v.name().toLowerCase().replace('_', '-');
+		for(JsonElement m : o.get("moves").getAsJsonArray()) {
+			String move = JsonUtil.getString(m, "move/name");
+			for(JsonElement l : m.getAsJsonObject().get("version_group_details").getAsJsonArray()) {
+				switch(JsonUtil.getString(l, "move_learn_method/name")) {
+					case "level-up": 
+						if(JsonUtil.getString(l, "version_group/name").equals(v_str)) {
+							int level = l.getAsJsonObject().get("level_learned_at").getAsInt();
+							if(!level_move.containsKey(level)) level_move.put(level, new ArrayList<>());
+							level_move.get(level).add(move);
+						}
+						break;
+					case "egg": egg_move.add(move); break;
+					case "tutor": tutor_move.add(move); break;
+					case "machine": machine_move.add(move); break;
+				}
+			}
+		}
+		
+		p.level_moves = new LinkedHashMap<>();
+		level_move.keySet().stream().sorted().forEach((level) -> {
+			p.level_moves.put(level, level_move.get(level).stream().distinct().toArray(String[]::new));
+		});
+		p.egg_moves = egg_move.stream().distinct().sorted().toArray(String[]::new);
+		p.tutor_moves = tutor_move.stream().distinct().sorted().toArray(String[]::new);
+		p.machine_moves = machine_move.stream().distinct().sorted().toArray(String[]::new);
 		
 		return p;
 	}

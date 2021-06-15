@@ -1,5 +1,7 @@
 package com.pokebot.types.data;
 
+import java.util.Map;
+
 import com.pokebot.types.PokemonType;
 
 public class PokemonData implements Comparable<PokemonData> {
@@ -17,7 +19,10 @@ public class PokemonData implements Comparable<PokemonData> {
 	public int weight;
 	public int height;
 	
-	//TODO: moves???
+	public String[] tutor_moves;
+	public String[] machine_moves;
+	public String[] egg_moves;
+	public Map<Integer, String[]> level_moves;
 	
 	public String species;
 	public SpriteData sprites;
