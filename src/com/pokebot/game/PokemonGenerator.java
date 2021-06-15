@@ -17,7 +17,10 @@ public class PokemonGenerator {
 		ArrayList<Integer> ivs = new ArrayList<>();
 		
 		if(pokemon.species.egg_groups.contains(EggGroup.NO_EGGS)) {
-			for(int x = 0; x < 3; x++) ivs.add(31); ivs.add((int)(Math.random() * 32));
+			for(int x = 0; x < 3; x++) {
+				ivs.add(31);
+				ivs.add((int)(Math.random() * 32));
+			}
 			Collections.shuffle(ivs);
 		} else {
 			for(int x = 0; x < 6; x++) ivs.add((int)(Math.random() * 32));

@@ -1,7 +1,7 @@
 Goals:
 
-- Structure for party pokemon (basic none battle data)
 - Command API for discord
+- Store discord user data
 - Figure out how catching pokemon will work
 
 - DELETE com.pokebot.json.importer
