@@ -81,7 +81,8 @@ public class Pokemon {
 	public void calculateStats() {
 		Stat[] statKeys = Stat.values();
 		StatData base = pokemon.base;
-		stats.set(Stat.HP, (int) Math.floor(0.01 * (2 * base.get(Stat.HP) + ivs.get(Stat.HP) + Math.floor(0.25 * evs.get(Stat.HP))) * level) + level + 10);
+		if(pokemon.identifier.equals("shedinja")) stats.set(Stat.HP, 1);
+		else stats.set(Stat.HP, (int) Math.floor(0.01 * (2 * base.get(Stat.HP) + ivs.get(Stat.HP) + Math.floor(0.25 * evs.get(Stat.HP))) * level) + level + 10);
 		for(int x = 1; x < 6; x++) {
 			stats.set(statKeys[x], (int) Math.floor(
 					(Math.floor(level / 100f * (2 * base.get(statKeys[x]) + ivs.get(statKeys[x]) + Math.floor(0.25 * evs.get(statKeys[x])) ) ) + 5) *

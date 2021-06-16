@@ -1,0 +1,5882 @@
+[
+  {
+    "form": "flabebe-orange",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 72
+  },
+  {
+    "form": "beedrill",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 29
+  },
+  {
+    "form": "delphox",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 3
+  },
+  {
+    "form": "shelmet",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 71
+  },
+  {
+    "form": "dragonair",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 20
+  },
+  {
+    "form": "frogadier",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 25
+  },
+  {
+    "form": "doublade",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 13
+  },
+  {
+    "form": "morgrem",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 40
+  },
+  {
+    "form": "gengar",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 5
+  },
+  {
+    "form": "seviper",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 11
+  },
+  {
+    "form": "gyarados",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 3
+  },
+  {
+    "form": "nuzleaf",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 55
+  },
+  {
+    "form": "toxtricity-amped",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 5
+  },
+  {
+    "form": "lombre",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 55
+  },
+  {
+    "form": "vivillon-ocean",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 23
+  },
+  {
+    "form": "tranquill",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 46
+  },
+  {
+    "form": "grimmsnarl",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 4
+  },
+  {
+    "form": "manaphy",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 1
+  },
+  {
+    "form": "zubat",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 89
+  },
+  {
+    "form": "mimikyu-disguised",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 8
+  },
+  {
+    "form": "dottler",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 57
+  },
+  {
+    "form": "sneasel",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 17
+  },
+  {
+    "form": "cloyster",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 3
+  },
+  {
+    "form": "trumbeak",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 48
+  },
+  {
+    "form": "sawsbuck-spring",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 8
+  },
+  {
+    "form": "ariados",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 27
+  },
+  {
+    "form": "grumpig",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 9
+  },
+  {
+    "form": "golisopod",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 3
+  },
+  {
+    "form": "spewpa-high-plains",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 93
+  },
+  {
+    "form": "lycanroc-midnight",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 7
+  },
+  {
+    "form": "wishiwashi-solo",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 97
+  },
+  {
+    "form": "swinub",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 88
+  },
+  {
+    "form": "persian",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 15
+  },
+  {
+    "form": "steenee",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 77
+  },
+  {
+    "form": "treecko",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 69
+  },
+  {
+    "form": "tsareena",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 4
+  },
+  {
+    "form": "furfrou-la-reine",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 8
+  },
+  {
+    "form": "amaura",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 44
+  },
+  {
+    "form": "drakloak",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 23
+  },
+  {
+    "form": "salazzle",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 7
+  },
+  {
+    "form": "throh",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 10
+  },
+  {
+    "form": "alcremie",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 6
+  },
+  {
+    "form": "wooper",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 94
+  },
+  {
+    "form": "bunnelby",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 90
+  },
+  {
+    "form": "sandslash",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 12
+  },
+  {
+    "form": "whismur",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 90
+  },
+  {
+    "form": "vivillon-monsoon",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 23
+  },
+  {
+    "form": "quagsire",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 17
+  },
+  {
+    "form": "charizard",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 3
+  },
+  {
+    "form": "minior-indigo",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 5
+  },
+  {
+    "form": "starmie",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 4
+  },
+  {
+    "form": "chesnaught",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 3
+  },
+  {
+    "form": "spewpa-garden",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 93
+  },
+  {
+    "form": "combee",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 89
+  },
+  {
+    "form": "joltik",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 65
+  },
+  {
+    "form": "swampert",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 3
+  },
+  {
+    "form": "dugtrio",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 19
+  },
+  {
+    "form": "quilava",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 25
+  },
+  {
+    "form": "scraggy",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 51
+  },
+  {
+    "form": "stufful",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 55
+  },
+  {
+    "form": "golurk",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 7
+  },
+  {
+    "form": "liepard",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 13
+  },
+  {
+    "form": "thwackey",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 20
+  },
+  {
+    "form": "pumpkaboo-small",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 57
+  },
+  {
+    "form": "rockruff-own-tempo",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 80
+  },
+  {
+    "form": "kabuto",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 48
+  },
+  {
+    "form": "petilil",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 80
+  },
+  {
+    "form": "raichu-alola",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 7
+  },
+  {
+    "form": "sylveon",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 3
+  },
+  {
+    "form": "spiritomb",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 7
+  },
+  {
+    "form": "exeggutor-alola",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 3
+  },
+  {
+    "form": "minior-blue",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 5
+  },
+  {
+    "form": "feraligatr",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 3
+  },
+  {
+    "form": "polteageist-phony",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 5
+  },
+  {
+    "form": "vivillon-archipelago",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 23
+  },
+  {
+    "form": "sobble",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 69
+  },
+  {
+    "form": "flabebe-red",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 72
+  },
+  {
+    "form": "shiftry",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 7
+  },
+  {
+    "form": "floette-eternal",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 2
+  },
+  {
+    "form": "cherrim-overcast",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 12
+  },
+  {
+    "form": "vikavolt",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 5
+  },
+  {
+    "form": "hatenna",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 84
+  },
+  {
+    "form": "oricorio-pom-pom",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 8
+  },
+  {
+    "form": "nidorino",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 43
+  },
+  {
+    "form": "corsola-galar",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 23
+  },
+  {
+    "form": "roselia",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 27
+  },
+  {
+    "form": "pansear",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 66
+  },
+  {
+    "form": "lileep",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 48
+  },
+  {
+    "form": "roserade",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 4
+  },
+  {
+    "form": "dragalge",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 6
+  },
+  {
+    "form": "yanma",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 31
+  },
+  {
+    "form": "aipom",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 45
+  },
+  {
+    "form": "dartrix",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 20
+  },
+  {
+    "form": "slowpoke-galar",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 67
+  },
+  {
+    "form": "cradily",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 6
+  },
+  {
+    "form": "sirfetchd",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 5
+  },
+  {
+    "form": "gardevoir",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 4
+  },
+  {
+    "form": "crustle",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 7
+  },
+  {
+    "form": "gigalith",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 4
+  },
+  {
+    "form": "falinks",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 9
+  },
+  {
+    "form": "houndoom",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 5
+  },
+  {
+    "form": "toxicroak",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 6
+  },
+  {
+    "form": "gliscor",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 4
+  },
+  {
+    "form": "toxtricity-low-key",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 5
+  },
+  {
+    "form": "scizor",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 5
+  },
+  {
+    "form": "arctozolt",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 5
+  },
+  {
+    "form": "swadloon",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 36
+  },
+  {
+    "form": "gastrodon-west",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 8
+  },
+  {
+    "form": "wailord",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 5
+  },
+  {
+    "form": "arcanine",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 2
+  },
+  {
+    "form": "tangrowth",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 3
+  },
+  {
+    "form": "mismagius",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 6
+  },
+  {
+    "form": "cottonee",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 80
+  },
+  {
+    "form": "furfrou-star",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 8
+  },
+  {
+    "form": "nidoran-f",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 81
+  },
+  {
+    "form": "butterfree",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 29
+  },
+  {
+    "form": "vivillon-modern",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 23
+  },
+  {
+    "form": "blastoise",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 3
+  },
+  {
+    "form": "pidgey",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 87
+  },
+  {
+    "form": "gible",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 73
+  },
+  {
+    "form": "burmy-plant",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 92
+  },
+  {
+    "form": "pidove",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 84
+  },
+  {
+    "form": "nidoran-m",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 82
+  },
+  {
+    "form": "numel",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 71
+  },
+  {
+    "form": "bibarel",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 23
+  },
+  {
+    "form": "samurott",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 3
+  },
+  {
+    "form": "minior-violet",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 5
+  },
+  {
+    "form": "dugtrio-alola",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 19
+  },
+  {
+    "form": "feebas",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 95
+  },
+  {
+    "form": "furfrou-kabuki",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 8
+  },
+  {
+    "form": "durant",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 7
+  },
+  {
+    "form": "grapploct",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 7
+  },
+  {
+    "form": "glalie",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 7
+  },
+  {
+    "form": "vivillon-river",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 23
+  },
+  {
+    "form": "lotad",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 93
+  },
+  {
+    "form": "skarmory",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 10
+  },
+  {
+    "form": "lunatone",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 10
+  },
+  {
+    "form": "floatzel",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 6
+  },
+  {
+    "form": "qwilfish",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 15
+  },
+  {
+    "form": "rhydon",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 7
+  },
+  {
+    "form": "kubfu",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 33
+  },
+  {
+    "form": "meowstic-male",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 9
+  },
+  {
+    "form": "floette-blue",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 40
+  },
+  {
+    "form": "ambipom",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 7
+  },
+  {
+    "form": "furfrou-pharaoh",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 8
+  },
+  {
+    "form": "dreepy",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 83
+  },
+  {
+    "form": "drowzee",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 61
+  },
+  {
+    "form": "trubbish",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 60
+  },
+  {
+    "form": "palpitoad",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 34
+  },
+  {
+    "form": "urshifu-single-strike",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 2
+  },
+  {
+    "form": "linoone-galar",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 20
+  },
+  {
+    "form": "arrokuda",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 80
+  },
+  {
+    "form": "mothim-trash",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 19
+  },
+  {
+    "form": "furfrou-matron",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 8
+  },
+  {
+    "form": "hakamo-o",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 20
+  },
+  {
+    "form": "eiscue-ice",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 9
+  },
+  {
+    "form": "comfey",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 7
+  },
+  {
+    "form": "skorupi",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 60
+  },
+  {
+    "form": "greninja",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 3
+  },
+  {
+    "form": "carkol",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 23
+  },
+  {
+    "form": "electivire",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 3
+  },
+  {
+    "form": "pansage",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 66
+  },
+  {
+    "form": "snom",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 96
+  },
+  {
+    "form": "primeape",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 11
+  },
+  {
+    "form": "bouffalant",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 6
+  },
+  {
+    "form": "corviknight",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 6
+  },
+  {
+    "form": "pikachu-unova-cap",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 64
+  },
+  {
+    "form": "bidoof",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 88
+  },
+  {
+    "form": "crobat",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 3
+  },
+  {
+    "form": "carracosta",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 6
+  },
+  {
+    "form": "clefairy",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 63
+  },
+  {
+    "form": "solosis",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 77
+  },
+  {
+    "form": "cramorant",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 8
+  },
+  {
+    "form": "pikipek",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 84
+  },
+  {
+    "form": "hattrem",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 40
+  },
+  {
+    "form": "meowth-alola",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 77
+  },
+  {
+    "form": "relicanth",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 7
+  },
+  {
+    "form": "hippowdon",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 3
+  },
+  {
+    "form": "sandshrew-alola",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 73
+  },
+  {
+    "form": "obstagoon",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 4
+  },
+  {
+    "form": "mothim-plant",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 19
+  },
+  {
+    "form": "empoleon",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 3
+  },
+  {
+    "form": "zoroark",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 4
+  },
+  {
+    "form": "togedemaru",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 16
+  },
+  {
+    "form": "aegislash-shield",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 5
+  },
+  {
+    "form": "lanturn",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 10
+  },
+  {
+    "form": "lapras",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 3
+  },
+  {
+    "form": "ninetales",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 5
+  },
+  {
+    "form": "melmetal",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 1
+  },
+  {
+    "form": "dracovish",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 5
+  },
+  {
+    "form": "braviary",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 4
+  },
+  {
+    "form": "whiscash",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 9
+  },
+  {
+    "form": "simisage",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 5
+  },
+  {
+    "form": "boldore",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 31
+  },
+  {
+    "form": "combusken",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 25
+  },
+  {
+    "form": "sawk",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 10
+  },
+  {
+    "form": "basculin-red-striped",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 10
+  },
+  {
+    "form": "mienfoo",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 50
+  },
+  {
+    "form": "sawsbuck-autumn",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 8
+  },
+  {
+    "form": "rattata",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 87
+  },
+  {
+    "form": "gabite",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 23
+  },
+  {
+    "form": "ponyta-galar",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 23
+  },
+  {
+    "form": "deerling-spring",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 57
+  },
+  {
+    "form": "claydol",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 5
+  },
+  {
+    "form": "florges-red",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 2
+  },
+  {
+    "form": "polteageist-antique",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 5
+  },
+  {
+    "form": "ampharos",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 4
+  },
+  {
+    "form": "forretress",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 10
+  },
+  {
+    "form": "vivillon-fancy",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 23
+  },
+  {
+    "form": "raboot",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 20
+  },
+  {
+    "form": "indeedee-female",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 8
+  },
+  {
+    "form": "gothorita",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 31
+  },
+  {
+    "form": "buizel",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 60
+  },
+  {
+    "form": "cubone",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 64
+  },
+  {
+    "form": "scatterbug-polar",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 95
+  },
+  {
+    "form": "metang",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 20
+  },
+  {
+    "form": "greninja-battle-bond",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 3
+  },
+  {
+    "form": "floette-yellow",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 40
+  },
+  {
+    "form": "raticate-alola",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 22
+  },
+  {
+    "form": "scatterbug-poke-ball",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 95
+  },
+  {
+    "form": "brionne",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 20
+  },
+  {
+    "form": "sandygast",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 64
+  },
+  {
+    "form": "cacnea",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 57
+  },
+  {
+    "form": "gligar",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 17
+  },
+  {
+    "form": "meowth-galar",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 77
+  },
+  {
+    "form": "plusle",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 25
+  },
+  {
+    "form": "golem-alola",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 6
+  },
+  {
+    "form": "bisharp",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 6
+  },
+  {
+    "form": "pikachu-pop-star",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 64
+  },
+  {
+    "form": "venusaur",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 3
+  },
+  {
+    "form": "kommo-o",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 1
+  },
+  {
+    "form": "jumpluff",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 10
+  },
+  {
+    "form": "poliwag",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 73
+  },
+  {
+    "form": "bellsprout",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 73
+  },
+  {
+    "form": "phanpy",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 60
+  },
+  {
+    "form": "camerupt",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 10
+  },
+  {
+    "form": "chimchar",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 69
+  },
+  {
+    "form": "glameow",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 69
+  },
+  {
+    "form": "oranguru",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 6
+  },
+  {
+    "form": "smeargle",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 88
+  },
+  {
+    "form": "masquerain",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 11
+  },
+  {
+    "form": "florges-white",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 2
+  },
+  {
+    "form": "gulpin",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 72
+  },
+  {
+    "form": "lilligant",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 7
+  },
+  {
+    "form": "golem",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 6
+  },
+  {
+    "form": "manectric",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 8
+  },
+  {
+    "form": "pikachu-sinnoh-cap",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 64
+  },
+  {
+    "form": "gourgeist-average",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 6
+  },
+  {
+    "form": "ferroseed",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 71
+  },
+  {
+    "form": "watchog",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 20
+  },
+  {
+    "form": "burmy-trash",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 92
+  },
+  {
+    "form": "aron",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 60
+  },
+  {
+    "form": "charjabug",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 27
+  },
+  {
+    "form": "bruxish",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 8
+  },
+  {
+    "form": "meganium",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 3
+  },
+  {
+    "form": "burmy-sandy",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 92
+  },
+  {
+    "form": "marill",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 88
+  },
+  {
+    "form": "solrock",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 10
+  },
+  {
+    "form": "piplup",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 67
+  },
+  {
+    "form": "rockruff",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 80
+  },
+  {
+    "form": "pumpkaboo-average",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 57
+  },
+  {
+    "form": "floette-white",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 40
+  },
+  {
+    "form": "muk-alola",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 5
+  },
+  {
+    "form": "pikachu-belle",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 64
+  },
+  {
+    "form": "snorlax",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 3
+  },
+  {
+    "form": "flabebe-yellow",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 72
+  },
+  {
+    "form": "mr-mime-galar",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 10
+  },
+  {
+    "form": "lopunny",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 7
+  },
+  {
+    "form": "aurorus",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 4
+  },
+  {
+    "form": "staryu",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 55
+  },
+  {
+    "form": "furfrou-diamond",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 8
+  },
+  {
+    "form": "poliwhirl",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 33
+  },
+  {
+    "form": "yungoos",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 87
+  },
+  {
+    "form": "clamperl",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 52
+  },
+  {
+    "form": "mudsdale",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 5
+  },
+  {
+    "form": "cherubi",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 81
+  },
+  {
+    "form": "rotom-heat",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 4
+  },
+  {
+    "form": "spewpa-elegant",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 93
+  },
+  {
+    "form": "pikachu-hoenn-cap",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 64
+  },
+  {
+    "form": "wooloo",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 83
+  },
+  {
+    "form": "stantler",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 10
+  },
+  {
+    "form": "marshtomp",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 25
+  },
+  {
+    "form": "pinsir",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 5
+  },
+  {
+    "form": "mareep",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 80
+  },
+  {
+    "form": "girafarig",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 11
+  },
+  {
+    "form": "flabebe-blue",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 72
+  },
+  {
+    "form": "honchkrow",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 5
+  },
+  {
+    "form": "duraludon",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 3
+  },
+  {
+    "form": "vivillon-sandstorm",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 23
+  },
+  {
+    "form": "raichu",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 7
+  },
+  {
+    "form": "stunfisk",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 9
+  },
+  {
+    "form": "vivillon-polar",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 23
+  },
+  {
+    "form": "tauros",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 6
+  },
+  {
+    "form": "noctowl",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 12
+  },
+  {
+    "form": "beartic",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 5
+  },
+  {
+    "form": "torkoal",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 9
+  },
+  {
+    "form": "tynamo",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 81
+  },
+  {
+    "form": "litleo",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 41
+  },
+  {
+    "form": "breloom",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 10
+  },
+  {
+    "form": "duosion",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 40
+  },
+  {
+    "form": "surskit",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 83
+  },
+  {
+    "form": "scrafty",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 6
+  },
+  {
+    "form": "vivillon-high-plains",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 23
+  },
+  {
+    "form": "phantump",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 69
+  },
+  {
+    "form": "arbok",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 13
+  },
+  {
+    "form": "drednaw",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 7
+  },
+  {
+    "form": "ledian",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 31
+  },
+  {
+    "form": "sawsbuck-winter",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 8
+  },
+  {
+    "form": "slowking",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 6
+  },
+  {
+    "form": "fletchinder",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 35
+  },
+  {
+    "form": "lairon",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 17
+  },
+  {
+    "form": "bayleef",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 25
+  },
+  {
+    "form": "darmanitan-standard",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 7
+  },
+  {
+    "form": "hypno",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 7
+  },
+  {
+    "form": "gossifleur",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 88
+  },
+  {
+    "form": "donphan",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 5
+  },
+  {
+    "form": "whirlipede",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 45
+  },
+  {
+    "form": "spewpa-modern",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 93
+  },
+  {
+    "form": "slowbro",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 6
+  },
+  {
+    "form": "bagon",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 73
+  },
+  {
+    "form": "excadrill",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 5
+  },
+  {
+    "form": "deino",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 73
+  },
+  {
+    "form": "delibird",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 60
+  },
+  {
+    "form": "panpour",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 66
+  },
+  {
+    "form": "togedemaru-totem",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 16
+  },
+  {
+    "form": "zigzagoon-galar",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 90
+  },
+  {
+    "form": "abomasnow",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 6
+  },
+  {
+    "form": "pidgeotto",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 50
+  },
+  {
+    "form": "granbull",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 12
+  },
+  {
+    "form": "heracross",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 5
+  },
+  {
+    "form": "spewpa-tundra",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 93
+  },
+  {
+    "form": "emolga",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 18
+  },
+  {
+    "form": "sableye",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 36
+  },
+  {
+    "form": "mantine",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 7
+  },
+  {
+    "form": "pupitar",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 23
+  },
+  {
+    "form": "espeon",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 3
+  },
+  {
+    "form": "vanilluxe",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 3
+  },
+  {
+    "form": "castform",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 20
+  },
+  {
+    "form": "lurantis",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 7
+  },
+  {
+    "form": "tropius",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 10
+  },
+  {
+    "form": "barraskewda",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 6
+  },
+  {
+    "form": "passimian",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 6
+  },
+  {
+    "form": "regieleki",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 1
+  },
+  {
+    "form": "gastrodon-east",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 8
+  },
+  {
+    "form": "spewpa-sun",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 93
+  },
+  {
+    "form": "chikorita",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 65
+  },
+  {
+    "form": "venipede",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 85
+  },
+  {
+    "form": "scatterbug-icy-snow",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 95
+  },
+  {
+    "form": "skwovet",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 81
+  },
+  {
+    "form": "politoed",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 5
+  },
+  {
+    "form": "corvisquire",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 43
+  },
+  {
+    "form": "copperajah",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 5
+  },
+  {
+    "form": "glastrier",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 1
+  },
+  {
+    "form": "pikachu-rock-star",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 64
+  },
+  {
+    "form": "yamask-galar",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 72
+  },
+  {
+    "form": "medicham",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 23
+  },
+  {
+    "form": "dracozolt",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 5
+  },
+  {
+    "form": "diglett-alola",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 84
+  },
+  {
+    "form": "misdreavus",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 16
+  },
+  {
+    "form": "pawniard",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 55
+  },
+  {
+    "form": "gallade",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 4
+  },
+  {
+    "form": "indeedee-male",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 8
+  },
+  {
+    "form": "venonat",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 71
+  },
+  {
+    "form": "vivillon-sun",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 23
+  },
+  {
+    "form": "klang",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 15
+  },
+  {
+    "form": "metapod",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 94
+  },
+  {
+    "form": "tyrantrum",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 4
+  },
+  {
+    "form": "purrloin",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 80
+  },
+  {
+    "form": "vivillon-savanna",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 23
+  },
+  {
+    "form": "loudred",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 45
+  },
+  {
+    "form": "pidgeot",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 7
+  },
+  {
+    "form": "scatterbug-jungle",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 95
+  },
+  {
+    "form": "avalugg",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 4
+  },
+  {
+    "form": "gastly",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 69
+  },
+  {
+    "form": "buneary",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 50
+  },
+  {
+    "form": "minccino",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 73
+  },
+  {
+    "form": "rowlet",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 64
+  },
+  {
+    "form": "simipour",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 5
+  },
+  {
+    "form": "venomoth",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 12
+  },
+  {
+    "form": "porygon",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 29
+  },
+  {
+    "form": "beheeyem",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 7
+  },
+  {
+    "form": "calyrex",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 5
+  },
+  {
+    "form": "larvesta",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 45
+  },
+  {
+    "form": "orbeetle",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 5
+  },
+  {
+    "form": "croconaw",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 25
+  },
+  {
+    "form": "pumpkaboo-super",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 57
+  },
+  {
+    "form": "baltoy",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 73
+  },
+  {
+    "form": "eelektrik",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 25
+  },
+  {
+    "form": "golbat",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 11
+  },
+  {
+    "form": "rufflet",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 50
+  },
+  {
+    "form": "beautifly",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 29
+  },
+  {
+    "form": "delcatty",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 27
+  },
+  {
+    "form": "sandshrew",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 73
+  },
+  {
+    "form": "grimer-alola",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 62
+  },
+  {
+    "form": "grookey",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 69
+  },
+  {
+    "form": "golduck",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 5
+  },
+  {
+    "form": "zacian-hero",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 1
+  },
+  {
+    "form": "hoothoot",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 85
+  },
+  {
+    "form": "florges-blue",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 2
+  },
+  {
+    "form": "dubwool",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 6
+  },
+  {
+    "form": "krabby",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 62
+  },
+  {
+    "form": "chimecho",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 11
+  },
+  {
+    "form": "flaaffy",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 43
+  },
+  {
+    "form": "exploud",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 6
+  },
+  {
+    "form": "slugma",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 88
+  },
+  {
+    "form": "meditite",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 80
+  },
+  {
+    "form": "carbink",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 5
+  },
+  {
+    "form": "seadra",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 15
+  },
+  {
+    "form": "audino",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 13
+  },
+  {
+    "form": "binacle",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 70
+  },
+  {
+    "form": "exeggcute",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 62
+  },
+  {
+    "form": "staravia",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 55
+  },
+  {
+    "form": "dewott",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 22
+  },
+  {
+    "form": "mareanie",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 71
+  },
+  {
+    "form": "turtonator",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 7
+  },
+  {
+    "form": "applin",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 85
+  },
+  {
+    "form": "fletchling",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 81
+  },
+  {
+    "form": "pikachu-kalos-cap",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 64
+  },
+  {
+    "form": "swablu",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 69
+  },
+  {
+    "form": "kingdra",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 3
+  },
+  {
+    "form": "pangoro",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 6
+  },
+  {
+    "form": "haxorus",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 3
+  },
+  {
+    "form": "florges-yellow",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 2
+  },
+  {
+    "form": "machoke",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 25
+  },
+  {
+    "form": "tympole",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 75
+  },
+  {
+    "form": "natu",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 64
+  },
+  {
+    "form": "charmeleon",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 25
+  },
+  {
+    "form": "eevee",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 62
+  },
+  {
+    "form": "scatterbug-continental",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 95
+  },
+  {
+    "form": "skiploom",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 55
+  },
+  {
+    "form": "koffing",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 55
+  },
+  {
+    "form": "luxray",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 4
+  },
+  {
+    "form": "shellos-east",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 62
+  },
+  {
+    "form": "magikarp",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 95
+  },
+  {
+    "form": "milotic",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 3
+  },
+  {
+    "form": "clawitzer",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 5
+  },
+  {
+    "form": "porygon-z",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 3
+  },
+  {
+    "form": "probopass",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 3
+  },
+  {
+    "form": "emboar",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 3
+  },
+  {
+    "form": "eelektross",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 4
+  },
+  {
+    "form": "weezing-galar",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 6
+  },
+  {
+    "form": "hoppip",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 88
+  },
+  {
+    "form": "gumshoos",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 21
+  },
+  {
+    "form": "ninetales-alola",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 5
+  },
+  {
+    "form": "jynx",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 11
+  },
+  {
+    "form": "skiddo",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 50
+  },
+  {
+    "form": "scatterbug-ocean",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 95
+  },
+  {
+    "form": "ludicolo",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 7
+  },
+  {
+    "form": "barboach",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 77
+  },
+  {
+    "form": "diggersby",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 19
+  },
+  {
+    "form": "vivillon-icy-snow",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 23
+  },
+  {
+    "form": "scatterbug-sandstorm",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 95
+  },
+  {
+    "form": "sinistea-phony",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 70
+  },
+  {
+    "form": "houndour",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 60
+  },
+  {
+    "form": "furfrou-dandy",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 8
+  },
+  {
+    "form": "scatterbug-garden",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 95
+  },
+  {
+    "form": "blipbug",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 96
+  },
+  {
+    "form": "calyrex-shadow-rider",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 1
+  },
+  {
+    "form": "frillish",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 57
+  },
+  {
+    "form": "crabominable",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 8
+  },
+  {
+    "form": "rotom",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 15
+  },
+  {
+    "form": "toucannon",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 7
+  },
+  {
+    "form": "vulpix-alola",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 73
+  },
+  {
+    "form": "palossand",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 7
+  },
+  {
+    "form": "arctovish",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 5
+  },
+  {
+    "form": "oricorio-sensu",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 8
+  },
+  {
+    "form": "scatterbug-savanna",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 95
+  },
+  {
+    "form": "huntail",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 7
+  },
+  {
+    "form": "marowak-totem",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 19
+  },
+  {
+    "form": "scatterbug-sun",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 95
+  },
+  {
+    "form": "graveler",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 31
+  },
+  {
+    "form": "conkeldurr",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 5
+  },
+  {
+    "form": "kadabra",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 27
+  },
+  {
+    "form": "scatterbug-modern",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 95
+  },
+  {
+    "form": "mothim-sandy",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 19
+  },
+  {
+    "form": "grotle",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 25
+  },
+  {
+    "form": "seismitoad",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 4
+  },
+  {
+    "form": "scatterbug-elegant",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 95
+  },
+  {
+    "form": "corsola",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 23
+  },
+  {
+    "form": "flareon",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 3
+  },
+  {
+    "form": "rolycoly",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 90
+  },
+  {
+    "form": "eternatus",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 1
+  },
+  {
+    "form": "flapple",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 7
+  },
+  {
+    "form": "spearow",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 85
+  },
+  {
+    "form": "wailmer",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 27
+  },
+  {
+    "form": "serperior",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 3
+  },
+  {
+    "form": "rotom-mow",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 4
+  },
+  {
+    "form": "sudowoodo",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 23
+  },
+  {
+    "form": "zigzagoon",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 90
+  },
+  {
+    "form": "rampardos",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 6
+  },
+  {
+    "form": "vileplume",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 6
+  },
+  {
+    "form": "vivillon-meadow",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 23
+  },
+  {
+    "form": "rhyhorn",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 52
+  },
+  {
+    "form": "chansey",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 12
+  },
+  {
+    "form": "metagross",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 1
+  },
+  {
+    "form": "farfetchd-galar",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 37
+  },
+  {
+    "form": "rillaboom",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 3
+  },
+  {
+    "form": "wartortle",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 25
+  },
+  {
+    "form": "oddish",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 64
+  },
+  {
+    "form": "fennekin",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 70
+  },
+  {
+    "form": "dusclops",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 11
+  },
+  {
+    "form": "dragonite",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 1
+  },
+  {
+    "form": "shinx",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 85
+  },
+  {
+    "form": "cyndaquil",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 69
+  },
+  {
+    "form": "vespiquen",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 8
+  },
+  {
+    "form": "sentret",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 93
+  },
+  {
+    "form": "marowak-alola",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 19
+  },
+  {
+    "form": "lumineon",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 10
+  },
+  {
+    "form": "banette",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 11
+  },
+  {
+    "form": "gourgeist-small",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 6
+  },
+  {
+    "form": "blaziken",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 3
+  },
+  {
+    "form": "shiinotic",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 25
+  },
+  {
+    "form": "patrat",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 87
+  },
+  {
+    "form": "hydreigon",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 1
+  },
+  {
+    "form": "zarude",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 1
+  },
+  {
+    "form": "minior-green",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 5
+  },
+  {
+    "form": "spewpa-jungle",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 93
+  },
+  {
+    "form": "cinccino",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 9
+  },
+  {
+    "form": "fomantis",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 88
+  },
+  {
+    "form": "doduo",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 69
+  },
+  {
+    "form": "spewpa-savanna",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 93
+  },
+  {
+    "form": "altaria",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 6
+  },
+  {
+    "form": "beldum",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 73
+  },
+  {
+    "form": "alakazam",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 5
+  },
+  {
+    "form": "sunkern",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 96
+  },
+  {
+    "form": "archeops",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 2
+  },
+  {
+    "form": "drifloon",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 51
+  },
+  {
+    "form": "sharpedo",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 10
+  },
+  {
+    "form": "meowth",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 77
+  },
+  {
+    "form": "bronzong",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 5
+  },
+  {
+    "form": "jangmo-o",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 73
+  },
+  {
+    "form": "cacturne",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 8
+  },
+  {
+    "form": "poliwrath",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 4
+  },
+  {
+    "form": "haunter",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 25
+  },
+  {
+    "form": "elgyem",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 57
+  },
+  {
+    "form": "cursola",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 4
+  },
+  {
+    "form": "deerling-summer",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 57
+  },
+  {
+    "form": "scatterbug-meadow",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 95
+  },
+  {
+    "form": "scatterbug-river",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 95
+  },
+  {
+    "form": "spewpa-icy-snow",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 93
+  },
+  {
+    "form": "absol",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 10
+  },
+  {
+    "form": "basculin-blue-striped",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 10
+  },
+  {
+    "form": "heatmor",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 7
+  },
+  {
+    "form": "slurpuff",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 7
+  },
+  {
+    "form": "toxel",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 89
+  },
+  {
+    "form": "barbaracle",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 5
+  },
+  {
+    "form": "dwebble",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 62
+  },
+  {
+    "form": "luvdisc",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 60
+  },
+  {
+    "form": "mr-mime",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 10
+  },
+  {
+    "form": "ursaring",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 5
+  },
+  {
+    "form": "dhelmise",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 4
+  },
+  {
+    "form": "miltank",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 6
+  },
+  {
+    "form": "froslass",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 7
+  },
+  {
+    "form": "stonjourner",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 9
+  },
+  {
+    "form": "litten",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 64
+  },
+  {
+    "form": "vullaby",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 40
+  },
+  {
+    "form": "scatterbug-archipelago",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 95
+  },
+  {
+    "form": "omastar",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 6
+  },
+  {
+    "form": "marowak",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 19
+  },
+  {
+    "form": "clefable",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 7
+  },
+  {
+    "form": "typhlosion",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 3
+  },
+  {
+    "form": "murkrow",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 25
+  },
+  {
+    "form": "slowbro-galar",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 6
+  },
+  {
+    "form": "pelipper",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 15
+  },
+  {
+    "form": "victreebel",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 6
+  },
+  {
+    "form": "vigoroth",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 15
+  },
+  {
+    "form": "archen",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 27
+  },
+  {
+    "form": "grubbin",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 73
+  },
+  {
+    "form": "trapinch",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 77
+  },
+  {
+    "form": "pikachu-cosplay",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 64
+  },
+  {
+    "form": "spewpa-ocean",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 93
+  },
+  {
+    "form": "furret",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 22
+  },
+  {
+    "form": "carvanha",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 71
+  },
+  {
+    "form": "voltorb",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 60
+  },
+  {
+    "form": "swirlix",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 54
+  },
+  {
+    "form": "chandelure",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 4
+  },
+  {
+    "form": "wurmple",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 95
+  },
+  {
+    "form": "yamper",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 83
+  },
+  {
+    "form": "croagunk",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 73
+  },
+  {
+    "form": "tirtouga",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 48
+  },
+  {
+    "form": "cufant",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 60
+  },
+  {
+    "form": "vivillon-elegant",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 23
+  },
+  {
+    "form": "chespin",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 68
+  },
+  {
+    "form": "foongus",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 75
+  },
+  {
+    "form": "furfrou-heart",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 8
+  },
+  {
+    "form": "electabuzz",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 6
+  },
+  {
+    "form": "magmar",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 6
+  },
+  {
+    "form": "pachirisu",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 25
+  },
+  {
+    "form": "tentacool",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 57
+  },
+  {
+    "form": "caterpie",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 95
+  },
+  {
+    "form": "golett",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 72
+  },
+  {
+    "form": "dewgong",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 8
+  },
+  {
+    "form": "cinderace",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 3
+  },
+  {
+    "form": "minior-orange",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 5
+  },
+  {
+    "form": "hariyama",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 8
+  },
+  {
+    "form": "pikachu-original-cap",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 64
+  },
+  {
+    "form": "pikachu",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 64
+  },
+  {
+    "form": "wingull",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 83
+  },
+  {
+    "form": "perrserker",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 15
+  },
+  {
+    "form": "pineco",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 77
+  },
+  {
+    "form": "lampent",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 40
+  },
+  {
+    "form": "heliolisk",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 7
+  },
+  {
+    "form": "vivillon-marine",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 23
+  },
+  {
+    "form": "alomomola",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 9
+  },
+  {
+    "form": "herdier",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 40
+  },
+  {
+    "form": "mawile",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 36
+  },
+  {
+    "form": "fearow",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 14
+  },
+  {
+    "form": "hippopotas",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 60
+  },
+  {
+    "form": "kecleon",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 15
+  },
+  {
+    "form": "drilbur",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 61
+  },
+  {
+    "form": "lillipup",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 81
+  },
+  {
+    "form": "geodude",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 73
+  },
+  {
+    "form": "shuppet",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 75
+  },
+  {
+    "form": "teddiursa",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 60
+  },
+  {
+    "form": "unfezant",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 6
+  },
+  {
+    "form": "krookodile",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 4
+  },
+  {
+    "form": "drifblim",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 5
+  },
+  {
+    "form": "deerling-winter",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 57
+  },
+  {
+    "form": "gothitelle",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 6
+  },
+  {
+    "form": "minior-red",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 5
+  },
+  {
+    "form": "klink",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 73
+  },
+  {
+    "form": "garbodor",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 8
+  },
+  {
+    "form": "aerodactyl",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 4
+  },
+  {
+    "form": "hitmonchan",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 11
+  },
+  {
+    "form": "minior-red-meteor",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 15
+  },
+  {
+    "form": "dragapult",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 1
+  },
+  {
+    "form": "garchomp",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 1
+  },
+  {
+    "form": "florges-orange",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 2
+  },
+  {
+    "form": "vanillish",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 29
+  },
+  {
+    "form": "sewaddle",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 69
+  },
+  {
+    "form": "dratini",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 73
+  },
+  {
+    "form": "corphish",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 70
+  },
+  {
+    "form": "reuniclus",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 6
+  },
+  {
+    "form": "pancham",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 51
+  },
+  {
+    "form": "primarina",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 3
+  },
+  {
+    "form": "dewpider",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 83
+  },
+  {
+    "form": "mudbray",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 33
+  },
+  {
+    "form": "skitty",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 85
+  },
+  {
+    "form": "rattata-alola",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 87
+  },
+  {
+    "form": "crawdaunt",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 9
+  },
+  {
+    "form": "leavanny",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 5
+  },
+  {
+    "form": "spewpa-poke-ball",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 93
+  },
+  {
+    "form": "piloswine",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 12
+  },
+  {
+    "form": "gothita",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 77
+  },
+  {
+    "form": "octillery",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 7
+  },
+  {
+    "form": "ralts",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 95
+  },
+  {
+    "form": "vanillite",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 71
+  },
+  {
+    "form": "seaking",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 12
+  },
+  {
+    "form": "zweilous",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 20
+  },
+  {
+    "form": "aromatisse",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 10
+  },
+  {
+    "form": "darumaka",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 67
+  },
+  {
+    "form": "mudkip",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 69
+  },
+  {
+    "form": "wobbuffet",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 25
+  },
+  {
+    "form": "monferno",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 25
+  },
+  {
+    "form": "slakoth",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 80
+  },
+  {
+    "form": "swalot",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 9
+  },
+  {
+    "form": "spewpa-fancy",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 93
+  },
+  {
+    "form": "pyroar",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 5
+  },
+  {
+    "form": "finneon",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 60
+  },
+  {
+    "form": "escavalier",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 6
+  },
+  {
+    "form": "pincurchin",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 16
+  },
+  {
+    "form": "mankey",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 71
+  },
+  {
+    "form": "dustox",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 33
+  },
+  {
+    "form": "swellow",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 11
+  },
+  {
+    "form": "infernape",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 3
+  },
+  {
+    "form": "scatterbug-monsoon",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 95
+  },
+  {
+    "form": "spewpa-river",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 93
+  },
+  {
+    "form": "dedenne",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 17
+  },
+  {
+    "form": "kabutops",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 6
+  },
+  {
+    "form": "meowstic-female",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 9
+  },
+  {
+    "form": "pikachu-libre",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 64
+  },
+  {
+    "form": "omanyte",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 48
+  },
+  {
+    "form": "wormadam-trash",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 19
+  },
+  {
+    "form": "sunflora",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 19
+  },
+  {
+    "form": "frosmoth",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 8
+  },
+  {
+    "form": "shedinja",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 90
+  },
+  {
+    "form": "volcarona",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 2
+  },
+  {
+    "form": "rapidash",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 5
+  },
+  {
+    "form": "duskull",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 75
+  },
+  {
+    "form": "popplio",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 64
+  },
+  {
+    "form": "remoraid",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 73
+  },
+  {
+    "form": "zangoose",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 11
+  },
+  {
+    "form": "wormadam-plant",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 19
+  },
+  {
+    "form": "trevenant",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 8
+  },
+  {
+    "form": "snubbull",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 73
+  },
+  {
+    "form": "zamazenta-hero",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 1
+  },
+  {
+    "form": "cubchoo",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 71
+  },
+  {
+    "form": "makuhita",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 90
+  },
+  {
+    "form": "spewpa-continental",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 93
+  },
+  {
+    "form": "hawlucha",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 5
+  },
+  {
+    "form": "cranidos",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 50
+  },
+  {
+    "form": "stunky",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 60
+  },
+  {
+    "form": "woobat",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 63
+  },
+  {
+    "form": "klinklang",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 4
+  },
+  {
+    "form": "furfrou-debutante",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 8
+  },
+  {
+    "form": "wimpod",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 91
+  },
+  {
+    "form": "boltund",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 6
+  },
+  {
+    "form": "ribombee",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 10
+  },
+  {
+    "form": "komala",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 7
+  },
+  {
+    "form": "lickitung",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 33
+  },
+  {
+    "form": "sandaconda",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 4
+  },
+  {
+    "form": "sawsbuck-summer",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 8
+  },
+  {
+    "form": "starly",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 89
+  },
+  {
+    "form": "inteleon",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 3
+  },
+  {
+    "form": "sizzlipede",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 71
+  },
+  {
+    "form": "gourgeist-large",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 6
+  },
+  {
+    "form": "silcoon",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 94
+  },
+  {
+    "form": "ribombee-totem",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 10
+  },
+  {
+    "form": "armaldo",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 6
+  },
+  {
+    "form": "noivern",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 3
+  },
+  {
+    "form": "bergmite",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 71
+  },
+  {
+    "form": "goomy",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 73
+  },
+  {
+    "form": "glaceon",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 3
+  },
+  {
+    "form": "scatterbug-tundra",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 95
+  },
+  {
+    "form": "cascoon",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 94
+  },
+  {
+    "form": "salamence",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 1
+  },
+  {
+    "form": "drampa",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 7
+  },
+  {
+    "form": "nincada",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 84
+  },
+  {
+    "form": "shroomish",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 75
+  },
+  {
+    "form": "vivillon-jungle",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 23
+  },
+  {
+    "form": "kricketune",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 34
+  },
+  {
+    "form": "goodra",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 1
+  },
+  {
+    "form": "zorua",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 60
+  },
+  {
+    "form": "sceptile",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 3
+  },
+  {
+    "form": "helioptile",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 77
+  },
+  {
+    "form": "ducklett",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 71
+  },
+  {
+    "form": "magcargo",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 17
+  },
+  {
+    "form": "shellder",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 71
+  },
+  {
+    "form": "kricketot",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 95
+  },
+  {
+    "form": "munna",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 76
+  },
+  {
+    "form": "dodrio",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 9
+  },
+  {
+    "form": "scatterbug-marine",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 95
+  },
+  {
+    "form": "electrode",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 6
+  },
+  {
+    "form": "weavile",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 4
+  },
+  {
+    "form": "oricorio-baile",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 8
+  },
+  {
+    "form": "weezing",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 6
+  },
+  {
+    "form": "graveler-alola",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 31
+  },
+  {
+    "form": "magnemite",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 62
+  },
+  {
+    "form": "pyukumuku",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 23
+  },
+  {
+    "form": "charmander",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 69
+  },
+  {
+    "form": "tangela",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 16
+  },
+  {
+    "form": "mienshao",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 4
+  },
+  {
+    "form": "cutiefly",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 71
+  },
+  {
+    "form": "seedot",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 93
+  },
+  {
+    "form": "chatot",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 23
+  },
+  {
+    "form": "ferrothorn",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 6
+  },
+  {
+    "form": "eldegoss",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 10
+  },
+  {
+    "form": "totodile",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 67
+  },
+  {
+    "form": "torterra",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 3
+  },
+  {
+    "form": "yamask",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 72
+  },
+  {
+    "form": "swanna",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 8
+  },
+  {
+    "form": "mamoswine",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 3
+  },
+  {
+    "form": "jellicent",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 7
+  },
+  {
+    "form": "amoonguss",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 10
+  },
+  {
+    "form": "quilladin",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 25
+  },
+  {
+    "form": "slaking",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 1
+  },
+  {
+    "form": "chewtle",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 79
+  },
+  {
+    "form": "scatterbug-high-plains",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 95
+  },
+  {
+    "form": "scolipede",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 7
+  },
+  {
+    "form": "turtwig",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 65
+  },
+  {
+    "form": "stunfisk-galar",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 9
+  },
+  {
+    "form": "grimer",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 62
+  },
+  {
+    "form": "mr-rime",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 4
+  },
+  {
+    "form": "gogoat",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 3
+  },
+  {
+    "form": "klefki",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 9
+  },
+  {
+    "form": "darmanitan-standard-galar",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 7
+  },
+  {
+    "form": "sinistea-antique",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 70
+  },
+  {
+    "form": "krokorok",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 50
+  },
+  {
+    "form": "galvantula",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 8
+  },
+  {
+    "form": "torchic",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 69
+  },
+  {
+    "form": "rapidash-galar",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 5
+  },
+  {
+    "form": "spewpa-archipelago",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 93
+  },
+  {
+    "form": "blitzle",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 75
+  },
+  {
+    "form": "ninjask",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 11
+  },
+  {
+    "form": "maractus",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 10
+  },
+  {
+    "form": "snivy",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 70
+  },
+  {
+    "form": "spewpa-meadow",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 93
+  },
+  {
+    "form": "lickilicky",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 4
+  },
+  {
+    "form": "abra",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 69
+  },
+  {
+    "form": "nidoking",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 5
+  },
+  {
+    "form": "pignite",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 21
+  },
+  {
+    "form": "appletun",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 7
+  },
+  {
+    "form": "sliggoo",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 12
+  },
+  {
+    "form": "ekans",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 77
+  },
+  {
+    "form": "servine",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 22
+  },
+  {
+    "form": "dunsparce",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 22
+  },
+  {
+    "form": "urshifu-rapid-strike",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 2
+  },
+  {
+    "form": "vaporeon",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 3
+  },
+  {
+    "form": "porygon2",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 4
+  },
+  {
+    "form": "seel",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 62
+  },
+  {
+    "form": "mandibuzz",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 4
+  },
+  {
+    "form": "noibat",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 89
+  },
+  {
+    "form": "espurr",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 48
+  },
+  {
+    "form": "aggron",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 3
+  },
+  {
+    "form": "cryogonal",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 4
+  },
+  {
+    "form": "gloom",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 29
+  },
+  {
+    "form": "wigglytuff",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 16
+  },
+  {
+    "form": "minun",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 25
+  },
+  {
+    "form": "phione",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 7
+  },
+  {
+    "form": "vivillon-tundra",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 23
+  },
+  {
+    "form": "nickit",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 89
+  },
+  {
+    "form": "slowpoke",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 67
+  },
+  {
+    "form": "stoutland",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 5
+  },
+  {
+    "form": "zebstrika",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 5
+  },
+  {
+    "form": "jigglypuff",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 83
+  },
+  {
+    "form": "spoink",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 60
+  },
+  {
+    "form": "lucario",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 3
+  },
+  {
+    "form": "darumaka-galar",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 67
+  },
+  {
+    "form": "kingler",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 8
+  },
+  {
+    "form": "ledyba",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 84
+  },
+  {
+    "form": "flabebe-white",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 72
+  },
+  {
+    "form": "slowking-galar",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 6
+  },
+  {
+    "form": "torracat",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 20
+  },
+  {
+    "form": "tentacruel",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 4
+  },
+  {
+    "form": "anorith",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 48
+  },
+  {
+    "form": "meltan",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 73
+  },
+  {
+    "form": "runerigus",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 7
+  },
+  {
+    "form": "blissey",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 3
+  },
+  {
+    "form": "shellos-west",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 62
+  },
+  {
+    "form": "ponyta",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 23
+  },
+  {
+    "form": "swoobat",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 19
+  },
+  {
+    "form": "sealeo",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 23
+  },
+  {
+    "form": "araquanid",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 11
+  },
+  {
+    "form": "volbeat",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 17
+  },
+  {
+    "form": "oricorio-pau",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 8
+  },
+  {
+    "form": "bastiodon",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 6
+  },
+  {
+    "form": "spinda",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 45
+  },
+  {
+    "form": "crabrawler",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 56
+  },
+  {
+    "form": "accelgor",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 6
+  },
+  {
+    "form": "coalossal",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 4
+  },
+  {
+    "form": "jolteon",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 3
+  },
+  {
+    "form": "whimsicott",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 7
+  },
+  {
+    "form": "zarude-dada",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 1
+  },
+  {
+    "form": "scatterbug-fancy",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 95
+  },
+  {
+    "form": "poochyena",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 93
+  },
+  {
+    "form": "pikachu-phd",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 64
+  },
+  {
+    "form": "togetic",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 25
+  },
+  {
+    "form": "squirtle",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 67
+  },
+  {
+    "form": "prinplup",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 25
+  },
+  {
+    "form": "walrein",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 3
+  },
+  {
+    "form": "spewpa-monsoon",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 93
+  },
+  {
+    "form": "paras",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 78
+  },
+  {
+    "form": "rookidee",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 89
+  },
+  {
+    "form": "magneton",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 10
+  },
+  {
+    "form": "taillow",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 83
+  },
+  {
+    "form": "froakie",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 67
+  },
+  {
+    "form": "weedle",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 95
+  },
+  {
+    "form": "kakuna",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 94
+  },
+  {
+    "form": "scyther",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 5
+  },
+  {
+    "form": "nosepass",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 38
+  },
+  {
+    "form": "purugly",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 12
+  },
+  {
+    "form": "incineroar",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 3
+  },
+  {
+    "form": "druddigon",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 7
+  },
+  {
+    "form": "vivillon-garden",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 23
+  },
+  {
+    "form": "ditto",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 77
+  },
+  {
+    "form": "gourgeist-super",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 6
+  },
+  {
+    "form": "impidimp",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 84
+  },
+  {
+    "form": "ivysaur",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 25
+  },
+  {
+    "form": "morpeko-full-belly",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 16
+  },
+  {
+    "form": "axew",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 64
+  },
+  {
+    "form": "flygon",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 4
+  },
+  {
+    "form": "vulpix",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 73
+  },
+  {
+    "form": "xatu",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 9
+  },
+  {
+    "form": "spinarak",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 88
+  },
+  {
+    "form": "rotom-frost",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 4
+  },
+  {
+    "form": "skuntank",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 7
+  },
+  {
+    "form": "spewpa-marine",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 93
+  },
+  {
+    "form": "lycanroc-midday",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 7
+  },
+  {
+    "form": "hitmonlee",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 11
+  },
+  {
+    "form": "malamar",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 7
+  },
+  {
+    "form": "skrelp",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 64
+  },
+  {
+    "form": "machamp",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 5
+  },
+  {
+    "form": "musharna",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 7
+  },
+  {
+    "form": "grovyle",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 25
+  },
+  {
+    "form": "salandit",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 64
+  },
+  {
+    "form": "machop",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 71
+  },
+  {
+    "form": "gorebyss",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 7
+  },
+  {
+    "form": "shuckle",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 5
+  },
+  {
+    "form": "spectrier",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 1
+  },
+  {
+    "form": "calyrex-ice-rider",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 1
+  },
+  {
+    "form": "steelix",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 4
+  },
+  {
+    "form": "milcery",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 83
+  },
+  {
+    "form": "pikachu-alola-cap",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 64
+  },
+  {
+    "form": "farfetchd",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 37
+  },
+  {
+    "form": "sandslash-alola",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 12
+  },
+  {
+    "form": "exeggutor",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 3
+  },
+  {
+    "form": "togekiss",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 2
+  },
+  {
+    "form": "linoone",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 20
+  },
+  {
+    "form": "clobbopus",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 69
+  },
+  {
+    "form": "litwick",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 81
+  },
+  {
+    "form": "rhyperior",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 3
+  },
+  {
+    "form": "spewpa-sandstorm",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 93
+  },
+  {
+    "form": "drizzile",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 20
+  },
+  {
+    "form": "thievul",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 11
+  },
+  {
+    "form": "psyduck",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 64
+  },
+  {
+    "form": "yanmega",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 4
+  },
+  {
+    "form": "goldeen",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 64
+  },
+  {
+    "form": "bewear",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 5
+  },
+  {
+    "form": "bounsweet",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 94
+  },
+  {
+    "form": "karrablast",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 67
+  },
+  {
+    "form": "vibrava",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 55
+  },
+  {
+    "form": "persian-alola",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 15
+  },
+  {
+    "form": "chinchou",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 60
+  },
+  {
+    "form": "dusknoir",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 3
+  },
+  {
+    "form": "regidrago",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 1
+  },
+  {
+    "form": "araquanid-totem",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 11
+  },
+  {
+    "form": "fraxure",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 23
+  },
+  {
+    "form": "raticate",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 22
+  },
+  {
+    "form": "deerling-autumn",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 57
+  },
+  {
+    "form": "spheal",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 77
+  },
+  {
+    "form": "luxio",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 44
+  },
+  {
+    "form": "hatterene",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 4
+  },
+  {
+    "form": "morelull",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 78
+  },
+  {
+    "form": "magnezone",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 3
+  },
+  {
+    "form": "geodude-alola",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 73
+  },
+  {
+    "form": "inkay",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 77
+  },
+  {
+    "form": "greedent",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 10
+  },
+  {
+    "form": "gurdurr",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 25
+  },
+  {
+    "form": "floette-orange",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 40
+  },
+  {
+    "form": "growlithe",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 50
+  },
+  {
+    "form": "onix",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 33
+  },
+  {
+    "form": "toxapex",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 6
+  },
+  {
+    "form": "pikachu-partner-cap",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 64
+  },
+  {
+    "form": "centiskorch",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 3
+  },
+  {
+    "form": "roggenrola",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 80
+  },
+  {
+    "form": "floette-red",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 40
+  },
+  {
+    "form": "furfrou-natural",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 8
+  },
+  {
+    "form": "wormadam-sandy",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 19
+  },
+  {
+    "form": "shieldon",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 50
+  },
+  {
+    "form": "clauncher",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 60
+  },
+  {
+    "form": "minior-yellow",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 5
+  },
+  {
+    "form": "rotom-wash",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 4
+  },
+  {
+    "form": "braixen",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 24
+  },
+  {
+    "form": "spritzee",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 54
+  },
+  {
+    "form": "tyrunt",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 44
+  },
+  {
+    "form": "staraptor",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 7
+  },
+  {
+    "form": "oshawott",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 70
+  },
+  {
+    "form": "kirlia",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 81
+  },
+  {
+    "form": "drapion",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 5
+  },
+  {
+    "form": "pumpkaboo-large",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 57
+  },
+  {
+    "form": "tyranitar",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 1
+  },
+  {
+    "form": "honedge",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 62
+  },
+  {
+    "form": "sigilyph",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 6
+  },
+  {
+    "form": "illumise",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 17
+  },
+  {
+    "form": "sandile",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 76
+  },
+  {
+    "form": "bronzor",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 73
+  },
+  {
+    "form": "talonflame",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 5
+  },
+  {
+    "form": "carnivine",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 11
+  },
+  {
+    "form": "electrike",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 75
+  },
+  {
+    "form": "silicobra",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 67
+  },
+  {
+    "form": "spewpa-polar",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 93
+  },
+  {
+    "form": "darmanitan-zen-galar",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 3
+  },
+  {
+    "form": "diglett",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 84
+  },
+  {
+    "form": "magmortar",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 3
+  },
+  {
+    "form": "muk",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 5
+  },
+  {
+    "form": "timburr",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 71
+  },
+  {
+    "form": "decidueye",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 3
+  },
+  {
+    "form": "vivillon-continental",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 23
+  },
+  {
+    "form": "cofagrigus",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 7
+  },
+  {
+    "form": "bellossom",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 6
+  },
+  {
+    "form": "snorunt",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 73
+  },
+  {
+    "form": "umbreon",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 3
+  },
+  {
+    "form": "snover",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 58
+  },
+  {
+    "form": "rotom-fan",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 4
+  },
+  {
+    "form": "hitmontop",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 11
+  },
+  {
+    "form": "kangaskhan",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 6
+  },
+  {
+    "form": "larvitar",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 73
+  },
+  {
+    "form": "azumarill",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 20
+  },
+  {
+    "form": "mightyena",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 20
+  },
+  {
+    "form": "simisear",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 5
+  },
+  {
+    "form": "bulbasaur",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 65
+  },
+  {
+    "form": "leafeon",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 3
+  },
+  {
+    "form": "vivillon-poke-ball",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 23
+  },
+  {
+    "form": "shelgon",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 20
+  },
+  {
+    "form": "horsea",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 75
+  },
+  {
+    "form": "lycanroc-dusk",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 7
+  },
+  {
+    "form": "tepig",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 70
+  },
+  {
+    "form": "parasect",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 25
+  },
+  {
+    "form": "scorbunny",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 69
+  },
+  {
+    "form": "weepinbell",
+    "min_level": 5,
+    "max_level": 45,
+    "weight": 31
+  }
+]

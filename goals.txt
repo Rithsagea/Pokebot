@@ -1,7 +1,8 @@
 Goals:
 
-- Command API for discord
-- Store discord user data
+- Timer for spawning pokemon
+- Config for individual discord servers
+- EXP Gain through chatting
 - Figure out how catching pokemon will work
 
 - DELETE com.pokebot.json.importer

@@ -1,6 +1,7 @@
 package com.pokebot.types.data;
 
 import java.io.InputStreamReader;
+import java.util.Collection;
 import java.util.HashMap;
 
 import com.google.gson.Gson;
@@ -68,5 +69,17 @@ public class DataRegistry {
 	
 	public AbilityData getAbility(String identifier) {
 		return abilityMap.get(identifier);
+	}
+	
+	public Collection<SpeciesData> getSpecies() {
+		return speciesMap.values();
+	}
+	
+	public Collection<PokemonData> getPokemons() {
+		return pokemonMap.values();
+	}
+	
+	public Collection<FormData> getForms() {
+		return formMap.values();
 	}
 }

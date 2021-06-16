@@ -8,6 +8,8 @@ import com.pokebot.types.Gender;
 import com.pokebot.types.Nature;
 import com.pokebot.types.Stat;
 import com.pokebot.types.data.DataRegistry;
+import com.pokebot.types.data.SpawnData;
+import com.pokebot.types.data.SpawnRegistry;
 
 public class PokemonGenerator {
 	public static Pokemon generatePokemon(String form, int level) {
@@ -57,8 +59,8 @@ public class PokemonGenerator {
 		return pokemon;
 	}
 
-	//TODO: loot table here
 	public static Pokemon generateWildPokemon() {
-		return generatePokemon("chansey", 30);
+		SpawnData s = SpawnRegistry.getInstance().getSpawn();
+		return generatePokemon(s.form, (int) (Math.random() * (s.max_level - s.min_level)) + s.min_level);
 	}
 }

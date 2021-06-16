@@ -88,7 +88,7 @@ public class PokemonManager {
 		} else {
 			Pokemon p = activePokemon.remove(chann);
 			user.party.add(p);
-			chann.sendMessage("Congratulations " + sender.getAsMention() + "! You caught a level " + p.level + " " + p.getName(Language.en)).queue();
+			chann.sendMessage("Congratulations " + sender.getAsMention() + "! You caught a level " + p.level + " " + p.getName(Language.en) + "!").queue();
 		}
 	}
 	

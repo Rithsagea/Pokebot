@@ -19,6 +19,7 @@ import com.pokebot.discord.command.CommandStartPokemon;
 import com.pokebot.discord.command.CommandStop;
 import com.pokebot.game.PokemonManager;
 import com.pokebot.types.data.DataRegistry;
+import com.pokebot.types.data.SpawnRegistry;
 
 import net.dv8tion.jda.api.JDA;
 import net.dv8tion.jda.api.JDABuilder;
@@ -60,6 +61,7 @@ public class Pokebot {
 		}
 		
 		DataRegistry.getInstance().loadData();
+		SpawnRegistry.getInstance().loadData();
 		pokemonManager = new PokemonManager(userDataFile);
 		executorService.scheduleAtFixedRate(this::saveFile, 0, 1, TimeUnit.MINUTES);
 		
