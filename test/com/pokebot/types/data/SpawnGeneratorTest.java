@@ -13,7 +13,7 @@ import com.pokebot.types.Stat;
 
 public class SpawnGeneratorTest {
 	private static int calc(int x) {
-		return (int)(99d / (1d + Math.pow(Math.E, -(350d - x) / 50d)) + 1d);
+		return (int)(95d / (1d + Math.pow(Math.E, -(350d - x) / 50d)) + 5d);
 	}
 	
 	public static void main(String[] args) throws JsonIOException, IOException {

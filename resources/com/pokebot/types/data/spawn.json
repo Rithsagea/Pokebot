@@ -3,109 +3,109 @@
     "form": "flabebe-orange",
     "min_level": 5,
     "max_level": 45,
-    "weight": 72
+    "weight": 73
   },
   {
     "form": "beedrill",
     "min_level": 5,
     "max_level": 45,
-    "weight": 29
+    "weight": 32
   },
   {
     "form": "delphox",
     "min_level": 5,
     "max_level": 45,
-    "weight": 3
+    "weight": 7
   },
   {
     "form": "shelmet",
     "min_level": 5,
     "max_level": 45,
-    "weight": 71
+    "weight": 72
   },
   {
     "form": "dragonair",
     "min_level": 5,
     "max_level": 45,
-    "weight": 20
+    "weight": 23
   },
   {
     "form": "frogadier",
     "min_level": 5,
     "max_level": 45,
-    "weight": 25
+    "weight": 28
   },
   {
     "form": "doublade",
     "min_level": 5,
     "max_level": 45,
-    "weight": 13
+    "weight": 16
   },
   {
     "form": "morgrem",
     "min_level": 5,
     "max_level": 45,
-    "weight": 40
+    "weight": 43
   },
   {
     "form": "gengar",
     "min_level": 5,
     "max_level": 45,
-    "weight": 5
+    "weight": 9
   },
   {
     "form": "seviper",
     "min_level": 5,
     "max_level": 45,
-    "weight": 11
+    "weight": 14
   },
   {
     "form": "gyarados",
     "min_level": 5,
     "max_level": 45,
-    "weight": 3
+    "weight": 7
   },
   {
     "form": "nuzleaf",
     "min_level": 5,
     "max_level": 45,
-    "weight": 55
+    "weight": 57
   },
   {
     "form": "toxtricity-amped",
     "min_level": 5,
     "max_level": 45,
-    "weight": 5
+    "weight": 9
   },
   {
     "form": "lombre",
     "min_level": 5,
     "max_level": 45,
-    "weight": 55
+    "weight": 57
   },
   {
     "form": "vivillon-ocean",
     "min_level": 5,
     "max_level": 45,
-    "weight": 23
+    "weight": 26
   },
   {
     "form": "tranquill",
     "min_level": 5,
     "max_level": 45,
-    "weight": 46
+    "weight": 48
   },
   {
     "form": "grimmsnarl",
     "min_level": 5,
     "max_level": 45,
-    "weight": 4
+    "weight": 8
   },
   {
     "form": "manaphy",
     "min_level": 5,
     "max_level": 45,
-    "weight": 1
+    "weight": 5
   },
   {
     "form": "zubat",
@@ -117,67 +117,67 @@
     "form": "mimikyu-disguised",
     "min_level": 5,
     "max_level": 45,
-    "weight": 8
+    "weight": 12
   },
   {
     "form": "dottler",
     "min_level": 5,
     "max_level": 45,
-    "weight": 57
+    "weight": 59
   },
   {
     "form": "sneasel",
     "min_level": 5,
     "max_level": 45,
-    "weight": 17
+    "weight": 20
   },
   {
     "form": "cloyster",
     "min_level": 5,
     "max_level": 45,
-    "weight": 3
+    "weight": 7
   },
   {
     "form": "trumbeak",
     "min_level": 5,
     "max_level": 45,
-    "weight": 48
+    "weight": 50
   },
   {
     "form": "sawsbuck-spring",
     "min_level": 5,
     "max_level": 45,
-    "weight": 8
+    "weight": 12
   },
   {
     "form": "ariados",
     "min_level": 5,
     "max_level": 45,
-    "weight": 27
+    "weight": 30
   },
   {
     "form": "grumpig",
     "min_level": 5,
     "max_level": 45,
-    "weight": 9
+    "weight": 12
   },
   {
     "form": "golisopod",
     "min_level": 5,
     "max_level": 45,
-    "weight": 3
+    "weight": 7
   },
   {
     "form": "spewpa-high-plains",
     "min_level": 5,
     "max_level": 45,
-    "weight": 93
+    "weight": 94
   },
   {
     "form": "lycanroc-midnight",
     "min_level": 5,
     "max_level": 45,
-    "weight": 7
+    "weight": 10
   },
   {
     "form": "wishiwashi-solo",
@@ -195,61 +195,61 @@
     "form": "persian",
     "min_level": 5,
     "max_level": 45,
-    "weight": 15
+    "weight": 18
   },
   {
     "form": "steenee",
     "min_level": 5,
     "max_level": 45,
-    "weight": 77
+    "weight": 78
   },
   {
     "form": "treecko",
     "min_level": 5,
     "max_level": 45,
-    "weight": 69
+    "weight": 70
   },
   {
     "form": "tsareena",
     "min_level": 5,
     "max_level": 45,
-    "weight": 4
+    "weight": 8
   },
   {
     "form": "furfrou-la-reine",
     "min_level": 5,
     "max_level": 45,
-    "weight": 8
+    "weight": 12
   },
   {
     "form": "amaura",
     "min_level": 5,
     "max_level": 45,
-    "weight": 44
+    "weight": 46
   },
   {
     "form": "drakloak",
     "min_level": 5,
     "max_level": 45,
-    "weight": 23
+    "weight": 26
   },
   {
     "form": "salazzle",
     "min_level": 5,
     "max_level": 45,
-    "weight": 7
+    "weight": 11
   },
   {
     "form": "throh",
     "min_level": 5,
     "max_level": 45,
-    "weight": 10
+    "weight": 13
   },
   {
     "form": "alcremie",
     "min_level": 5,
     "max_level": 45,
-    "weight": 6
+    "weight": 9
   },
   {
     "form": "wooper",
@@ -261,13 +261,13 @@
     "form": "bunnelby",
     "min_level": 5,
     "max_level": 45,
-    "weight": 90
+    "weight": 91
   },
   {
     "form": "sandslash",
     "min_level": 5,
     "max_level": 45,
-    "weight": 12
+    "weight": 16
   },
   {
     "form": "whismur",
@@ -279,43 +279,43 @@
     "form": "vivillon-monsoon",
     "min_level": 5,
     "max_level": 45,
-    "weight": 23
+    "weight": 26
   },
   {
     "form": "quagsire",
     "min_level": 5,
     "max_level": 45,
-    "weight": 17
+    "weight": 20
   },
   {
     "form": "charizard",
     "min_level": 5,
     "max_level": 45,
-    "weight": 3
+    "weight": 7
   },
   {
     "form": "minior-indigo",
     "min_level": 5,
     "max_level": 45,
-    "weight": 5
+    "weight": 9
   },
   {
     "form": "starmie",
     "min_level": 5,
     "max_level": 45,
-    "weight": 4
+    "weight": 8
   },
   {
     "form": "chesnaught",
     "min_level": 5,
     "max_level": 45,
-    "weight": 3
+    "weight": 7
   },
   {
     "form": "spewpa-garden",
     "min_level": 5,
     "max_level": 45,
-    "weight": 93
+    "weight": 94
   },
   {
     "form": "combee",
@@ -327,397 +327,397 @@
     "form": "joltik",
     "min_level": 5,
     "max_level": 45,
-    "weight": 65
+    "weight": 66
   },
   {
     "form": "swampert",
     "min_level": 5,
     "max_level": 45,
-    "weight": 3
+    "weight": 7
   },
   {
     "form": "dugtrio",
     "min_level": 5,
     "max_level": 45,
-    "weight": 19
+    "weight": 22
   },
   {
     "form": "quilava",
     "min_level": 5,
     "max_level": 45,
-    "weight": 25
+    "weight": 28
   },
   {
     "form": "scraggy",
     "min_level": 5,
     "max_level": 45,
-    "weight": 51
+    "weight": 53
   },
   {
     "form": "stufful",
     "min_level": 5,
     "max_level": 45,
-    "weight": 55
+    "weight": 57
   },
   {
     "form": "golurk",
     "min_level": 5,
     "max_level": 45,
-    "weight": 7
+    "weight": 11
   },
   {
     "form": "liepard",
     "min_level": 5,
     "max_level": 45,
-    "weight": 13
+    "weight": 17
   },
   {
     "form": "thwackey",
     "min_level": 5,
     "max_level": 45,
-    "weight": 20
+    "weight": 23
   },
   {
     "form": "pumpkaboo-small",
     "min_level": 5,
     "max_level": 45,
-    "weight": 57
+    "weight": 59
   },
   {
     "form": "rockruff-own-tempo",
     "min_level": 5,
     "max_level": 45,
-    "weight": 80
+    "weight": 81
   },
   {
     "form": "kabuto",
     "min_level": 5,
     "max_level": 45,
-    "weight": 48
+    "weight": 50
   },
   {
     "form": "petilil",
     "min_level": 5,
     "max_level": 45,
-    "weight": 80
+    "weight": 81
   },
   {
     "form": "raichu-alola",
     "min_level": 5,
     "max_level": 45,
-    "weight": 7
+    "weight": 10
   },
   {
     "form": "sylveon",
     "min_level": 5,
     "max_level": 45,
-    "weight": 3
+    "weight": 7
   },
   {
     "form": "spiritomb",
     "min_level": 5,
     "max_level": 45,
-    "weight": 7
+    "weight": 10
   },
   {
     "form": "exeggutor-alola",
     "min_level": 5,
     "max_level": 45,
-    "weight": 3
+    "weight": 7
   },
   {
     "form": "minior-blue",
     "min_level": 5,
     "max_level": 45,
-    "weight": 5
+    "weight": 9
   },
   {
     "form": "feraligatr",
     "min_level": 5,
     "max_level": 45,
-    "weight": 3
+    "weight": 7
   },
   {
     "form": "polteageist-phony",
     "min_level": 5,
     "max_level": 45,
-    "weight": 5
+    "weight": 8
   },
   {
     "form": "vivillon-archipelago",
     "min_level": 5,
     "max_level": 45,
-    "weight": 23
+    "weight": 26
   },
   {
     "form": "sobble",
     "min_level": 5,
     "max_level": 45,
-    "weight": 69
+    "weight": 70
   },
   {
     "form": "flabebe-red",
     "min_level": 5,
     "max_level": 45,
-    "weight": 72
+    "weight": 73
   },
   {
     "form": "shiftry",
     "min_level": 5,
     "max_level": 45,
-    "weight": 7
+    "weight": 11
   },
   {
     "form": "floette-eternal",
     "min_level": 5,
     "max_level": 45,
-    "weight": 2
+    "weight": 6
   },
   {
     "form": "cherrim-overcast",
     "min_level": 5,
     "max_level": 45,
-    "weight": 12
+    "weight": 16
   },
   {
     "form": "vikavolt",
     "min_level": 5,
     "max_level": 45,
-    "weight": 5
+    "weight": 9
   },
   {
     "form": "hatenna",
     "min_level": 5,
     "max_level": 45,
-    "weight": 84
+    "weight": 85
   },
   {
     "form": "oricorio-pom-pom",
     "min_level": 5,
     "max_level": 45,
-    "weight": 8
+    "weight": 12
   },
   {
     "form": "nidorino",
     "min_level": 5,
     "max_level": 45,
-    "weight": 43
+    "weight": 45
   },
   {
     "form": "corsola-galar",
     "min_level": 5,
     "max_level": 45,
-    "weight": 23
+    "weight": 26
   },
   {
     "form": "roselia",
     "min_level": 5,
     "max_level": 45,
-    "weight": 27
+    "weight": 30
   },
   {
     "form": "pansear",
     "min_level": 5,
     "max_level": 45,
-    "weight": 66
+    "weight": 68
   },
   {
     "form": "lileep",
     "min_level": 5,
     "max_level": 45,
-    "weight": 48
+    "weight": 50
   },
   {
     "form": "roserade",
     "min_level": 5,
     "max_level": 45,
-    "weight": 4
+    "weight": 8
   },
   {
     "form": "dragalge",
     "min_level": 5,
     "max_level": 45,
-    "weight": 6
+    "weight": 10
   },
   {
     "form": "yanma",
     "min_level": 5,
     "max_level": 45,
-    "weight": 31
+    "weight": 34
   },
   {
     "form": "aipom",
     "min_level": 5,
     "max_level": 45,
-    "weight": 45
+    "weight": 47
   },
   {
     "form": "dartrix",
     "min_level": 5,
     "max_level": 45,
-    "weight": 20
+    "weight": 23
   },
   {
     "form": "slowpoke-galar",
     "min_level": 5,
     "max_level": 45,
-    "weight": 67
+    "weight": 68
   },
   {
     "form": "cradily",
     "min_level": 5,
     "max_level": 45,
-    "weight": 6
+    "weight": 9
   },
   {
     "form": "sirfetchd",
     "min_level": 5,
     "max_level": 45,
-    "weight": 5
+    "weight": 8
   },
   {
     "form": "gardevoir",
     "min_level": 5,
     "max_level": 45,
-    "weight": 4
+    "weight": 8
   },
   {
     "form": "crustle",
     "min_level": 5,
     "max_level": 45,
-    "weight": 7
+    "weight": 10
   },
   {
     "form": "gigalith",
     "min_level": 5,
     "max_level": 45,
-    "weight": 4
+    "weight": 8
   },
   {
     "form": "falinks",
     "min_level": 5,
     "max_level": 45,
-    "weight": 9
+    "weight": 12
   },
   {
     "form": "houndoom",
     "min_level": 5,
     "max_level": 45,
-    "weight": 5
+    "weight": 9
   },
   {
     "form": "toxicroak",
     "min_level": 5,
     "max_level": 45,
-    "weight": 6
+    "weight": 10
   },
   {
     "form": "gliscor",
     "min_level": 5,
     "max_level": 45,
-    "weight": 4
+    "weight": 8
   },
   {
     "form": "toxtricity-low-key",
     "min_level": 5,
     "max_level": 45,
-    "weight": 5
+    "weight": 9
   },
   {
     "form": "scizor",
     "min_level": 5,
     "max_level": 45,
-    "weight": 5
+    "weight": 9
   },
   {
     "form": "arctozolt",
     "min_level": 5,
     "max_level": 45,
-    "weight": 5
+    "weight": 9
   },
   {
     "form": "swadloon",
     "min_level": 5,
     "max_level": 45,
-    "weight": 36
+    "weight": 38
   },
   {
     "form": "gastrodon-west",
     "min_level": 5,
     "max_level": 45,
-    "weight": 8
+    "weight": 12
   },
   {
     "form": "wailord",
     "min_level": 5,
     "max_level": 45,
-    "weight": 5
+    "weight": 9
   },
   {
     "form": "arcanine",
     "min_level": 5,
     "max_level": 45,
-    "weight": 2
+    "weight": 6
   },
   {
     "form": "tangrowth",
     "min_level": 5,
     "max_level": 45,
-    "weight": 3
+    "weight": 7
   },
   {
     "form": "mismagius",
     "min_level": 5,
     "max_level": 45,
-    "weight": 6
+    "weight": 9
   },
   {
     "form": "cottonee",
     "min_level": 5,
     "max_level": 45,
-    "weight": 80
+    "weight": 81
   },
   {
     "form": "furfrou-star",
     "min_level": 5,
     "max_level": 45,
-    "weight": 8
+    "weight": 12
   },
   {
     "form": "nidoran-f",
     "min_level": 5,
     "max_level": 45,
-    "weight": 81
+    "weight": 82
   },
   {
     "form": "butterfree",
     "min_level": 5,
     "max_level": 45,
-    "weight": 29
+    "weight": 32
   },
   {
     "form": "vivillon-modern",
     "min_level": 5,
     "max_level": 45,
-    "weight": 23
+    "weight": 26
   },
   {
     "form": "blastoise",
     "min_level": 5,
     "max_level": 45,
-    "weight": 3
+    "weight": 7
   },
   {
     "form": "pidgey",
     "min_level": 5,
     "max_level": 45,
-    "weight": 87
+    "weight": 88
   },
   {
     "form": "gible",
     "min_level": 5,
     "max_level": 45,
-    "weight": 73
+    "weight": 74
   },
   {
     "form": "burmy-plant",
@@ -729,43 +729,43 @@
     "form": "pidove",
     "min_level": 5,
     "max_level": 45,
-    "weight": 84
+    "weight": 85
   },
   {
     "form": "nidoran-m",
     "min_level": 5,
     "max_level": 45,
-    "weight": 82
+    "weight": 83
   },
   {
     "form": "numel",
     "min_level": 5,
     "max_level": 45,
-    "weight": 71
+    "weight": 72
   },
   {
     "form": "bibarel",
     "min_level": 5,
     "max_level": 45,
-    "weight": 23
+    "weight": 26
   },
   {
     "form": "samurott",
     "min_level": 5,
     "max_level": 45,
-    "weight": 3
+    "weight": 7
   },
   {
     "form": "minior-violet",
     "min_level": 5,
     "max_level": 45,
-    "weight": 5
+    "weight": 9
   },
   {
     "form": "dugtrio-alola",
     "min_level": 5,
     "max_level": 45,
-    "weight": 19
+    "weight": 22
   },
   {
     "form": "feebas",
@@ -777,31 +777,31 @@
     "form": "furfrou-kabuki",
     "min_level": 5,
     "max_level": 45,
-    "weight": 8
+    "weight": 12
   },
   {
     "form": "durant",
     "min_level": 5,
     "max_level": 45,
-    "weight": 7
+    "weight": 11
   },
   {
     "form": "grapploct",
     "min_level": 5,
     "max_level": 45,
-    "weight": 7
+    "weight": 11
   },
   {
     "form": "glalie",
     "min_level": 5,
     "max_level": 45,
-    "weight": 7
+    "weight": 11
   },
   {
     "form": "vivillon-river",
     "min_level": 5,
     "max_level": 45,
-    "weight": 23
+    "weight": 26
   },
   {
     "form": "lotad",
@@ -813,163 +813,163 @@
     "form": "skarmory",
     "min_level": 5,
     "max_level": 45,
-    "weight": 10
+    "weight": 13
   },
   {
     "form": "lunatone",
     "min_level": 5,
     "max_level": 45,
-    "weight": 10
+    "weight": 14
   },
   {
     "form": "floatzel",
     "min_level": 5,
     "max_level": 45,
-    "weight": 6
+    "weight": 9
   },
   {
     "form": "qwilfish",
     "min_level": 5,
     "max_level": 45,
-    "weight": 15
+    "weight": 18
   },
   {
     "form": "rhydon",
     "min_level": 5,
     "max_level": 45,
-    "weight": 7
+    "weight": 10
   },
   {
     "form": "kubfu",
     "min_level": 5,
     "max_level": 45,
-    "weight": 33
+    "weight": 36
   },
   {
     "form": "meowstic-male",
     "min_level": 5,
     "max_level": 45,
-    "weight": 9
+    "weight": 13
   },
   {
     "form": "floette-blue",
     "min_level": 5,
     "max_level": 45,
-    "weight": 40
+    "weight": 42
   },
   {
     "form": "ambipom",
     "min_level": 5,
     "max_level": 45,
-    "weight": 7
+    "weight": 11
   },
   {
     "form": "furfrou-pharaoh",
     "min_level": 5,
     "max_level": 45,
-    "weight": 8
+    "weight": 12
   },
   {
     "form": "dreepy",
     "min_level": 5,
     "max_level": 45,
-    "weight": 83
+    "weight": 84
   },
   {
     "form": "drowzee",
     "min_level": 5,
     "max_level": 45,
-    "weight": 61
+    "weight": 62
   },
   {
     "form": "trubbish",
     "min_level": 5,
     "max_level": 45,
-    "weight": 60
+    "weight": 62
   },
   {
     "form": "palpitoad",
     "min_level": 5,
     "max_level": 45,
-    "weight": 34
+    "weight": 36
   },
   {
     "form": "urshifu-single-strike",
     "min_level": 5,
     "max_level": 45,
-    "weight": 2
+    "weight": 6
   },
   {
     "form": "linoone-galar",
     "min_level": 5,
     "max_level": 45,
-    "weight": 20
+    "weight": 23
   },
   {
     "form": "arrokuda",
     "min_level": 5,
     "max_level": 45,
-    "weight": 80
+    "weight": 81
   },
   {
     "form": "mothim-trash",
     "min_level": 5,
     "max_level": 45,
-    "weight": 19
+    "weight": 22
   },
   {
     "form": "furfrou-matron",
     "min_level": 5,
     "max_level": 45,
-    "weight": 8
+    "weight": 12
   },
   {
     "form": "hakamo-o",
     "min_level": 5,
     "max_level": 45,
-    "weight": 20
+    "weight": 23
   },
   {
     "form": "eiscue-ice",
     "min_level": 5,
     "max_level": 45,
-    "weight": 9
+    "weight": 12
   },
   {
     "form": "comfey",
     "min_level": 5,
     "max_level": 45,
-    "weight": 7
+    "weight": 10
   },
   {
     "form": "skorupi",
     "min_level": 5,
     "max_level": 45,
-    "weight": 60
+    "weight": 61
   },
   {
     "form": "greninja",
     "min_level": 5,
     "max_level": 45,
-    "weight": 3
+    "weight": 7
   },
   {
     "form": "carkol",
     "min_level": 5,
     "max_level": 45,
-    "weight": 23
+    "weight": 26
   },
   {
     "form": "electivire",
     "min_level": 5,
     "max_level": 45,
-    "weight": 3
+    "weight": 7
   },
   {
     "form": "pansage",
     "min_level": 5,
     "max_level": 45,
-    "weight": 66
+    "weight": 68
   },
   {
     "form": "snom",
@@ -981,25 +981,25 @@
     "form": "primeape",
     "min_level": 5,
     "max_level": 45,
-    "weight": 11
+    "weight": 15
   },
   {
     "form": "bouffalant",
     "min_level": 5,
     "max_level": 45,
-    "weight": 6
+    "weight": 10
   },
   {
     "form": "corviknight",
     "min_level": 5,
     "max_level": 45,
-    "weight": 6
+    "weight": 9
   },
   {
     "form": "pikachu-unova-cap",
     "min_level": 5,
     "max_level": 45,
-    "weight": 64
+    "weight": 66
   },
   {
     "form": "bidoof",
@@ -1011,277 +1011,277 @@
     "form": "crobat",
     "min_level": 5,
     "max_level": 45,
-    "weight": 3
+    "weight": 7
   },
   {
     "form": "carracosta",
     "min_level": 5,
     "max_level": 45,
-    "weight": 6
+    "weight": 9
   },
   {
     "form": "clefairy",
     "min_level": 5,
     "max_level": 45,
-    "weight": 63
+    "weight": 65
   },
   {
     "form": "solosis",
     "min_level": 5,
     "max_level": 45,
-    "weight": 77
+    "weight": 78
   },
   {
     "form": "cramorant",
     "min_level": 5,
     "max_level": 45,
-    "weight": 8
+    "weight": 12
   },
   {
     "form": "pikipek",
     "min_level": 5,
     "max_level": 45,
-    "weight": 84
+    "weight": 85
   },
   {
     "form": "hattrem",
     "min_level": 5,
     "max_level": 45,
-    "weight": 40
+    "weight": 43
   },
   {
     "form": "meowth-alola",
     "min_level": 5,
     "max_level": 45,
-    "weight": 77
+    "weight": 78
   },
   {
     "form": "relicanth",
     "min_level": 5,
     "max_level": 45,
-    "weight": 7
+    "weight": 10
   },
   {
     "form": "hippowdon",
     "min_level": 5,
     "max_level": 45,
-    "weight": 3
+    "weight": 7
   },
   {
     "form": "sandshrew-alola",
     "min_level": 5,
     "max_level": 45,
-    "weight": 73
+    "weight": 74
   },
   {
     "form": "obstagoon",
     "min_level": 5,
     "max_level": 45,
-    "weight": 4
+    "weight": 8
   },
   {
     "form": "mothim-plant",
     "min_level": 5,
     "max_level": 45,
-    "weight": 19
+    "weight": 22
   },
   {
     "form": "empoleon",
     "min_level": 5,
     "max_level": 45,
-    "weight": 3
+    "weight": 7
   },
   {
     "form": "zoroark",
     "min_level": 5,
     "max_level": 45,
-    "weight": 4
+    "weight": 8
   },
   {
     "form": "togedemaru",
     "min_level": 5,
     "max_level": 45,
-    "weight": 16
+    "weight": 19
   },
   {
     "form": "aegislash-shield",
     "min_level": 5,
     "max_level": 45,
-    "weight": 5
+    "weight": 9
   },
   {
     "form": "lanturn",
     "min_level": 5,
     "max_level": 45,
-    "weight": 10
+    "weight": 14
   },
   {
     "form": "lapras",
     "min_level": 5,
     "max_level": 45,
-    "weight": 3
+    "weight": 7
   },
   {
     "form": "ninetales",
     "min_level": 5,
     "max_level": 45,
-    "weight": 5
+    "weight": 9
   },
   {
     "form": "melmetal",
     "min_level": 5,
     "max_level": 45,
-    "weight": 1
+    "weight": 5
   },
   {
     "form": "dracovish",
     "min_level": 5,
     "max_level": 45,
-    "weight": 5
+    "weight": 9
   },
   {
     "form": "braviary",
     "min_level": 5,
     "max_level": 45,
-    "weight": 4
+    "weight": 8
   },
   {
     "form": "whiscash",
     "min_level": 5,
     "max_level": 45,
-    "weight": 9
+    "weight": 13
   },
   {
     "form": "simisage",
     "min_level": 5,
     "max_level": 45,
-    "weight": 5
+    "weight": 9
   },
   {
     "form": "boldore",
     "min_level": 5,
     "max_level": 45,
-    "weight": 31
+    "weight": 34
   },
   {
     "form": "combusken",
     "min_level": 5,
     "max_level": 45,
-    "weight": 25
+    "weight": 28
   },
   {
     "form": "sawk",
     "min_level": 5,
     "max_level": 45,
-    "weight": 10
+    "weight": 13
   },
   {
     "form": "basculin-red-striped",
     "min_level": 5,
     "max_level": 45,
-    "weight": 10
+    "weight": 14
   },
   {
     "form": "mienfoo",
     "min_level": 5,
     "max_level": 45,
-    "weight": 50
+    "weight": 52
   },
   {
     "form": "sawsbuck-autumn",
     "min_level": 5,
     "max_level": 45,
-    "weight": 8
+    "weight": 12
   },
   {
     "form": "rattata",
     "min_level": 5,
     "max_level": 45,
-    "weight": 87
+    "weight": 88
   },
   {
     "form": "gabite",
     "min_level": 5,
     "max_level": 45,
-    "weight": 23
+    "weight": 26
   },
   {
     "form": "ponyta-galar",
     "min_level": 5,
     "max_level": 45,
-    "weight": 23
+    "weight": 26
   },
   {
     "form": "deerling-spring",
     "min_level": 5,
     "max_level": 45,
-    "weight": 57
+    "weight": 59
   },
   {
     "form": "claydol",
     "min_level": 5,
     "max_level": 45,
-    "weight": 5
+    "weight": 9
   },
   {
     "form": "florges-red",
     "min_level": 5,
     "max_level": 45,
-    "weight": 2
+    "weight": 6
   },
   {
     "form": "polteageist-antique",
     "min_level": 5,
     "max_level": 45,
-    "weight": 5
+    "weight": 8
   },
   {
     "form": "ampharos",
     "min_level": 5,
     "max_level": 45,
-    "weight": 4
+    "weight": 8
   },
   {
     "form": "forretress",
     "min_level": 5,
     "max_level": 45,
-    "weight": 10
+    "weight": 13
   },
   {
     "form": "vivillon-fancy",
     "min_level": 5,
     "max_level": 45,
-    "weight": 23
+    "weight": 26
   },
   {
     "form": "raboot",
     "min_level": 5,
     "max_level": 45,
-    "weight": 20
+    "weight": 23
   },
   {
     "form": "indeedee-female",
     "min_level": 5,
     "max_level": 45,
-    "weight": 8
+    "weight": 12
   },
   {
     "form": "gothorita",
     "min_level": 5,
     "max_level": 45,
-    "weight": 31
+    "weight": 34
   },
   {
     "form": "buizel",
     "min_level": 5,
     "max_level": 45,
-    "weight": 60
+    "weight": 61
   },
   {
     "form": "cubone",
     "min_level": 5,
     "max_level": 45,
-    "weight": 64
+    "weight": 66
   },
   {
     "form": "scatterbug-polar",
@@ -1293,25 +1293,25 @@
     "form": "metang",
     "min_level": 5,
     "max_level": 45,
-    "weight": 20
+    "weight": 23
   },
   {
     "form": "greninja-battle-bond",
     "min_level": 5,
     "max_level": 45,
-    "weight": 3
+    "weight": 7
   },
   {
     "form": "floette-yellow",
     "min_level": 5,
     "max_level": 45,
-    "weight": 40
+    "weight": 42
   },
   {
     "form": "raticate-alola",
     "min_level": 5,
     "max_level": 45,
-    "weight": 22
+    "weight": 25
   },
   {
     "form": "scatterbug-poke-ball",
@@ -1323,115 +1323,115 @@
     "form": "brionne",
     "min_level": 5,
     "max_level": 45,
-    "weight": 20
+    "weight": 23
   },
   {
     "form": "sandygast",
     "min_level": 5,
     "max_level": 45,
-    "weight": 64
+    "weight": 66
   },
   {
     "form": "cacnea",
     "min_level": 5,
     "max_level": 45,
-    "weight": 57
+    "weight": 59
   },
   {
     "form": "gligar",
     "min_level": 5,
     "max_level": 45,
-    "weight": 17
+    "weight": 20
   },
   {
     "form": "meowth-galar",
     "min_level": 5,
     "max_level": 45,
-    "weight": 77
+    "weight": 78
   },
   {
     "form": "plusle",
     "min_level": 5,
     "max_level": 45,
-    "weight": 25
+    "weight": 28
   },
   {
     "form": "golem-alola",
     "min_level": 5,
     "max_level": 45,
-    "weight": 6
+    "weight": 9
   },
   {
     "form": "bisharp",
     "min_level": 5,
     "max_level": 45,
-    "weight": 6
+    "weight": 10
   },
   {
     "form": "pikachu-pop-star",
     "min_level": 5,
     "max_level": 45,
-    "weight": 64
+    "weight": 66
   },
   {
     "form": "venusaur",
     "min_level": 5,
     "max_level": 45,
-    "weight": 3
+    "weight": 7
   },
   {
     "form": "kommo-o",
     "min_level": 5,
     "max_level": 45,
-    "weight": 1
+    "weight": 5
   },
   {
     "form": "jumpluff",
     "min_level": 5,
     "max_level": 45,
-    "weight": 10
+    "weight": 14
   },
   {
     "form": "poliwag",
     "min_level": 5,
     "max_level": 45,
-    "weight": 73
+    "weight": 74
   },
   {
     "form": "bellsprout",
     "min_level": 5,
     "max_level": 45,
-    "weight": 73
+    "weight": 74
   },
   {
     "form": "phanpy",
     "min_level": 5,
     "max_level": 45,
-    "weight": 60
+    "weight": 61
   },
   {
     "form": "camerupt",
     "min_level": 5,
     "max_level": 45,
-    "weight": 10
+    "weight": 14
   },
   {
     "form": "chimchar",
     "min_level": 5,
     "max_level": 45,
-    "weight": 69
+    "weight": 70
   },
   {
     "form": "glameow",
     "min_level": 5,
     "max_level": 45,
-    "weight": 69
+    "weight": 70
   },
   {
     "form": "oranguru",
     "min_level": 5,
     "max_level": 45,
-    "weight": 6
+    "weight": 10
   },
   {
     "form": "smeargle",
@@ -1443,61 +1443,61 @@
     "form": "masquerain",
     "min_level": 5,
     "max_level": 45,
-    "weight": 11
+    "weight": 15
   },
   {
     "form": "florges-white",
     "min_level": 5,
     "max_level": 45,
-    "weight": 2
+    "weight": 6
   },
   {
     "form": "gulpin",
     "min_level": 5,
     "max_level": 45,
-    "weight": 72
+    "weight": 73
   },
   {
     "form": "lilligant",
     "min_level": 5,
     "max_level": 45,
-    "weight": 7
+    "weight": 11
   },
   {
     "form": "golem",
     "min_level": 5,
     "max_level": 45,
-    "weight": 6
+    "weight": 9
   },
   {
     "form": "manectric",
     "min_level": 5,
     "max_level": 45,
-    "weight": 8
+    "weight": 12
   },
   {
     "form": "pikachu-sinnoh-cap",
     "min_level": 5,
     "max_level": 45,
-    "weight": 64
+    "weight": 66
   },
   {
     "form": "gourgeist-average",
     "min_level": 5,
     "max_level": 45,
-    "weight": 6
+    "weight": 10
   },
   {
     "form": "ferroseed",
     "min_level": 5,
     "max_level": 45,
-    "weight": 71
+    "weight": 72
   },
   {
     "form": "watchog",
     "min_level": 5,
     "max_level": 45,
-    "weight": 20
+    "weight": 23
   },
   {
     "form": "burmy-trash",
@@ -1509,25 +1509,25 @@
     "form": "aron",
     "min_level": 5,
     "max_level": 45,
-    "weight": 60
+    "weight": 61
   },
   {
     "form": "charjabug",
     "min_level": 5,
     "max_level": 45,
-    "weight": 27
+    "weight": 30
   },
   {
     "form": "bruxish",
     "min_level": 5,
     "max_level": 45,
-    "weight": 8
+    "weight": 12
   },
   {
     "form": "meganium",
     "min_level": 5,
     "max_level": 45,
-    "weight": 3
+    "weight": 7
   },
   {
     "form": "burmy-sandy",
@@ -1545,343 +1545,343 @@
     "form": "solrock",
     "min_level": 5,
     "max_level": 45,
-    "weight": 10
+    "weight": 14
   },
   {
     "form": "piplup",
     "min_level": 5,
     "max_level": 45,
-    "weight": 67
+    "weight": 68
   },
   {
     "form": "rockruff",
     "min_level": 5,
     "max_level": 45,
-    "weight": 80
+    "weight": 81
   },
   {
     "form": "pumpkaboo-average",
     "min_level": 5,
     "max_level": 45,
-    "weight": 57
+    "weight": 59
   },
   {
     "form": "floette-white",
     "min_level": 5,
     "max_level": 45,
-    "weight": 40
+    "weight": 42
   },
   {
     "form": "muk-alola",
     "min_level": 5,
     "max_level": 45,
-    "weight": 5
+    "weight": 9
   },
   {
     "form": "pikachu-belle",
     "min_level": 5,
     "max_level": 45,
-    "weight": 64
+    "weight": 66
   },
   {
     "form": "snorlax",
     "min_level": 5,
     "max_level": 45,
-    "weight": 3
+    "weight": 7
   },
   {
     "form": "flabebe-yellow",
     "min_level": 5,
     "max_level": 45,
-    "weight": 72
+    "weight": 73
   },
   {
     "form": "mr-mime-galar",
     "min_level": 5,
     "max_level": 45,
-    "weight": 10
+    "weight": 14
   },
   {
     "form": "lopunny",
     "min_level": 5,
     "max_level": 45,
-    "weight": 7
+    "weight": 11
   },
   {
     "form": "aurorus",
     "min_level": 5,
     "max_level": 45,
-    "weight": 4
+    "weight": 8
   },
   {
     "form": "staryu",
     "min_level": 5,
     "max_level": 45,
-    "weight": 55
+    "weight": 57
   },
   {
     "form": "furfrou-diamond",
     "min_level": 5,
     "max_level": 45,
-    "weight": 8
+    "weight": 12
   },
   {
     "form": "poliwhirl",
     "min_level": 5,
     "max_level": 45,
-    "weight": 33
+    "weight": 36
   },
   {
     "form": "yungoos",
     "min_level": 5,
     "max_level": 45,
-    "weight": 87
+    "weight": 88
   },
   {
     "form": "clamperl",
     "min_level": 5,
     "max_level": 45,
-    "weight": 52
+    "weight": 54
   },
   {
     "form": "mudsdale",
     "min_level": 5,
     "max_level": 45,
-    "weight": 5
+    "weight": 9
   },
   {
     "form": "cherubi",
     "min_level": 5,
     "max_level": 45,
-    "weight": 81
+    "weight": 82
   },
   {
     "form": "rotom-heat",
     "min_level": 5,
     "max_level": 45,
-    "weight": 4
+    "weight": 8
   },
   {
     "form": "spewpa-elegant",
     "min_level": 5,
     "max_level": 45,
-    "weight": 93
+    "weight": 94
   },
   {
     "form": "pikachu-hoenn-cap",
     "min_level": 5,
     "max_level": 45,
-    "weight": 64
+    "weight": 66
   },
   {
     "form": "wooloo",
     "min_level": 5,
     "max_level": 45,
-    "weight": 83
+    "weight": 84
   },
   {
     "form": "stantler",
     "min_level": 5,
     "max_level": 45,
-    "weight": 10
+    "weight": 13
   },
   {
     "form": "marshtomp",
     "min_level": 5,
     "max_level": 45,
-    "weight": 25
+    "weight": 28
   },
   {
     "form": "pinsir",
     "min_level": 5,
     "max_level": 45,
-    "weight": 5
+    "weight": 9
   },
   {
     "form": "mareep",
     "min_level": 5,
     "max_level": 45,
-    "weight": 80
+    "weight": 81
   },
   {
     "form": "girafarig",
     "min_level": 5,
     "max_level": 45,
-    "weight": 11
+    "weight": 15
   },
   {
     "form": "flabebe-blue",
     "min_level": 5,
     "max_level": 45,
-    "weight": 72
+    "weight": 73
   },
   {
     "form": "honchkrow",
     "min_level": 5,
     "max_level": 45,
-    "weight": 5
+    "weight": 9
   },
   {
     "form": "duraludon",
     "min_level": 5,
     "max_level": 45,
-    "weight": 3
+    "weight": 7
   },
   {
     "form": "vivillon-sandstorm",
     "min_level": 5,
     "max_level": 45,
-    "weight": 23
+    "weight": 26
   },
   {
     "form": "raichu",
     "min_level": 5,
     "max_level": 45,
-    "weight": 7
+    "weight": 10
   },
   {
     "form": "stunfisk",
     "min_level": 5,
     "max_level": 45,
-    "weight": 9
+    "weight": 12
   },
   {
     "form": "vivillon-polar",
     "min_level": 5,
     "max_level": 45,
-    "weight": 23
+    "weight": 26
   },
   {
     "form": "tauros",
     "min_level": 5,
     "max_level": 45,
-    "weight": 6
+    "weight": 10
   },
   {
     "form": "noctowl",
     "min_level": 5,
     "max_level": 45,
-    "weight": 12
+    "weight": 15
   },
   {
     "form": "beartic",
     "min_level": 5,
     "max_level": 45,
-    "weight": 5
+    "weight": 9
   },
   {
     "form": "torkoal",
     "min_level": 5,
     "max_level": 45,
-    "weight": 9
+    "weight": 12
   },
   {
     "form": "tynamo",
     "min_level": 5,
     "max_level": 45,
-    "weight": 81
+    "weight": 82
   },
   {
     "form": "litleo",
     "min_level": 5,
     "max_level": 45,
-    "weight": 41
+    "weight": 43
   },
   {
     "form": "breloom",
     "min_level": 5,
     "max_level": 45,
-    "weight": 10
+    "weight": 14
   },
   {
     "form": "duosion",
     "min_level": 5,
     "max_level": 45,
-    "weight": 40
+    "weight": 43
   },
   {
     "form": "surskit",
     "min_level": 5,
     "max_level": 45,
-    "weight": 83
+    "weight": 84
   },
   {
     "form": "scrafty",
     "min_level": 5,
     "max_level": 45,
-    "weight": 6
+    "weight": 10
   },
   {
     "form": "vivillon-high-plains",
     "min_level": 5,
     "max_level": 45,
-    "weight": 23
+    "weight": 26
   },
   {
     "form": "phantump",
     "min_level": 5,
     "max_level": 45,
-    "weight": 69
+    "weight": 70
   },
   {
     "form": "arbok",
     "min_level": 5,
     "max_level": 45,
-    "weight": 13
+    "weight": 16
   },
   {
     "form": "drednaw",
     "min_level": 5,
     "max_level": 45,
-    "weight": 7
+    "weight": 10
   },
   {
     "form": "ledian",
     "min_level": 5,
     "max_level": 45,
-    "weight": 31
+    "weight": 34
   },
   {
     "form": "sawsbuck-winter",
     "min_level": 5,
     "max_level": 45,
-    "weight": 8
+    "weight": 12
   },
   {
     "form": "slowking",
     "min_level": 5,
     "max_level": 45,
-    "weight": 6
+    "weight": 10
   },
   {
     "form": "fletchinder",
     "min_level": 5,
     "max_level": 45,
-    "weight": 35
+    "weight": 37
   },
   {
     "form": "lairon",
     "min_level": 5,
     "max_level": 45,
-    "weight": 17
+    "weight": 20
   },
   {
     "form": "bayleef",
     "min_level": 5,
     "max_level": 45,
-    "weight": 25
+    "weight": 28
   },
   {
     "form": "darmanitan-standard",
     "min_level": 5,
     "max_level": 45,
-    "weight": 7
+    "weight": 11
   },
   {
     "form": "hypno",
     "min_level": 5,
     "max_level": 45,
-    "weight": 7
+    "weight": 11
   },
   {
     "form": "gossifleur",
@@ -1893,61 +1893,61 @@
     "form": "donphan",
     "min_level": 5,
     "max_level": 45,
-    "weight": 5
+    "weight": 9
   },
   {
     "form": "whirlipede",
     "min_level": 5,
     "max_level": 45,
-    "weight": 45
+    "weight": 47
   },
   {
     "form": "spewpa-modern",
     "min_level": 5,
     "max_level": 45,
-    "weight": 93
+    "weight": 94
   },
   {
     "form": "slowbro",
     "min_level": 5,
     "max_level": 45,
-    "weight": 6
+    "weight": 10
   },
   {
     "form": "bagon",
     "min_level": 5,
     "max_level": 45,
-    "weight": 73
+    "weight": 74
   },
   {
     "form": "excadrill",
     "min_level": 5,
     "max_level": 45,
-    "weight": 5
+    "weight": 8
   },
   {
     "form": "deino",
     "min_level": 5,
     "max_level": 45,
-    "weight": 73
+    "weight": 74
   },
   {
     "form": "delibird",
     "min_level": 5,
     "max_level": 45,
-    "weight": 60
+    "weight": 61
   },
   {
     "form": "panpour",
     "min_level": 5,
     "max_level": 45,
-    "weight": 66
+    "weight": 68
   },
   {
     "form": "togedemaru-totem",
     "min_level": 5,
     "max_level": 45,
-    "weight": 16
+    "weight": 19
   },
   {
     "form": "zigzagoon-galar",
@@ -1959,127 +1959,127 @@
     "form": "abomasnow",
     "min_level": 5,
     "max_level": 45,
-    "weight": 6
+    "weight": 10
   },
   {
     "form": "pidgeotto",
     "min_level": 5,
     "max_level": 45,
-    "weight": 50
+    "weight": 52
   },
   {
     "form": "granbull",
     "min_level": 5,
     "max_level": 45,
-    "weight": 12
+    "weight": 16
   },
   {
     "form": "heracross",
     "min_level": 5,
     "max_level": 45,
-    "weight": 5
+    "weight": 9
   },
   {
     "form": "spewpa-tundra",
     "min_level": 5,
     "max_level": 45,
-    "weight": 93
+    "weight": 94
   },
   {
     "form": "emolga",
     "min_level": 5,
     "max_level": 45,
-    "weight": 18
+    "weight": 21
   },
   {
     "form": "sableye",
     "min_level": 5,
     "max_level": 45,
-    "weight": 36
+    "weight": 38
   },
   {
     "form": "mantine",
     "min_level": 5,
     "max_level": 45,
-    "weight": 7
+    "weight": 10
   },
   {
     "form": "pupitar",
     "min_level": 5,
     "max_level": 45,
-    "weight": 23
+    "weight": 26
   },
   {
     "form": "espeon",
     "min_level": 5,
     "max_level": 45,
-    "weight": 3
+    "weight": 7
   },
   {
     "form": "vanilluxe",
     "min_level": 5,
     "max_level": 45,
-    "weight": 3
+    "weight": 7
   },
   {
     "form": "castform",
     "min_level": 5,
     "max_level": 45,
-    "weight": 20
+    "weight": 23
   },
   {
     "form": "lurantis",
     "min_level": 5,
     "max_level": 45,
-    "weight": 7
+    "weight": 11
   },
   {
     "form": "tropius",
     "min_level": 5,
     "max_level": 45,
-    "weight": 10
+    "weight": 14
   },
   {
     "form": "barraskewda",
     "min_level": 5,
     "max_level": 45,
-    "weight": 6
+    "weight": 10
   },
   {
     "form": "passimian",
     "min_level": 5,
     "max_level": 45,
-    "weight": 6
+    "weight": 10
   },
   {
     "form": "regieleki",
     "min_level": 5,
     "max_level": 45,
-    "weight": 1
+    "weight": 5
   },
   {
     "form": "gastrodon-east",
     "min_level": 5,
     "max_level": 45,
-    "weight": 8
+    "weight": 12
   },
   {
     "form": "spewpa-sun",
     "min_level": 5,
     "max_level": 45,
-    "weight": 93
+    "weight": 94
   },
   {
     "form": "chikorita",
     "min_level": 5,
     "max_level": 45,
-    "weight": 65
+    "weight": 67
   },
   {
     "form": "venipede",
     "min_level": 5,
     "max_level": 45,
-    "weight": 85
+    "weight": 86
   },
   {
     "form": "scatterbug-icy-snow",
@@ -2091,115 +2091,115 @@
     "form": "skwovet",
     "min_level": 5,
     "max_level": 45,
-    "weight": 81
+    "weight": 82
   },
   {
     "form": "politoed",
     "min_level": 5,
     "max_level": 45,
-    "weight": 5
+    "weight": 9
   },
   {
     "form": "corvisquire",
     "min_level": 5,
     "max_level": 45,
-    "weight": 43
+    "weight": 45
   },
   {
     "form": "copperajah",
     "min_level": 5,
     "max_level": 45,
-    "weight": 5
+    "weight": 9
   },
   {
     "form": "glastrier",
     "min_level": 5,
     "max_level": 45,
-    "weight": 1
+    "weight": 5
   },
   {
     "form": "pikachu-rock-star",
     "min_level": 5,
     "max_level": 45,
-    "weight": 64
+    "weight": 66
   },
   {
     "form": "yamask-galar",
     "min_level": 5,
     "max_level": 45,
-    "weight": 72
+    "weight": 73
   },
   {
     "form": "medicham",
     "min_level": 5,
     "max_level": 45,
-    "weight": 23
+    "weight": 26
   },
   {
     "form": "dracozolt",
     "min_level": 5,
     "max_level": 45,
-    "weight": 5
+    "weight": 9
   },
   {
     "form": "diglett-alola",
     "min_level": 5,
     "max_level": 45,
-    "weight": 84
+    "weight": 85
   },
   {
     "form": "misdreavus",
     "min_level": 5,
     "max_level": 45,
-    "weight": 16
+    "weight": 19
   },
   {
     "form": "pawniard",
     "min_level": 5,
     "max_level": 45,
-    "weight": 55
+    "weight": 57
   },
   {
     "form": "gallade",
     "min_level": 5,
     "max_level": 45,
-    "weight": 4
+    "weight": 8
   },
   {
     "form": "indeedee-male",
     "min_level": 5,
     "max_level": 45,
-    "weight": 8
+    "weight": 12
   },
   {
     "form": "venonat",
     "min_level": 5,
     "max_level": 45,
-    "weight": 71
+    "weight": 72
   },
   {
     "form": "vivillon-sun",
     "min_level": 5,
     "max_level": 45,
-    "weight": 23
+    "weight": 26
   },
   {
     "form": "klang",
     "min_level": 5,
     "max_level": 45,
-    "weight": 15
+    "weight": 18
   },
   {
     "form": "metapod",
     "min_level": 5,
     "max_level": 45,
-    "weight": 94
+    "weight": 95
   },
   {
     "form": "tyrantrum",
     "min_level": 5,
     "max_level": 45,
-    "weight": 4
+    "weight": 8
   },
   {
     "form": "purrloin",
@@ -2211,19 +2211,19 @@
     "form": "vivillon-savanna",
     "min_level": 5,
     "max_level": 45,
-    "weight": 23
+    "weight": 26
   },
   {
     "form": "loudred",
     "min_level": 5,
     "max_level": 45,
-    "weight": 45
+    "weight": 47
   },
   {
     "form": "pidgeot",
     "min_level": 5,
     "max_level": 45,
-    "weight": 7
+    "weight": 11
   },
   {
     "form": "scatterbug-jungle",
@@ -2235,193 +2235,193 @@
     "form": "avalugg",
     "min_level": 5,
     "max_level": 45,
-    "weight": 4
+    "weight": 8
   },
   {
     "form": "gastly",
     "min_level": 5,
     "max_level": 45,
-    "weight": 69
+    "weight": 70
   },
   {
     "form": "buneary",
     "min_level": 5,
     "max_level": 45,
-    "weight": 50
+    "weight": 52
   },
   {
     "form": "minccino",
     "min_level": 5,
     "max_level": 45,
-    "weight": 73
+    "weight": 74
   },
   {
     "form": "rowlet",
     "min_level": 5,
     "max_level": 45,
-    "weight": 64
+    "weight": 66
   },
   {
     "form": "simipour",
     "min_level": 5,
     "max_level": 45,
-    "weight": 5
+    "weight": 9
   },
   {
     "form": "venomoth",
     "min_level": 5,
     "max_level": 45,
-    "weight": 12
+    "weight": 16
   },
   {
     "form": "porygon",
     "min_level": 5,
     "max_level": 45,
-    "weight": 29
+    "weight": 32
   },
   {
     "form": "beheeyem",
     "min_level": 5,
     "max_level": 45,
-    "weight": 7
+    "weight": 10
   },
   {
     "form": "calyrex",
     "min_level": 5,
     "max_level": 45,
-    "weight": 5
+    "weight": 9
   },
   {
     "form": "larvesta",
     "min_level": 5,
     "max_level": 45,
-    "weight": 45
+    "weight": 47
   },
   {
     "form": "orbeetle",
     "min_level": 5,
     "max_level": 45,
-    "weight": 5
+    "weight": 9
   },
   {
     "form": "croconaw",
     "min_level": 5,
     "max_level": 45,
-    "weight": 25
+    "weight": 28
   },
   {
     "form": "pumpkaboo-super",
     "min_level": 5,
     "max_level": 45,
-    "weight": 57
+    "weight": 59
   },
   {
     "form": "baltoy",
     "min_level": 5,
     "max_level": 45,
-    "weight": 73
+    "weight": 74
   },
   {
     "form": "eelektrik",
     "min_level": 5,
     "max_level": 45,
-    "weight": 25
+    "weight": 28
   },
   {
     "form": "golbat",
     "min_level": 5,
     "max_level": 45,
-    "weight": 11
+    "weight": 15
   },
   {
     "form": "rufflet",
     "min_level": 5,
     "max_level": 45,
-    "weight": 50
+    "weight": 52
   },
   {
     "form": "beautifly",
     "min_level": 5,
     "max_level": 45,
-    "weight": 29
+    "weight": 32
   },
   {
     "form": "delcatty",
     "min_level": 5,
     "max_level": 45,
-    "weight": 27
+    "weight": 30
   },
   {
     "form": "sandshrew",
     "min_level": 5,
     "max_level": 45,
-    "weight": 73
+    "weight": 74
   },
   {
     "form": "grimer-alola",
     "min_level": 5,
     "max_level": 45,
-    "weight": 62
+    "weight": 64
   },
   {
     "form": "grookey",
     "min_level": 5,
     "max_level": 45,
-    "weight": 69
+    "weight": 70
   },
   {
     "form": "golduck",
     "min_level": 5,
     "max_level": 45,
-    "weight": 5
+    "weight": 9
   },
   {
     "form": "zacian-hero",
     "min_level": 5,
     "max_level": 45,
-    "weight": 1
+    "weight": 5
   },
   {
     "form": "hoothoot",
     "min_level": 5,
     "max_level": 45,
-    "weight": 85
+    "weight": 86
   },
   {
     "form": "florges-blue",
     "min_level": 5,
     "max_level": 45,
-    "weight": 2
+    "weight": 6
   },
   {
     "form": "dubwool",
     "min_level": 5,
     "max_level": 45,
-    "weight": 6
+    "weight": 10
   },
   {
     "form": "krabby",
     "min_level": 5,
     "max_level": 45,
-    "weight": 62
+    "weight": 64
   },
   {
     "form": "chimecho",
     "min_level": 5,
     "max_level": 45,
-    "weight": 11
+    "weight": 15
   },
   {
     "form": "flaaffy",
     "min_level": 5,
     "max_level": 45,
-    "weight": 43
+    "weight": 45
   },
   {
     "form": "exploud",
     "min_level": 5,
     "max_level": 45,
-    "weight": 6
+    "weight": 10
   },
   {
     "form": "slugma",
@@ -2433,67 +2433,67 @@
     "form": "meditite",
     "min_level": 5,
     "max_level": 45,
-    "weight": 80
+    "weight": 81
   },
   {
     "form": "carbink",
     "min_level": 5,
     "max_level": 45,
-    "weight": 5
+    "weight": 9
   },
   {
     "form": "seadra",
     "min_level": 5,
     "max_level": 45,
-    "weight": 15
+    "weight": 18
   },
   {
     "form": "audino",
     "min_level": 5,
     "max_level": 45,
-    "weight": 13
+    "weight": 17
   },
   {
     "form": "binacle",
     "min_level": 5,
     "max_level": 45,
-    "weight": 70
+    "weight": 72
   },
   {
     "form": "exeggcute",
     "min_level": 5,
     "max_level": 45,
-    "weight": 62
+    "weight": 64
   },
   {
     "form": "staravia",
     "min_level": 5,
     "max_level": 45,
-    "weight": 55
+    "weight": 57
   },
   {
     "form": "dewott",
     "min_level": 5,
     "max_level": 45,
-    "weight": 22
+    "weight": 25
   },
   {
     "form": "mareanie",
     "min_level": 5,
     "max_level": 45,
-    "weight": 71
+    "weight": 72
   },
   {
     "form": "turtonator",
     "min_level": 5,
     "max_level": 45,
-    "weight": 7
+    "weight": 10
   },
   {
     "form": "applin",
     "min_level": 5,
     "max_level": 45,
-    "weight": 85
+    "weight": 86
   },
   {
     "form": "fletchling",
@@ -2505,67 +2505,67 @@
     "form": "pikachu-kalos-cap",
     "min_level": 5,
     "max_level": 45,
-    "weight": 64
+    "weight": 66
   },
   {
     "form": "swablu",
     "min_level": 5,
     "max_level": 45,
-    "weight": 69
+    "weight": 70
   },
   {
     "form": "kingdra",
     "min_level": 5,
     "max_level": 45,
-    "weight": 3
+    "weight": 7
   },
   {
     "form": "pangoro",
     "min_level": 5,
     "max_level": 45,
-    "weight": 6
+    "weight": 9
   },
   {
     "form": "haxorus",
     "min_level": 5,
     "max_level": 45,
-    "weight": 3
+    "weight": 7
   },
   {
     "form": "florges-yellow",
     "min_level": 5,
     "max_level": 45,
-    "weight": 2
+    "weight": 6
   },
   {
     "form": "machoke",
     "min_level": 5,
     "max_level": 45,
-    "weight": 25
+    "weight": 28
   },
   {
     "form": "tympole",
     "min_level": 5,
     "max_level": 45,
-    "weight": 75
+    "weight": 76
   },
   {
     "form": "natu",
     "min_level": 5,
     "max_level": 45,
-    "weight": 64
+    "weight": 66
   },
   {
     "form": "charmeleon",
     "min_level": 5,
     "max_level": 45,
-    "weight": 25
+    "weight": 28
   },
   {
     "form": "eevee",
     "min_level": 5,
     "max_level": 45,
-    "weight": 62
+    "weight": 64
   },
   {
     "form": "scatterbug-continental",
@@ -2577,25 +2577,25 @@
     "form": "skiploom",
     "min_level": 5,
     "max_level": 45,
-    "weight": 55
+    "weight": 57
   },
   {
     "form": "koffing",
     "min_level": 5,
     "max_level": 45,
-    "weight": 55
+    "weight": 57
   },
   {
     "form": "luxray",
     "min_level": 5,
     "max_level": 45,
-    "weight": 4
+    "weight": 7
   },
   {
     "form": "shellos-east",
     "min_level": 5,
     "max_level": 45,
-    "weight": 62
+    "weight": 64
   },
   {
     "form": "magikarp",
@@ -2607,43 +2607,43 @@
     "form": "milotic",
     "min_level": 5,
     "max_level": 45,
-    "weight": 3
+    "weight": 7
   },
   {
     "form": "clawitzer",
     "min_level": 5,
     "max_level": 45,
-    "weight": 5
+    "weight": 9
   },
   {
     "form": "porygon-z",
     "min_level": 5,
     "max_level": 45,
-    "weight": 3
+    "weight": 7
   },
   {
     "form": "probopass",
     "min_level": 5,
     "max_level": 45,
-    "weight": 3
+    "weight": 7
   },
   {
     "form": "emboar",
     "min_level": 5,
     "max_level": 45,
-    "weight": 3
+    "weight": 7
   },
   {
     "form": "eelektross",
     "min_level": 5,
     "max_level": 45,
-    "weight": 4
+    "weight": 8
   },
   {
     "form": "weezing-galar",
     "min_level": 5,
     "max_level": 45,
-    "weight": 6
+    "weight": 10
   },
   {
     "form": "hoppip",
@@ -2655,25 +2655,25 @@
     "form": "gumshoos",
     "min_level": 5,
     "max_level": 45,
-    "weight": 21
+    "weight": 24
   },
   {
     "form": "ninetales-alola",
     "min_level": 5,
     "max_level": 45,
-    "weight": 5
+    "weight": 9
   },
   {
     "form": "jynx",
     "min_level": 5,
     "max_level": 45,
-    "weight": 11
+    "weight": 15
   },
   {
     "form": "skiddo",
     "min_level": 5,
     "max_level": 45,
-    "weight": 50
+    "weight": 52
   },
   {
     "form": "scatterbug-ocean",
@@ -2685,25 +2685,25 @@
     "form": "ludicolo",
     "min_level": 5,
     "max_level": 45,
-    "weight": 7
+    "weight": 11
   },
   {
     "form": "barboach",
     "min_level": 5,
     "max_level": 45,
-    "weight": 77
+    "weight": 78
   },
   {
     "form": "diggersby",
     "min_level": 5,
     "max_level": 45,
-    "weight": 19
+    "weight": 22
   },
   {
     "form": "vivillon-icy-snow",
     "min_level": 5,
     "max_level": 45,
-    "weight": 23
+    "weight": 26
   },
   {
     "form": "scatterbug-sandstorm",
@@ -2715,19 +2715,19 @@
     "form": "sinistea-phony",
     "min_level": 5,
     "max_level": 45,
-    "weight": 70
+    "weight": 71
   },
   {
     "form": "houndour",
     "min_level": 5,
     "max_level": 45,
-    "weight": 60
+    "weight": 61
   },
   {
     "form": "furfrou-dandy",
     "min_level": 5,
     "max_level": 45,
-    "weight": 8
+    "weight": 12
   },
   {
     "form": "scatterbug-garden",
@@ -2745,55 +2745,55 @@
     "form": "calyrex-shadow-rider",
     "min_level": 5,
     "max_level": 45,
-    "weight": 1
+    "weight": 5
   },
   {
     "form": "frillish",
     "min_level": 5,
     "max_level": 45,
-    "weight": 57
+    "weight": 59
   },
   {
     "form": "crabominable",
     "min_level": 5,
     "max_level": 45,
-    "weight": 8
+    "weight": 11
   },
   {
     "form": "rotom",
     "min_level": 5,
     "max_level": 45,
-    "weight": 15
+    "weight": 18
   },
   {
     "form": "toucannon",
     "min_level": 5,
     "max_level": 45,
-    "weight": 7
+    "weight": 10
   },
   {
     "form": "vulpix-alola",
     "min_level": 5,
     "max_level": 45,
-    "weight": 73
+    "weight": 74
   },
   {
     "form": "palossand",
     "min_level": 5,
     "max_level": 45,
-    "weight": 7
+    "weight": 11
   },
   {
     "form": "arctovish",
     "min_level": 5,
     "max_level": 45,
-    "weight": 5
+    "weight": 9
   },
   {
     "form": "oricorio-sensu",
     "min_level": 5,
     "max_level": 45,
-    "weight": 8
+    "weight": 12
   },
   {
     "form": "scatterbug-savanna",
@@ -2805,13 +2805,13 @@
     "form": "huntail",
     "min_level": 5,
     "max_level": 45,
-    "weight": 7
+    "weight": 10
   },
   {
     "form": "marowak-totem",
     "min_level": 5,
     "max_level": 45,
-    "weight": 19
+    "weight": 22
   },
   {
     "form": "scatterbug-sun",
@@ -2823,19 +2823,19 @@
     "form": "graveler",
     "min_level": 5,
     "max_level": 45,
-    "weight": 31
+    "weight": 34
   },
   {
     "form": "conkeldurr",
     "min_level": 5,
     "max_level": 45,
-    "weight": 5
+    "weight": 9
   },
   {
     "form": "kadabra",
     "min_level": 5,
     "max_level": 45,
-    "weight": 27
+    "weight": 30
   },
   {
     "form": "scatterbug-modern",
@@ -2847,19 +2847,19 @@
     "form": "mothim-sandy",
     "min_level": 5,
     "max_level": 45,
-    "weight": 19
+    "weight": 22
   },
   {
     "form": "grotle",
     "min_level": 5,
     "max_level": 45,
-    "weight": 25
+    "weight": 28
   },
   {
     "form": "seismitoad",
     "min_level": 5,
     "max_level": 45,
-    "weight": 4
+    "weight": 8
   },
   {
     "form": "scatterbug-elegant",
@@ -2871,13 +2871,13 @@
     "form": "corsola",
     "min_level": 5,
     "max_level": 45,
-    "weight": 23
+    "weight": 26
   },
   {
     "form": "flareon",
     "min_level": 5,
     "max_level": 45,
-    "weight": 3
+    "weight": 7
   },
   {
     "form": "rolycoly",
@@ -2889,43 +2889,43 @@
     "form": "eternatus",
     "min_level": 5,
     "max_level": 45,
-    "weight": 1
+    "weight": 5
   },
   {
     "form": "flapple",
     "min_level": 5,
     "max_level": 45,
-    "weight": 7
+    "weight": 10
   },
   {
     "form": "spearow",
     "min_level": 5,
     "max_level": 45,
-    "weight": 85
+    "weight": 86
   },
   {
     "form": "wailmer",
     "min_level": 5,
     "max_level": 45,
-    "weight": 27
+    "weight": 30
   },
   {
     "form": "serperior",
     "min_level": 5,
     "max_level": 45,
-    "weight": 3
+    "weight": 7
   },
   {
     "form": "rotom-mow",
     "min_level": 5,
     "max_level": 45,
-    "weight": 4
+    "weight": 8
   },
   {
     "form": "sudowoodo",
     "min_level": 5,
     "max_level": 45,
-    "weight": 23
+    "weight": 26
   },
   {
     "form": "zigzagoon",
@@ -2937,79 +2937,79 @@
     "form": "rampardos",
     "min_level": 5,
     "max_level": 45,
-    "weight": 6
+    "weight": 9
   },
   {
     "form": "vileplume",
     "min_level": 5,
     "max_level": 45,
-    "weight": 6
+    "weight": 10
   },
   {
     "form": "vivillon-meadow",
     "min_level": 5,
     "max_level": 45,
-    "weight": 23
+    "weight": 26
   },
   {
     "form": "rhyhorn",
     "min_level": 5,
     "max_level": 45,
-    "weight": 52
+    "weight": 54
   },
   {
     "form": "chansey",
     "min_level": 5,
     "max_level": 45,
-    "weight": 12
+    "weight": 16
   },
   {
     "form": "metagross",
     "min_level": 5,
     "max_level": 45,
-    "weight": 1
+    "weight": 5
   },
   {
     "form": "farfetchd-galar",
     "min_level": 5,
     "max_level": 45,
-    "weight": 37
+    "weight": 39
   },
   {
     "form": "rillaboom",
     "min_level": 5,
     "max_level": 45,
-    "weight": 3
+    "weight": 7
   },
   {
     "form": "wartortle",
     "min_level": 5,
     "max_level": 45,
-    "weight": 25
+    "weight": 28
   },
   {
     "form": "oddish",
     "min_level": 5,
     "max_level": 45,
-    "weight": 64
+    "weight": 66
   },
   {
     "form": "fennekin",
     "min_level": 5,
     "max_level": 45,
-    "weight": 70
+    "weight": 71
   },
   {
     "form": "dusclops",
     "min_level": 5,
     "max_level": 45,
-    "weight": 11
+    "weight": 15
   },
   {
     "form": "dragonite",
     "min_level": 5,
     "max_level": 45,
-    "weight": 1
+    "weight": 5
   },
   {
     "form": "shinx",
@@ -3021,55 +3021,55 @@
     "form": "cyndaquil",
     "min_level": 5,
     "max_level": 45,
-    "weight": 69
+    "weight": 70
   },
   {
     "form": "vespiquen",
     "min_level": 5,
     "max_level": 45,
-    "weight": 8
+    "weight": 12
   },
   {
     "form": "sentret",
     "min_level": 5,
     "max_level": 45,
-    "weight": 93
+    "weight": 94
   },
   {
     "form": "marowak-alola",
     "min_level": 5,
     "max_level": 45,
-    "weight": 19
+    "weight": 22
   },
   {
     "form": "lumineon",
     "min_level": 5,
     "max_level": 45,
-    "weight": 10
+    "weight": 14
   },
   {
     "form": "banette",
     "min_level": 5,
     "max_level": 45,
-    "weight": 11
+    "weight": 15
   },
   {
     "form": "gourgeist-small",
     "min_level": 5,
     "max_level": 45,
-    "weight": 6
+    "weight": 10
   },
   {
     "form": "blaziken",
     "min_level": 5,
     "max_level": 45,
-    "weight": 3
+    "weight": 7
   },
   {
     "form": "shiinotic",
     "min_level": 5,
     "max_level": 45,
-    "weight": 25
+    "weight": 28
   },
   {
     "form": "patrat",
@@ -3081,31 +3081,31 @@
     "form": "hydreigon",
     "min_level": 5,
     "max_level": 45,
-    "weight": 1
+    "weight": 5
   },
   {
     "form": "zarude",
     "min_level": 5,
     "max_level": 45,
-    "weight": 1
+    "weight": 5
   },
   {
     "form": "minior-green",
     "min_level": 5,
     "max_level": 45,
-    "weight": 5
+    "weight": 9
   },
   {
     "form": "spewpa-jungle",
     "min_level": 5,
     "max_level": 45,
-    "weight": 93
+    "weight": 94
   },
   {
     "form": "cinccino",
     "min_level": 5,
     "max_level": 45,
-    "weight": 9
+    "weight": 12
   },
   {
     "form": "fomantis",
@@ -3117,31 +3117,31 @@
     "form": "doduo",
     "min_level": 5,
     "max_level": 45,
-    "weight": 69
+    "weight": 70
   },
   {
     "form": "spewpa-savanna",
     "min_level": 5,
     "max_level": 45,
-    "weight": 93
+    "weight": 94
   },
   {
     "form": "altaria",
     "min_level": 5,
     "max_level": 45,
-    "weight": 6
+    "weight": 10
   },
   {
     "form": "beldum",
     "min_level": 5,
     "max_level": 45,
-    "weight": 73
+    "weight": 74
   },
   {
     "form": "alakazam",
     "min_level": 5,
     "max_level": 45,
-    "weight": 5
+    "weight": 9
   },
   {
     "form": "sunkern",
@@ -3153,73 +3153,73 @@
     "form": "archeops",
     "min_level": 5,
     "max_level": 45,
-    "weight": 2
+    "weight": 6
   },
   {
     "form": "drifloon",
     "min_level": 5,
     "max_level": 45,
-    "weight": 51
+    "weight": 53
   },
   {
     "form": "sharpedo",
     "min_level": 5,
     "max_level": 45,
-    "weight": 10
+    "weight": 14
   },
   {
     "form": "meowth",
     "min_level": 5,
     "max_level": 45,
-    "weight": 77
+    "weight": 78
   },
   {
     "form": "bronzong",
     "min_level": 5,
     "max_level": 45,
-    "weight": 5
+    "weight": 9
   },
   {
     "form": "jangmo-o",
     "min_level": 5,
     "max_level": 45,
-    "weight": 73
+    "weight": 74
   },
   {
     "form": "cacturne",
     "min_level": 5,
     "max_level": 45,
-    "weight": 8
+    "weight": 12
   },
   {
     "form": "poliwrath",
     "min_level": 5,
     "max_level": 45,
-    "weight": 4
+    "weight": 8
   },
   {
     "form": "haunter",
     "min_level": 5,
     "max_level": 45,
-    "weight": 25
+    "weight": 28
   },
   {
     "form": "elgyem",
     "min_level": 5,
     "max_level": 45,
-    "weight": 57
+    "weight": 59
   },
   {
     "form": "cursola",
     "min_level": 5,
     "max_level": 45,
-    "weight": 4
+    "weight": 8
   },
   {
     "form": "deerling-summer",
     "min_level": 5,
     "max_level": 45,
-    "weight": 57
+    "weight": 59
   },
   {
     "form": "scatterbug-meadow",
@@ -3237,103 +3237,103 @@
     "form": "spewpa-icy-snow",
     "min_level": 5,
     "max_level": 45,
-    "weight": 93
+    "weight": 94
   },
   {
     "form": "absol",
     "min_level": 5,
     "max_level": 45,
-    "weight": 10
+    "weight": 13
   },
   {
     "form": "basculin-blue-striped",
     "min_level": 5,
     "max_level": 45,
-    "weight": 10
+    "weight": 14
   },
   {
     "form": "heatmor",
     "min_level": 5,
     "max_level": 45,
-    "weight": 7
+    "weight": 11
   },
   {
     "form": "slurpuff",
     "min_level": 5,
     "max_level": 45,
-    "weight": 7
+    "weight": 11
   },
   {
     "form": "toxel",
     "min_level": 5,
     "max_level": 45,
-    "weight": 89
+    "weight": 90
   },
   {
     "form": "barbaracle",
     "min_level": 5,
     "max_level": 45,
-    "weight": 5
+    "weight": 9
   },
   {
     "form": "dwebble",
     "min_level": 5,
     "max_level": 45,
-    "weight": 62
+    "weight": 64
   },
   {
     "form": "luvdisc",
     "min_level": 5,
     "max_level": 45,
-    "weight": 60
+    "weight": 61
   },
   {
     "form": "mr-mime",
     "min_level": 5,
     "max_level": 45,
-    "weight": 10
+    "weight": 14
   },
   {
     "form": "ursaring",
     "min_level": 5,
     "max_level": 45,
-    "weight": 5
+    "weight": 9
   },
   {
     "form": "dhelmise",
     "min_level": 5,
     "max_level": 45,
-    "weight": 4
+    "weight": 8
   },
   {
     "form": "miltank",
     "min_level": 5,
     "max_level": 45,
-    "weight": 6
+    "weight": 10
   },
   {
     "form": "froslass",
     "min_level": 5,
     "max_level": 45,
-    "weight": 7
+    "weight": 11
   },
   {
     "form": "stonjourner",
     "min_level": 5,
     "max_level": 45,
-    "weight": 9
+    "weight": 12
   },
   {
     "form": "litten",
     "min_level": 5,
     "max_level": 45,
-    "weight": 64
+    "weight": 66
   },
   {
     "form": "vullaby",
     "min_level": 5,
     "max_level": 45,
-    "weight": 40
+    "weight": 43
   },
   {
     "form": "scatterbug-archipelago",
@@ -3345,115 +3345,115 @@
     "form": "omastar",
     "min_level": 5,
     "max_level": 45,
-    "weight": 6
+    "weight": 9
   },
   {
     "form": "marowak",
     "min_level": 5,
     "max_level": 45,
-    "weight": 19
+    "weight": 22
   },
   {
     "form": "clefable",
     "min_level": 5,
     "max_level": 45,
-    "weight": 7
+    "weight": 11
   },
   {
     "form": "typhlosion",
     "min_level": 5,
     "max_level": 45,
-    "weight": 3
+    "weight": 7
   },
   {
     "form": "murkrow",
     "min_level": 5,
     "max_level": 45,
-    "weight": 25
+    "weight": 28
   },
   {
     "form": "slowbro-galar",
     "min_level": 5,
     "max_level": 45,
-    "weight": 6
+    "weight": 10
   },
   {
     "form": "pelipper",
     "min_level": 5,
     "max_level": 45,
-    "weight": 15
+    "weight": 18
   },
   {
     "form": "victreebel",
     "min_level": 5,
     "max_level": 45,
-    "weight": 6
+    "weight": 10
   },
   {
     "form": "vigoroth",
     "min_level": 5,
     "max_level": 45,
-    "weight": 15
+    "weight": 18
   },
   {
     "form": "archen",
     "min_level": 5,
     "max_level": 45,
-    "weight": 27
+    "weight": 30
   },
   {
     "form": "grubbin",
     "min_level": 5,
     "max_level": 45,
-    "weight": 73
+    "weight": 74
   },
   {
     "form": "trapinch",
     "min_level": 5,
     "max_level": 45,
-    "weight": 77
+    "weight": 78
   },
   {
     "form": "pikachu-cosplay",
     "min_level": 5,
     "max_level": 45,
-    "weight": 64
+    "weight": 66
   },
   {
     "form": "spewpa-ocean",
     "min_level": 5,
     "max_level": 45,
-    "weight": 93
+    "weight": 94
   },
   {
     "form": "furret",
     "min_level": 5,
     "max_level": 45,
-    "weight": 22
+    "weight": 25
   },
   {
     "form": "carvanha",
     "min_level": 5,
     "max_level": 45,
-    "weight": 71
+    "weight": 72
   },
   {
     "form": "voltorb",
     "min_level": 5,
     "max_level": 45,
-    "weight": 60
+    "weight": 61
   },
   {
     "form": "swirlix",
     "min_level": 5,
     "max_level": 45,
-    "weight": 54
+    "weight": 56
   },
   {
     "form": "chandelure",
     "min_level": 5,
     "max_level": 45,
-    "weight": 4
+    "weight": 8
   },
   {
     "form": "wurmple",
@@ -3465,73 +3465,73 @@
     "form": "yamper",
     "min_level": 5,
     "max_level": 45,
-    "weight": 83
+    "weight": 84
   },
   {
     "form": "croagunk",
     "min_level": 5,
     "max_level": 45,
-    "weight": 73
+    "weight": 74
   },
   {
     "form": "tirtouga",
     "min_level": 5,
     "max_level": 45,
-    "weight": 48
+    "weight": 50
   },
   {
     "form": "cufant",
     "min_level": 5,
     "max_level": 45,
-    "weight": 60
+    "weight": 61
   },
   {
     "form": "vivillon-elegant",
     "min_level": 5,
     "max_level": 45,
-    "weight": 23
+    "weight": 26
   },
   {
     "form": "chespin",
     "min_level": 5,
     "max_level": 45,
-    "weight": 68
+    "weight": 69
   },
   {
     "form": "foongus",
     "min_level": 5,
     "max_level": 45,
-    "weight": 75
+    "weight": 76
   },
   {
     "form": "furfrou-heart",
     "min_level": 5,
     "max_level": 45,
-    "weight": 8
+    "weight": 12
   },
   {
     "form": "electabuzz",
     "min_level": 5,
     "max_level": 45,
-    "weight": 6
+    "weight": 10
   },
   {
     "form": "magmar",
     "min_level": 5,
     "max_level": 45,
-    "weight": 6
+    "weight": 9
   },
   {
     "form": "pachirisu",
     "min_level": 5,
     "max_level": 45,
-    "weight": 25
+    "weight": 28
   },
   {
     "form": "tentacool",
     "min_level": 5,
     "max_level": 45,
-    "weight": 57
+    "weight": 59
   },
   {
     "form": "caterpie",
@@ -3543,331 +3543,331 @@
     "form": "golett",
     "min_level": 5,
     "max_level": 45,
-    "weight": 72
+    "weight": 73
   },
   {
     "form": "dewgong",
     "min_level": 5,
     "max_level": 45,
-    "weight": 8
+    "weight": 12
   },
   {
     "form": "cinderace",
     "min_level": 5,
     "max_level": 45,
-    "weight": 3
+    "weight": 7
   },
   {
     "form": "minior-orange",
     "min_level": 5,
     "max_level": 45,
-    "weight": 5
+    "weight": 9
   },
   {
     "form": "hariyama",
     "min_level": 5,
     "max_level": 45,
-    "weight": 8
+    "weight": 12
   },
   {
     "form": "pikachu-original-cap",
     "min_level": 5,
     "max_level": 45,
-    "weight": 64
+    "weight": 66
   },
   {
     "form": "pikachu",
     "min_level": 5,
     "max_level": 45,
-    "weight": 64
+    "weight": 66
   },
   {
     "form": "wingull",
     "min_level": 5,
     "max_level": 45,
-    "weight": 83
+    "weight": 84
   },
   {
     "form": "perrserker",
     "min_level": 5,
     "max_level": 45,
-    "weight": 15
+    "weight": 18
   },
   {
     "form": "pineco",
     "min_level": 5,
     "max_level": 45,
-    "weight": 77
+    "weight": 78
   },
   {
     "form": "lampent",
     "min_level": 5,
     "max_level": 45,
-    "weight": 40
+    "weight": 43
   },
   {
     "form": "heliolisk",
     "min_level": 5,
     "max_level": 45,
-    "weight": 7
+    "weight": 11
   },
   {
     "form": "vivillon-marine",
     "min_level": 5,
     "max_level": 45,
-    "weight": 23
+    "weight": 26
   },
   {
     "form": "alomomola",
     "min_level": 5,
     "max_level": 45,
-    "weight": 9
+    "weight": 12
   },
   {
     "form": "herdier",
     "min_level": 5,
     "max_level": 45,
-    "weight": 40
+    "weight": 43
   },
   {
     "form": "mawile",
     "min_level": 5,
     "max_level": 45,
-    "weight": 36
+    "weight": 38
   },
   {
     "form": "fearow",
     "min_level": 5,
     "max_level": 45,
-    "weight": 14
+    "weight": 18
   },
   {
     "form": "hippopotas",
     "min_level": 5,
     "max_level": 45,
-    "weight": 60
+    "weight": 61
   },
   {
     "form": "kecleon",
     "min_level": 5,
     "max_level": 45,
-    "weight": 15
+    "weight": 18
   },
   {
     "form": "drilbur",
     "min_level": 5,
     "max_level": 45,
-    "weight": 61
+    "weight": 62
   },
   {
     "form": "lillipup",
     "min_level": 5,
     "max_level": 45,
-    "weight": 81
+    "weight": 82
   },
   {
     "form": "geodude",
     "min_level": 5,
     "max_level": 45,
-    "weight": 73
+    "weight": 74
   },
   {
     "form": "shuppet",
     "min_level": 5,
     "max_level": 45,
-    "weight": 75
+    "weight": 76
   },
   {
     "form": "teddiursa",
     "min_level": 5,
     "max_level": 45,
-    "weight": 60
+    "weight": 61
   },
   {
     "form": "unfezant",
     "min_level": 5,
     "max_level": 45,
-    "weight": 6
+    "weight": 10
   },
   {
     "form": "krookodile",
     "min_level": 5,
     "max_level": 45,
-    "weight": 4
+    "weight": 8
   },
   {
     "form": "drifblim",
     "min_level": 5,
     "max_level": 45,
-    "weight": 5
+    "weight": 9
   },
   {
     "form": "deerling-winter",
     "min_level": 5,
     "max_level": 45,
-    "weight": 57
+    "weight": 59
   },
   {
     "form": "gothitelle",
     "min_level": 5,
     "max_level": 45,
-    "weight": 6
+    "weight": 10
   },
   {
     "form": "minior-red",
     "min_level": 5,
     "max_level": 45,
-    "weight": 5
+    "weight": 9
   },
   {
     "form": "klink",
     "min_level": 5,
     "max_level": 45,
-    "weight": 73
+    "weight": 74
   },
   {
     "form": "garbodor",
     "min_level": 5,
     "max_level": 45,
-    "weight": 8
+    "weight": 12
   },
   {
     "form": "aerodactyl",
     "min_level": 5,
     "max_level": 45,
-    "weight": 4
+    "weight": 8
   },
   {
     "form": "hitmonchan",
     "min_level": 5,
     "max_level": 45,
-    "weight": 11
+    "weight": 15
   },
   {
     "form": "minior-red-meteor",
     "min_level": 5,
     "max_level": 45,
-    "weight": 15
+    "weight": 18
   },
   {
     "form": "dragapult",
     "min_level": 5,
     "max_level": 45,
-    "weight": 1
+    "weight": 5
   },
   {
     "form": "garchomp",
     "min_level": 5,
     "max_level": 45,
-    "weight": 1
+    "weight": 5
   },
   {
     "form": "florges-orange",
     "min_level": 5,
     "max_level": 45,
-    "weight": 2
+    "weight": 6
   },
   {
     "form": "vanillish",
     "min_level": 5,
     "max_level": 45,
-    "weight": 29
+    "weight": 32
   },
   {
     "form": "sewaddle",
     "min_level": 5,
     "max_level": 45,
-    "weight": 69
+    "weight": 70
   },
   {
     "form": "dratini",
     "min_level": 5,
     "max_level": 45,
-    "weight": 73
+    "weight": 74
   },
   {
     "form": "corphish",
     "min_level": 5,
     "max_level": 45,
-    "weight": 70
+    "weight": 71
   },
   {
     "form": "reuniclus",
     "min_level": 5,
     "max_level": 45,
-    "weight": 6
+    "weight": 10
   },
   {
     "form": "pancham",
     "min_level": 5,
     "max_level": 45,
-    "weight": 51
+    "weight": 53
   },
   {
     "form": "primarina",
     "min_level": 5,
     "max_level": 45,
-    "weight": 3
+    "weight": 7
   },
   {
     "form": "dewpider",
     "min_level": 5,
     "max_level": 45,
-    "weight": 83
+    "weight": 84
   },
   {
     "form": "mudbray",
     "min_level": 5,
     "max_level": 45,
-    "weight": 33
+    "weight": 36
   },
   {
     "form": "skitty",
     "min_level": 5,
     "max_level": 45,
-    "weight": 85
+    "weight": 86
   },
   {
     "form": "rattata-alola",
     "min_level": 5,
     "max_level": 45,
-    "weight": 87
+    "weight": 88
   },
   {
     "form": "crawdaunt",
     "min_level": 5,
     "max_level": 45,
-    "weight": 9
+    "weight": 13
   },
   {
     "form": "leavanny",
     "min_level": 5,
     "max_level": 45,
-    "weight": 5
+    "weight": 9
   },
   {
     "form": "spewpa-poke-ball",
     "min_level": 5,
     "max_level": 45,
-    "weight": 93
+    "weight": 94
   },
   {
     "form": "piloswine",
     "min_level": 5,
     "max_level": 45,
-    "weight": 12
+    "weight": 16
   },
   {
     "form": "gothita",
     "min_level": 5,
     "max_level": 45,
-    "weight": 77
+    "weight": 78
   },
   {
     "form": "octillery",
     "min_level": 5,
     "max_level": 45,
-    "weight": 7
+    "weight": 11
   },
   {
     "form": "ralts",
@@ -3879,115 +3879,115 @@
     "form": "vanillite",
     "min_level": 5,
     "max_level": 45,
-    "weight": 71
+    "weight": 72
   },
   {
     "form": "seaking",
     "min_level": 5,
     "max_level": 45,
-    "weight": 12
+    "weight": 16
   },
   {
     "form": "zweilous",
     "min_level": 5,
     "max_level": 45,
-    "weight": 20
+    "weight": 23
   },
   {
     "form": "aromatisse",
     "min_level": 5,
     "max_level": 45,
-    "weight": 10
+    "weight": 14
   },
   {
     "form": "darumaka",
     "min_level": 5,
     "max_level": 45,
-    "weight": 67
+    "weight": 68
   },
   {
     "form": "mudkip",
     "min_level": 5,
     "max_level": 45,
-    "weight": 69
+    "weight": 70
   },
   {
     "form": "wobbuffet",
     "min_level": 5,
     "max_level": 45,
-    "weight": 25
+    "weight": 28
   },
   {
     "form": "monferno",
     "min_level": 5,
     "max_level": 45,
-    "weight": 25
+    "weight": 28
   },
   {
     "form": "slakoth",
     "min_level": 5,
     "max_level": 45,
-    "weight": 80
+    "weight": 81
   },
   {
     "form": "swalot",
     "min_level": 5,
     "max_level": 45,
-    "weight": 9
+    "weight": 13
   },
   {
     "form": "spewpa-fancy",
     "min_level": 5,
     "max_level": 45,
-    "weight": 93
+    "weight": 94
   },
   {
     "form": "pyroar",
     "min_level": 5,
     "max_level": 45,
-    "weight": 5
+    "weight": 8
   },
   {
     "form": "finneon",
     "min_level": 5,
     "max_level": 45,
-    "weight": 60
+    "weight": 61
   },
   {
     "form": "escavalier",
     "min_level": 5,
     "max_level": 45,
-    "weight": 6
+    "weight": 9
   },
   {
     "form": "pincurchin",
     "min_level": 5,
     "max_level": 45,
-    "weight": 16
+    "weight": 19
   },
   {
     "form": "mankey",
     "min_level": 5,
     "max_level": 45,
-    "weight": 71
+    "weight": 72
   },
   {
     "form": "dustox",
     "min_level": 5,
     "max_level": 45,
-    "weight": 33
+    "weight": 36
   },
   {
     "form": "swellow",
     "min_level": 5,
     "max_level": 45,
-    "weight": 11
+    "weight": 15
   },
   {
     "form": "infernape",
     "min_level": 5,
     "max_level": 45,
-    "weight": 3
+    "weight": 7
   },
   {
     "form": "scatterbug-monsoon",
@@ -3999,217 +3999,217 @@
     "form": "spewpa-river",
     "min_level": 5,
     "max_level": 45,
-    "weight": 93
+    "weight": 94
   },
   {
     "form": "dedenne",
     "min_level": 5,
     "max_level": 45,
-    "weight": 17
+    "weight": 20
   },
   {
     "form": "kabutops",
     "min_level": 5,
     "max_level": 45,
-    "weight": 6
+    "weight": 9
   },
   {
     "form": "meowstic-female",
     "min_level": 5,
     "max_level": 45,
-    "weight": 9
+    "weight": 13
   },
   {
     "form": "pikachu-libre",
     "min_level": 5,
     "max_level": 45,
-    "weight": 64
+    "weight": 66
   },
   {
     "form": "omanyte",
     "min_level": 5,
     "max_level": 45,
-    "weight": 48
+    "weight": 50
   },
   {
     "form": "wormadam-trash",
     "min_level": 5,
     "max_level": 45,
-    "weight": 19
+    "weight": 22
   },
   {
     "form": "sunflora",
     "min_level": 5,
     "max_level": 45,
-    "weight": 19
+    "weight": 22
   },
   {
     "form": "frosmoth",
     "min_level": 5,
     "max_level": 45,
-    "weight": 8
+    "weight": 12
   },
   {
     "form": "shedinja",
     "min_level": 5,
     "max_level": 45,
-    "weight": 90
+    "weight": 91
   },
   {
     "form": "volcarona",
     "min_level": 5,
     "max_level": 45,
-    "weight": 2
+    "weight": 6
   },
   {
     "form": "rapidash",
     "min_level": 5,
     "max_level": 45,
-    "weight": 5
+    "weight": 9
   },
   {
     "form": "duskull",
     "min_level": 5,
     "max_level": 45,
-    "weight": 75
+    "weight": 76
   },
   {
     "form": "popplio",
     "min_level": 5,
     "max_level": 45,
-    "weight": 64
+    "weight": 66
   },
   {
     "form": "remoraid",
     "min_level": 5,
     "max_level": 45,
-    "weight": 73
+    "weight": 74
   },
   {
     "form": "zangoose",
     "min_level": 5,
     "max_level": 45,
-    "weight": 11
+    "weight": 14
   },
   {
     "form": "wormadam-plant",
     "min_level": 5,
     "max_level": 45,
-    "weight": 19
+    "weight": 22
   },
   {
     "form": "trevenant",
     "min_level": 5,
     "max_level": 45,
-    "weight": 8
+    "weight": 12
   },
   {
     "form": "snubbull",
     "min_level": 5,
     "max_level": 45,
-    "weight": 73
+    "weight": 74
   },
   {
     "form": "zamazenta-hero",
     "min_level": 5,
     "max_level": 45,
-    "weight": 1
+    "weight": 5
   },
   {
     "form": "cubchoo",
     "min_level": 5,
     "max_level": 45,
-    "weight": 71
+    "weight": 72
   },
   {
     "form": "makuhita",
     "min_level": 5,
     "max_level": 45,
-    "weight": 90
+    "weight": 91
   },
   {
     "form": "spewpa-continental",
     "min_level": 5,
     "max_level": 45,
-    "weight": 93
+    "weight": 94
   },
   {
     "form": "hawlucha",
     "min_level": 5,
     "max_level": 45,
-    "weight": 5
+    "weight": 9
   },
   {
     "form": "cranidos",
     "min_level": 5,
     "max_level": 45,
-    "weight": 50
+    "weight": 52
   },
   {
     "form": "stunky",
     "min_level": 5,
     "max_level": 45,
-    "weight": 60
+    "weight": 62
   },
   {
     "form": "woobat",
     "min_level": 5,
     "max_level": 45,
-    "weight": 63
+    "weight": 65
   },
   {
     "form": "klinklang",
     "min_level": 5,
     "max_level": 45,
-    "weight": 4
+    "weight": 8
   },
   {
     "form": "furfrou-debutante",
     "min_level": 5,
     "max_level": 45,
-    "weight": 8
+    "weight": 12
   },
   {
     "form": "wimpod",
     "min_level": 5,
     "max_level": 45,
-    "weight": 91
+    "weight": 92
   },
   {
     "form": "boltund",
     "min_level": 5,
     "max_level": 45,
-    "weight": 6
+    "weight": 10
   },
   {
     "form": "ribombee",
     "min_level": 5,
     "max_level": 45,
-    "weight": 10
+    "weight": 13
   },
   {
     "form": "komala",
     "min_level": 5,
     "max_level": 45,
-    "weight": 7
+    "weight": 11
   },
   {
     "form": "lickitung",
     "min_level": 5,
     "max_level": 45,
-    "weight": 33
+    "weight": 36
   },
   {
     "form": "sandaconda",
     "min_level": 5,
     "max_level": 45,
-    "weight": 4
+    "weight": 8
   },
   {
     "form": "sawsbuck-summer",
     "min_level": 5,
     "max_level": 45,
-    "weight": 8
+    "weight": 12
   },
   {
     "form": "starly",
@@ -4221,61 +4221,61 @@
     "form": "inteleon",
     "min_level": 5,
     "max_level": 45,
-    "weight": 3
+    "weight": 7
   },
   {
     "form": "sizzlipede",
     "min_level": 5,
     "max_level": 45,
-    "weight": 71
+    "weight": 72
   },
   {
     "form": "gourgeist-large",
     "min_level": 5,
     "max_level": 45,
-    "weight": 6
+    "weight": 10
   },
   {
     "form": "silcoon",
     "min_level": 5,
     "max_level": 45,
-    "weight": 94
+    "weight": 95
   },
   {
     "form": "ribombee-totem",
     "min_level": 5,
     "max_level": 45,
-    "weight": 10
+    "weight": 13
   },
   {
     "form": "armaldo",
     "min_level": 5,
     "max_level": 45,
-    "weight": 6
+    "weight": 9
   },
   {
     "form": "noivern",
     "min_level": 5,
     "max_level": 45,
-    "weight": 3
+    "weight": 7
   },
   {
     "form": "bergmite",
     "min_level": 5,
     "max_level": 45,
-    "weight": 71
+    "weight": 72
   },
   {
     "form": "goomy",
     "min_level": 5,
     "max_level": 45,
-    "weight": 73
+    "weight": 74
   },
   {
     "form": "glaceon",
     "min_level": 5,
     "max_level": 45,
-    "weight": 3
+    "weight": 7
   },
   {
     "form": "scatterbug-tundra",
@@ -4287,85 +4287,85 @@
     "form": "cascoon",
     "min_level": 5,
     "max_level": 45,
-    "weight": 94
+    "weight": 95
   },
   {
     "form": "salamence",
     "min_level": 5,
     "max_level": 45,
-    "weight": 1
+    "weight": 5
   },
   {
     "form": "drampa",
     "min_level": 5,
     "max_level": 45,
-    "weight": 7
+    "weight": 10
   },
   {
     "form": "nincada",
     "min_level": 5,
     "max_level": 45,
-    "weight": 84
+    "weight": 85
   },
   {
     "form": "shroomish",
     "min_level": 5,
     "max_level": 45,
-    "weight": 75
+    "weight": 76
   },
   {
     "form": "vivillon-jungle",
     "min_level": 5,
     "max_level": 45,
-    "weight": 23
+    "weight": 26
   },
   {
     "form": "kricketune",
     "min_level": 5,
     "max_level": 45,
-    "weight": 34
+    "weight": 36
   },
   {
     "form": "goodra",
     "min_level": 5,
     "max_level": 45,
-    "weight": 1
+    "weight": 5
   },
   {
     "form": "zorua",
     "min_level": 5,
     "max_level": 45,
-    "weight": 60
+    "weight": 61
   },
   {
     "form": "sceptile",
     "min_level": 5,
     "max_level": 45,
-    "weight": 3
+    "weight": 7
   },
   {
     "form": "helioptile",
     "min_level": 5,
     "max_level": 45,
-    "weight": 77
+    "weight": 78
   },
   {
     "form": "ducklett",
     "min_level": 5,
     "max_level": 45,
-    "weight": 71
+    "weight": 72
   },
   {
     "form": "magcargo",
     "min_level": 5,
     "max_level": 45,
-    "weight": 17
+    "weight": 20
   },
   {
     "form": "shellder",
     "min_level": 5,
     "max_level": 45,
-    "weight": 71
+    "weight": 72
   },
   {
     "form": "kricketot",
@@ -4377,13 +4377,13 @@
     "form": "munna",
     "min_level": 5,
     "max_level": 45,
-    "weight": 76
+    "weight": 77
   },
   {
     "form": "dodrio",
     "min_level": 5,
     "max_level": 45,
-    "weight": 9
+    "weight": 12
   },
   {
     "form": "scatterbug-marine",
@@ -4395,67 +4395,67 @@
     "form": "electrode",
     "min_level": 5,
     "max_level": 45,
-    "weight": 6
+    "weight": 10
   },
   {
     "form": "weavile",
     "min_level": 5,
     "max_level": 45,
-    "weight": 4
+    "weight": 8
   },
   {
     "form": "oricorio-baile",
     "min_level": 5,
     "max_level": 45,
-    "weight": 8
+    "weight": 12
   },
   {
     "form": "weezing",
     "min_level": 5,
     "max_level": 45,
-    "weight": 6
+    "weight": 10
   },
   {
     "form": "graveler-alola",
     "min_level": 5,
     "max_level": 45,
-    "weight": 31
+    "weight": 34
   },
   {
     "form": "magnemite",
     "min_level": 5,
     "max_level": 45,
-    "weight": 62
+    "weight": 64
   },
   {
     "form": "pyukumuku",
     "min_level": 5,
     "max_level": 45,
-    "weight": 23
+    "weight": 26
   },
   {
     "form": "charmander",
     "min_level": 5,
     "max_level": 45,
-    "weight": 69
+    "weight": 70
   },
   {
     "form": "tangela",
     "min_level": 5,
     "max_level": 45,
-    "weight": 16
+    "weight": 19
   },
   {
     "form": "mienshao",
     "min_level": 5,
     "max_level": 45,
-    "weight": 4
+    "weight": 8
   },
   {
     "form": "cutiefly",
     "min_level": 5,
     "max_level": 45,
-    "weight": 71
+    "weight": 72
   },
   {
     "form": "seedot",
@@ -4467,73 +4467,73 @@
     "form": "chatot",
     "min_level": 5,
     "max_level": 45,
-    "weight": 23
+    "weight": 26
   },
   {
     "form": "ferrothorn",
     "min_level": 5,
     "max_level": 45,
-    "weight": 6
+    "weight": 10
   },
   {
     "form": "eldegoss",
     "min_level": 5,
     "max_level": 45,
-    "weight": 10
+    "weight": 14
   },
   {
     "form": "totodile",
     "min_level": 5,
     "max_level": 45,
-    "weight": 67
+    "weight": 68
   },
   {
     "form": "torterra",
     "min_level": 5,
     "max_level": 45,
-    "weight": 3
+    "weight": 7
   },
   {
     "form": "yamask",
     "min_level": 5,
     "max_level": 45,
-    "weight": 72
+    "weight": 73
   },
   {
     "form": "swanna",
     "min_level": 5,
     "max_level": 45,
-    "weight": 8
+    "weight": 12
   },
   {
     "form": "mamoswine",
     "min_level": 5,
     "max_level": 45,
-    "weight": 3
+    "weight": 7
   },
   {
     "form": "jellicent",
     "min_level": 5,
     "max_level": 45,
-    "weight": 7
+    "weight": 11
   },
   {
     "form": "amoonguss",
     "min_level": 5,
     "max_level": 45,
-    "weight": 10
+    "weight": 13
   },
   {
     "form": "quilladin",
     "min_level": 5,
     "max_level": 45,
-    "weight": 25
+    "weight": 28
   },
   {
     "form": "slaking",
     "min_level": 5,
     "max_level": 45,
-    "weight": 1
+    "weight": 5
   },
   {
     "form": "chewtle",
@@ -4551,199 +4551,199 @@
     "form": "scolipede",
     "min_level": 5,
     "max_level": 45,
-    "weight": 7
+    "weight": 10
   },
   {
     "form": "turtwig",
     "min_level": 5,
     "max_level": 45,
-    "weight": 65
+    "weight": 67
   },
   {
     "form": "stunfisk-galar",
     "min_level": 5,
     "max_level": 45,
-    "weight": 9
+    "weight": 12
   },
   {
     "form": "grimer",
     "min_level": 5,
     "max_level": 45,
-    "weight": 62
+    "weight": 64
   },
   {
     "form": "mr-rime",
     "min_level": 5,
     "max_level": 45,
-    "weight": 4
+    "weight": 8
   },
   {
     "form": "gogoat",
     "min_level": 5,
     "max_level": 45,
-    "weight": 3
+    "weight": 7
   },
   {
     "form": "klefki",
     "min_level": 5,
     "max_level": 45,
-    "weight": 9
+    "weight": 12
   },
   {
     "form": "darmanitan-standard-galar",
     "min_level": 5,
     "max_level": 45,
-    "weight": 7
+    "weight": 11
   },
   {
     "form": "sinistea-antique",
     "min_level": 5,
     "max_level": 45,
-    "weight": 70
+    "weight": 71
   },
   {
     "form": "krokorok",
     "min_level": 5,
     "max_level": 45,
-    "weight": 50
+    "weight": 52
   },
   {
     "form": "galvantula",
     "min_level": 5,
     "max_level": 45,
-    "weight": 8
+    "weight": 12
   },
   {
     "form": "torchic",
     "min_level": 5,
     "max_level": 45,
-    "weight": 69
+    "weight": 70
   },
   {
     "form": "rapidash-galar",
     "min_level": 5,
     "max_level": 45,
-    "weight": 5
+    "weight": 9
   },
   {
     "form": "spewpa-archipelago",
     "min_level": 5,
     "max_level": 45,
-    "weight": 93
+    "weight": 94
   },
   {
     "form": "blitzle",
     "min_level": 5,
     "max_level": 45,
-    "weight": 75
+    "weight": 76
   },
   {
     "form": "ninjask",
     "min_level": 5,
     "max_level": 45,
-    "weight": 11
+    "weight": 15
   },
   {
     "form": "maractus",
     "min_level": 5,
     "max_level": 45,
-    "weight": 10
+    "weight": 14
   },
   {
     "form": "snivy",
     "min_level": 5,
     "max_level": 45,
-    "weight": 70
+    "weight": 71
   },
   {
     "form": "spewpa-meadow",
     "min_level": 5,
     "max_level": 45,
-    "weight": 93
+    "weight": 94
   },
   {
     "form": "lickilicky",
     "min_level": 5,
     "max_level": 45,
-    "weight": 4
+    "weight": 8
   },
   {
     "form": "abra",
     "min_level": 5,
     "max_level": 45,
-    "weight": 69
+    "weight": 70
   },
   {
     "form": "nidoking",
     "min_level": 5,
     "max_level": 45,
-    "weight": 5
+    "weight": 9
   },
   {
     "form": "pignite",
     "min_level": 5,
     "max_level": 45,
-    "weight": 21
+    "weight": 24
   },
   {
     "form": "appletun",
     "min_level": 5,
     "max_level": 45,
-    "weight": 7
+    "weight": 10
   },
   {
     "form": "sliggoo",
     "min_level": 5,
     "max_level": 45,
-    "weight": 12
+    "weight": 15
   },
   {
     "form": "ekans",
     "min_level": 5,
     "max_level": 45,
-    "weight": 77
+    "weight": 78
   },
   {
     "form": "servine",
     "min_level": 5,
     "max_level": 45,
-    "weight": 22
+    "weight": 25
   },
   {
     "form": "dunsparce",
     "min_level": 5,
     "max_level": 45,
-    "weight": 22
+    "weight": 25
   },
   {
     "form": "urshifu-rapid-strike",
     "min_level": 5,
     "max_level": 45,
-    "weight": 2
+    "weight": 6
   },
   {
     "form": "vaporeon",
     "min_level": 5,
     "max_level": 45,
-    "weight": 3
+    "weight": 7
   },
   {
     "form": "porygon2",
     "min_level": 5,
     "max_level": 45,
-    "weight": 4
+    "weight": 8
   },
   {
     "form": "seel",
     "min_level": 5,
     "max_level": 45,
-    "weight": 62
+    "weight": 64
   },
   {
     "form": "mandibuzz",
     "min_level": 5,
     "max_level": 45,
-    "weight": 4
+    "weight": 8
   },
   {
     "form": "noibat",
@@ -4755,49 +4755,49 @@
     "form": "espurr",
     "min_level": 5,
     "max_level": 45,
-    "weight": 48
+    "weight": 50
   },
   {
     "form": "aggron",
     "min_level": 5,
     "max_level": 45,
-    "weight": 3
+    "weight": 7
   },
   {
     "form": "cryogonal",
     "min_level": 5,
     "max_level": 45,
-    "weight": 4
+    "weight": 8
   },
   {
     "form": "gloom",
     "min_level": 5,
     "max_level": 45,
-    "weight": 29
+    "weight": 32
   },
   {
     "form": "wigglytuff",
     "min_level": 5,
     "max_level": 45,
-    "weight": 16
+    "weight": 19
   },
   {
     "form": "minun",
     "min_level": 5,
     "max_level": 45,
-    "weight": 25
+    "weight": 28
   },
   {
     "form": "phione",
     "min_level": 5,
     "max_level": 45,
-    "weight": 7
+    "weight": 11
   },
   {
     "form": "vivillon-tundra",
     "min_level": 5,
     "max_level": 45,
-    "weight": 23
+    "weight": 26
   },
   {
     "form": "nickit",
@@ -4809,193 +4809,193 @@
     "form": "slowpoke",
     "min_level": 5,
     "max_level": 45,
-    "weight": 67
+    "weight": 68
   },
   {
     "form": "stoutland",
     "min_level": 5,
     "max_level": 45,
-    "weight": 5
+    "weight": 9
   },
   {
     "form": "zebstrika",
     "min_level": 5,
     "max_level": 45,
-    "weight": 5
+    "weight": 9
   },
   {
     "form": "jigglypuff",
     "min_level": 5,
     "max_level": 45,
-    "weight": 83
+    "weight": 84
   },
   {
     "form": "spoink",
     "min_level": 5,
     "max_level": 45,
-    "weight": 60
+    "weight": 61
   },
   {
     "form": "lucario",
     "min_level": 5,
     "max_level": 45,
-    "weight": 3
+    "weight": 7
   },
   {
     "form": "darumaka-galar",
     "min_level": 5,
     "max_level": 45,
-    "weight": 67
+    "weight": 68
   },
   {
     "form": "kingler",
     "min_level": 5,
     "max_level": 45,
-    "weight": 8
+    "weight": 12
   },
   {
     "form": "ledyba",
     "min_level": 5,
     "max_level": 45,
-    "weight": 84
+    "weight": 85
   },
   {
     "form": "flabebe-white",
     "min_level": 5,
     "max_level": 45,
-    "weight": 72
+    "weight": 73
   },
   {
     "form": "slowking-galar",
     "min_level": 5,
     "max_level": 45,
-    "weight": 6
+    "weight": 10
   },
   {
     "form": "torracat",
     "min_level": 5,
     "max_level": 45,
-    "weight": 20
+    "weight": 23
   },
   {
     "form": "tentacruel",
     "min_level": 5,
     "max_level": 45,
-    "weight": 4
+    "weight": 8
   },
   {
     "form": "anorith",
     "min_level": 5,
     "max_level": 45,
-    "weight": 48
+    "weight": 50
   },
   {
     "form": "meltan",
     "min_level": 5,
     "max_level": 45,
-    "weight": 73
+    "weight": 74
   },
   {
     "form": "runerigus",
     "min_level": 5,
     "max_level": 45,
-    "weight": 7
+    "weight": 11
   },
   {
     "form": "blissey",
     "min_level": 5,
     "max_level": 45,
-    "weight": 3
+    "weight": 7
   },
   {
     "form": "shellos-west",
     "min_level": 5,
     "max_level": 45,
-    "weight": 62
+    "weight": 64
   },
   {
     "form": "ponyta",
     "min_level": 5,
     "max_level": 45,
-    "weight": 23
+    "weight": 26
   },
   {
     "form": "swoobat",
     "min_level": 5,
     "max_level": 45,
-    "weight": 19
+    "weight": 22
   },
   {
     "form": "sealeo",
     "min_level": 5,
     "max_level": 45,
-    "weight": 23
+    "weight": 26
   },
   {
     "form": "araquanid",
     "min_level": 5,
     "max_level": 45,
-    "weight": 11
+    "weight": 15
   },
   {
     "form": "volbeat",
     "min_level": 5,
     "max_level": 45,
-    "weight": 17
+    "weight": 20
   },
   {
     "form": "oricorio-pau",
     "min_level": 5,
     "max_level": 45,
-    "weight": 8
+    "weight": 12
   },
   {
     "form": "bastiodon",
     "min_level": 5,
     "max_level": 45,
-    "weight": 6
+    "weight": 9
   },
   {
     "form": "spinda",
     "min_level": 5,
     "max_level": 45,
-    "weight": 45
+    "weight": 47
   },
   {
     "form": "crabrawler",
     "min_level": 5,
     "max_level": 45,
-    "weight": 56
+    "weight": 58
   },
   {
     "form": "accelgor",
     "min_level": 5,
     "max_level": 45,
-    "weight": 6
+    "weight": 9
   },
   {
     "form": "coalossal",
     "min_level": 5,
     "max_level": 45,
-    "weight": 4
+    "weight": 8
   },
   {
     "form": "jolteon",
     "min_level": 5,
     "max_level": 45,
-    "weight": 3
+    "weight": 7
   },
   {
     "form": "whimsicott",
     "min_level": 5,
     "max_level": 45,
-    "weight": 7
+    "weight": 11
   },
   {
     "form": "zarude-dada",
     "min_level": 5,
     "max_level": 45,
-    "weight": 1
+    "weight": 5
   },
   {
     "form": "scatterbug-fancy",
@@ -5013,43 +5013,43 @@
     "form": "pikachu-phd",
     "min_level": 5,
     "max_level": 45,
-    "weight": 64
+    "weight": 66
   },
   {
     "form": "togetic",
     "min_level": 5,
     "max_level": 45,
-    "weight": 25
+    "weight": 28
   },
   {
     "form": "squirtle",
     "min_level": 5,
     "max_level": 45,
-    "weight": 67
+    "weight": 68
   },
   {
     "form": "prinplup",
     "min_level": 5,
     "max_level": 45,
-    "weight": 25
+    "weight": 28
   },
   {
     "form": "walrein",
     "min_level": 5,
     "max_level": 45,
-    "weight": 3
+    "weight": 7
   },
   {
     "form": "spewpa-monsoon",
     "min_level": 5,
     "max_level": 45,
-    "weight": 93
+    "weight": 94
   },
   {
     "form": "paras",
     "min_level": 5,
     "max_level": 45,
-    "weight": 78
+    "weight": 79
   },
   {
     "form": "rookidee",
@@ -5061,19 +5061,19 @@
     "form": "magneton",
     "min_level": 5,
     "max_level": 45,
-    "weight": 10
+    "weight": 13
   },
   {
     "form": "taillow",
     "min_level": 5,
     "max_level": 45,
-    "weight": 83
+    "weight": 84
   },
   {
     "form": "froakie",
     "min_level": 5,
     "max_level": 45,
-    "weight": 67
+    "weight": 68
   },
   {
     "form": "weedle",
@@ -5085,97 +5085,97 @@
     "form": "kakuna",
     "min_level": 5,
     "max_level": 45,
-    "weight": 94
+    "weight": 95
   },
   {
     "form": "scyther",
     "min_level": 5,
     "max_level": 45,
-    "weight": 5
+    "weight": 9
   },
   {
     "form": "nosepass",
     "min_level": 5,
     "max_level": 45,
-    "weight": 38
+    "weight": 40
   },
   {
     "form": "purugly",
     "min_level": 5,
     "max_level": 45,
-    "weight": 12
+    "weight": 15
   },
   {
     "form": "incineroar",
     "min_level": 5,
     "max_level": 45,
-    "weight": 3
+    "weight": 7
   },
   {
     "form": "druddigon",
     "min_level": 5,
     "max_level": 45,
-    "weight": 7
+    "weight": 10
   },
   {
     "form": "vivillon-garden",
     "min_level": 5,
     "max_level": 45,
-    "weight": 23
+    "weight": 26
   },
   {
     "form": "ditto",
     "min_level": 5,
     "max_level": 45,
-    "weight": 77
+    "weight": 78
   },
   {
     "form": "gourgeist-super",
     "min_level": 5,
     "max_level": 45,
-    "weight": 6
+    "weight": 10
   },
   {
     "form": "impidimp",
     "min_level": 5,
     "max_level": 45,
-    "weight": 84
+    "weight": 85
   },
   {
     "form": "ivysaur",
     "min_level": 5,
     "max_level": 45,
-    "weight": 25
+    "weight": 28
   },
   {
     "form": "morpeko-full-belly",
     "min_level": 5,
     "max_level": 45,
-    "weight": 16
+    "weight": 19
   },
   {
     "form": "axew",
     "min_level": 5,
     "max_level": 45,
-    "weight": 64
+    "weight": 66
   },
   {
     "form": "flygon",
     "min_level": 5,
     "max_level": 45,
-    "weight": 4
+    "weight": 8
   },
   {
     "form": "vulpix",
     "min_level": 5,
     "max_level": 45,
-    "weight": 73
+    "weight": 74
   },
   {
     "form": "xatu",
     "min_level": 5,
     "max_level": 45,
-    "weight": 9
+    "weight": 12
   },
   {
     "form": "spinarak",
@@ -5187,205 +5187,205 @@
     "form": "rotom-frost",
     "min_level": 5,
     "max_level": 45,
-    "weight": 4
+    "weight": 8
   },
   {
     "form": "skuntank",
     "min_level": 5,
     "max_level": 45,
-    "weight": 7
+    "weight": 11
   },
   {
     "form": "spewpa-marine",
     "min_level": 5,
     "max_level": 45,
-    "weight": 93
+    "weight": 94
   },
   {
     "form": "lycanroc-midday",
     "min_level": 5,
     "max_level": 45,
-    "weight": 7
+    "weight": 10
   },
   {
     "form": "hitmonlee",
     "min_level": 5,
     "max_level": 45,
-    "weight": 11
+    "weight": 15
   },
   {
     "form": "malamar",
     "min_level": 5,
     "max_level": 45,
-    "weight": 7
+    "weight": 11
   },
   {
     "form": "skrelp",
     "min_level": 5,
     "max_level": 45,
-    "weight": 64
+    "weight": 66
   },
   {
     "form": "machamp",
     "min_level": 5,
     "max_level": 45,
-    "weight": 5
+    "weight": 9
   },
   {
     "form": "musharna",
     "min_level": 5,
     "max_level": 45,
-    "weight": 7
+    "weight": 10
   },
   {
     "form": "grovyle",
     "min_level": 5,
     "max_level": 45,
-    "weight": 25
+    "weight": 28
   },
   {
     "form": "salandit",
     "min_level": 5,
     "max_level": 45,
-    "weight": 64
+    "weight": 66
   },
   {
     "form": "machop",
     "min_level": 5,
     "max_level": 45,
-    "weight": 71
+    "weight": 72
   },
   {
     "form": "gorebyss",
     "min_level": 5,
     "max_level": 45,
-    "weight": 7
+    "weight": 10
   },
   {
     "form": "shuckle",
     "min_level": 5,
     "max_level": 45,
-    "weight": 5
+    "weight": 9
   },
   {
     "form": "spectrier",
     "min_level": 5,
     "max_level": 45,
-    "weight": 1
+    "weight": 5
   },
   {
     "form": "calyrex-ice-rider",
     "min_level": 5,
     "max_level": 45,
-    "weight": 1
+    "weight": 5
   },
   {
     "form": "steelix",
     "min_level": 5,
     "max_level": 45,
-    "weight": 4
+    "weight": 8
   },
   {
     "form": "milcery",
     "min_level": 5,
     "max_level": 45,
-    "weight": 83
+    "weight": 84
   },
   {
     "form": "pikachu-alola-cap",
     "min_level": 5,
     "max_level": 45,
-    "weight": 64
+    "weight": 66
   },
   {
     "form": "farfetchd",
     "min_level": 5,
     "max_level": 45,
-    "weight": 37
+    "weight": 39
   },
   {
     "form": "sandslash-alola",
     "min_level": 5,
     "max_level": 45,
-    "weight": 12
+    "weight": 16
   },
   {
     "form": "exeggutor",
     "min_level": 5,
     "max_level": 45,
-    "weight": 3
+    "weight": 7
   },
   {
     "form": "togekiss",
     "min_level": 5,
     "max_level": 45,
-    "weight": 2
+    "weight": 6
   },
   {
     "form": "linoone",
     "min_level": 5,
     "max_level": 45,
-    "weight": 20
+    "weight": 23
   },
   {
     "form": "clobbopus",
     "min_level": 5,
     "max_level": 45,
-    "weight": 69
+    "weight": 70
   },
   {
     "form": "litwick",
     "min_level": 5,
     "max_level": 45,
-    "weight": 81
+    "weight": 82
   },
   {
     "form": "rhyperior",
     "min_level": 5,
     "max_level": 45,
-    "weight": 3
+    "weight": 7
   },
   {
     "form": "spewpa-sandstorm",
     "min_level": 5,
     "max_level": 45,
-    "weight": 93
+    "weight": 94
   },
   {
     "form": "drizzile",
     "min_level": 5,
     "max_level": 45,
-    "weight": 20
+    "weight": 23
   },
   {
     "form": "thievul",
     "min_level": 5,
     "max_level": 45,
-    "weight": 11
+    "weight": 15
   },
   {
     "form": "psyduck",
     "min_level": 5,
     "max_level": 45,
-    "weight": 64
+    "weight": 66
   },
   {
     "form": "yanmega",
     "min_level": 5,
     "max_level": 45,
-    "weight": 4
+    "weight": 8
   },
   {
     "form": "goldeen",
     "min_level": 5,
     "max_level": 45,
-    "weight": 64
+    "weight": 66
   },
   {
     "form": "bewear",
     "min_level": 5,
     "max_level": 45,
-    "weight": 5
+    "weight": 9
   },
   {
     "form": "bounsweet",
@@ -5397,229 +5397,229 @@
     "form": "karrablast",
     "min_level": 5,
     "max_level": 45,
-    "weight": 67
+    "weight": 68
   },
   {
     "form": "vibrava",
     "min_level": 5,
     "max_level": 45,
-    "weight": 55
+    "weight": 57
   },
   {
     "form": "persian-alola",
     "min_level": 5,
     "max_level": 45,
-    "weight": 15
+    "weight": 18
   },
   {
     "form": "chinchou",
     "min_level": 5,
     "max_level": 45,
-    "weight": 60
+    "weight": 61
   },
   {
     "form": "dusknoir",
     "min_level": 5,
     "max_level": 45,
-    "weight": 3
+    "weight": 7
   },
   {
     "form": "regidrago",
     "min_level": 5,
     "max_level": 45,
-    "weight": 1
+    "weight": 5
   },
   {
     "form": "araquanid-totem",
     "min_level": 5,
     "max_level": 45,
-    "weight": 11
+    "weight": 15
   },
   {
     "form": "fraxure",
     "min_level": 5,
     "max_level": 45,
-    "weight": 23
+    "weight": 26
   },
   {
     "form": "raticate",
     "min_level": 5,
     "max_level": 45,
-    "weight": 22
+    "weight": 25
   },
   {
     "form": "deerling-autumn",
     "min_level": 5,
     "max_level": 45,
-    "weight": 57
+    "weight": 59
   },
   {
     "form": "spheal",
     "min_level": 5,
     "max_level": 45,
-    "weight": 77
+    "weight": 78
   },
   {
     "form": "luxio",
     "min_level": 5,
     "max_level": 45,
-    "weight": 44
+    "weight": 46
   },
   {
     "form": "hatterene",
     "min_level": 5,
     "max_level": 45,
-    "weight": 4
+    "weight": 8
   },
   {
     "form": "morelull",
     "min_level": 5,
     "max_level": 45,
-    "weight": 78
+    "weight": 79
   },
   {
     "form": "magnezone",
     "min_level": 5,
     "max_level": 45,
-    "weight": 3
+    "weight": 7
   },
   {
     "form": "geodude-alola",
     "min_level": 5,
     "max_level": 45,
-    "weight": 73
+    "weight": 74
   },
   {
     "form": "inkay",
     "min_level": 5,
     "max_level": 45,
-    "weight": 77
+    "weight": 78
   },
   {
     "form": "greedent",
     "min_level": 5,
     "max_level": 45,
-    "weight": 10
+    "weight": 14
   },
   {
     "form": "gurdurr",
     "min_level": 5,
     "max_level": 45,
-    "weight": 25
+    "weight": 28
   },
   {
     "form": "floette-orange",
     "min_level": 5,
     "max_level": 45,
-    "weight": 40
+    "weight": 42
   },
   {
     "form": "growlithe",
     "min_level": 5,
     "max_level": 45,
-    "weight": 50
+    "weight": 52
   },
   {
     "form": "onix",
     "min_level": 5,
     "max_level": 45,
-    "weight": 33
+    "weight": 36
   },
   {
     "form": "toxapex",
     "min_level": 5,
     "max_level": 45,
-    "weight": 6
+    "weight": 9
   },
   {
     "form": "pikachu-partner-cap",
     "min_level": 5,
     "max_level": 45,
-    "weight": 64
+    "weight": 66
   },
   {
     "form": "centiskorch",
     "min_level": 5,
     "max_level": 45,
-    "weight": 3
+    "weight": 7
   },
   {
     "form": "roggenrola",
     "min_level": 5,
     "max_level": 45,
-    "weight": 80
+    "weight": 81
   },
   {
     "form": "floette-red",
     "min_level": 5,
     "max_level": 45,
-    "weight": 40
+    "weight": 42
   },
   {
     "form": "furfrou-natural",
     "min_level": 5,
     "max_level": 45,
-    "weight": 8
+    "weight": 12
   },
   {
     "form": "wormadam-sandy",
     "min_level": 5,
     "max_level": 45,
-    "weight": 19
+    "weight": 22
   },
   {
     "form": "shieldon",
     "min_level": 5,
     "max_level": 45,
-    "weight": 50
+    "weight": 52
   },
   {
     "form": "clauncher",
     "min_level": 5,
     "max_level": 45,
-    "weight": 60
+    "weight": 61
   },
   {
     "form": "minior-yellow",
     "min_level": 5,
     "max_level": 45,
-    "weight": 5
+    "weight": 9
   },
   {
     "form": "rotom-wash",
     "min_level": 5,
     "max_level": 45,
-    "weight": 4
+    "weight": 8
   },
   {
     "form": "braixen",
     "min_level": 5,
     "max_level": 45,
-    "weight": 24
+    "weight": 27
   },
   {
     "form": "spritzee",
     "min_level": 5,
     "max_level": 45,
-    "weight": 54
+    "weight": 56
   },
   {
     "form": "tyrunt",
     "min_level": 5,
     "max_level": 45,
-    "weight": 44
+    "weight": 46
   },
   {
     "form": "staraptor",
     "min_level": 5,
     "max_level": 45,
-    "weight": 7
+    "weight": 10
   },
   {
     "form": "oshawott",
     "min_level": 5,
     "max_level": 45,
-    "weight": 70
+    "weight": 71
   },
   {
     "form": "kirlia",
@@ -5631,252 +5631,252 @@
     "form": "drapion",
     "min_level": 5,
     "max_level": 45,
-    "weight": 5
+    "weight": 9
   },
   {
     "form": "pumpkaboo-large",
     "min_level": 5,
     "max_level": 45,
-    "weight": 57
+    "weight": 59
   },
   {
     "form": "tyranitar",
     "min_level": 5,
     "max_level": 45,
-    "weight": 1
+    "weight": 5
   },
   {
     "form": "honedge",
     "min_level": 5,
     "max_level": 45,
-    "weight": 62
+    "weight": 64
   },
   {
     "form": "sigilyph",
     "min_level": 5,
     "max_level": 45,
-    "weight": 6
+    "weight": 10
   },
   {
     "form": "illumise",
     "min_level": 5,
     "max_level": 45,
-    "weight": 17
+    "weight": 20
   },
   {
     "form": "sandile",
     "min_level": 5,
     "max_level": 45,
-    "weight": 76
+    "weight": 77
   },
   {
     "form": "bronzor",
     "min_level": 5,
     "max_level": 45,
-    "weight": 73
+    "weight": 74
   },
   {
     "form": "talonflame",
     "min_level": 5,
     "max_level": 45,
-    "weight": 5
+    "weight": 9
   },
   {
     "form": "carnivine",
     "min_level": 5,
     "max_level": 45,
-    "weight": 11
+    "weight": 15
   },
   {
     "form": "electrike",
     "min_level": 5,
     "max_level": 45,
-    "weight": 75
+    "weight": 76
   },
   {
     "form": "silicobra",
     "min_level": 5,
     "max_level": 45,
-    "weight": 67
+    "weight": 68
   },
   {
     "form": "spewpa-polar",
     "min_level": 5,
     "max_level": 45,
-    "weight": 93
+    "weight": 94
   },
   {
     "form": "darmanitan-zen-galar",
     "min_level": 5,
     "max_level": 45,
-    "weight": 3
+    "weight": 7
   },
   {
     "form": "diglett",
     "min_level": 5,
     "max_level": 45,
-    "weight": 84
+    "weight": 85
   },
   {
     "form": "magmortar",
     "min_level": 5,
     "max_level": 45,
-    "weight": 3
+    "weight": 7
   },
   {
     "form": "muk",
     "min_level": 5,
     "max_level": 45,
-    "weight": 5
+    "weight": 9
   },
   {
     "form": "timburr",
     "min_level": 5,
     "max_level": 45,
-    "weight": 71
+    "weight": 72
   },
   {
     "form": "decidueye",
     "min_level": 5,
     "max_level": 45,
-    "weight": 3
+    "weight": 7
   },
   {
     "form": "vivillon-continental",
     "min_level": 5,
     "max_level": 45,
-    "weight": 23
+    "weight": 26
   },
   {
     "form": "cofagrigus",
     "min_level": 5,
     "max_level": 45,
-    "weight": 7
+    "weight": 11
   },
   {
     "form": "bellossom",
     "min_level": 5,
     "max_level": 45,
-    "weight": 6
+    "weight": 10
   },
   {
     "form": "snorunt",
     "min_level": 5,
     "max_level": 45,
-    "weight": 73
+    "weight": 74
   },
   {
     "form": "umbreon",
     "min_level": 5,
     "max_level": 45,
-    "weight": 3
+    "weight": 7
   },
   {
     "form": "snover",
     "min_level": 5,
     "max_level": 45,
-    "weight": 58
+    "weight": 60
   },
   {
     "form": "rotom-fan",
     "min_level": 5,
     "max_level": 45,
-    "weight": 4
+    "weight": 8
   },
   {
     "form": "hitmontop",
     "min_level": 5,
     "max_level": 45,
-    "weight": 11
+    "weight": 15
   },
   {
     "form": "kangaskhan",
     "min_level": 5,
     "max_level": 45,
-    "weight": 6
+    "weight": 10
   },
   {
     "form": "larvitar",
     "min_level": 5,
     "max_level": 45,
-    "weight": 73
+    "weight": 74
   },
   {
     "form": "azumarill",
     "min_level": 5,
     "max_level": 45,
-    "weight": 20
+    "weight": 23
   },
   {
     "form": "mightyena",
     "min_level": 5,
     "max_level": 45,
-    "weight": 20
+    "weight": 23
   },
   {
     "form": "simisear",
     "min_level": 5,
     "max_level": 45,
-    "weight": 5
+    "weight": 9
   },
   {
     "form": "bulbasaur",
     "min_level": 5,
     "max_level": 45,
-    "weight": 65
+    "weight": 67
   },
   {
     "form": "leafeon",
     "min_level": 5,
     "max_level": 45,
-    "weight": 3
+    "weight": 7
   },
   {
     "form": "vivillon-poke-ball",
     "min_level": 5,
     "max_level": 45,
-    "weight": 23
+    "weight": 26
   },
   {
     "form": "shelgon",
     "min_level": 5,
     "max_level": 45,
-    "weight": 20
+    "weight": 23
   },
   {
     "form": "horsea",
     "min_level": 5,
     "max_level": 45,
-    "weight": 75
+    "weight": 76
   },
   {
     "form": "lycanroc-dusk",
     "min_level": 5,
     "max_level": 45,
-    "weight": 7
+    "weight": 10
   },
   {
     "form": "tepig",
     "min_level": 5,
     "max_level": 45,
-    "weight": 70
+    "weight": 71
   },
   {
     "form": "parasect",
     "min_level": 5,
     "max_level": 45,
-    "weight": 25
+    "weight": 28
   },
   {
     "form": "scorbunny",
     "min_level": 5,
     "max_level": 45,
-    "weight": 69
+    "weight": 70
   },
   {
     "form": "weepinbell",
     "min_level": 5,
     "max_level": 45,
-    "weight": 31
+    "weight": 34
   }
 ]
