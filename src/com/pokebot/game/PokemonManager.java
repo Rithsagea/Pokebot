@@ -14,39 +14,48 @@ import com.google.gson.JsonIOException;
 import com.google.gson.JsonSyntaxException;
 import com.google.gson.reflect.TypeToken;
 import com.pokebot.discord.EmbedUtil;
+import com.pokebot.discord.ServerData;
 import com.pokebot.json.PokemonAdapter;
 import com.pokebot.types.Language;
 
+import net.dv8tion.jda.api.JDA;
 import net.dv8tion.jda.api.entities.MessageChannel;
+import net.dv8tion.jda.api.entities.TextChannel;
 import net.dv8tion.jda.api.entities.User;
 
 public class PokemonManager {
 	private HashMap<MessageChannel, Pokemon> activePokemon;
 	private HashMap<Long, PokemonUser> users;
+	private HashMap<Long, ServerData> servers;
 	
+	private JDA jda;
 	private Gson g;
 	
-	public PokemonManager(File file) {
+	public PokemonManager(File file, File serverData, JDA jda) {
 		activePokemon = new HashMap<>();
+		servers = new HashMap<>();
 		
 		g = new GsonBuilder()
 				.registerTypeAdapter(new TypeToken<Pokemon>() {}.getType(), new PokemonAdapter())
 				.setPrettyPrinting()
 				.create();
 		
-		load(file);
+		this.jda = jda;
+		
+		load(file, serverData);
 	}
 	
-	public void load(File file) {
-		if(!file.exists()) {
+	public void load(File userData, File serverData) {
+		if(!userData.exists()) {
 			try {
-				file.createNewFile();
+				userData.createNewFile();
 			} catch (IOException e) {
 				e.printStackTrace();
 			}
 		} else {
 			try {
-				users = g.fromJson(new FileReader(file), new TypeToken<HashMap<Long, PokemonUser>>() {}.getType());
+				users = g.fromJson(new FileReader(userData), new TypeToken<HashMap<Long, PokemonUser>>() {}.getType());
+				servers = g.fromJson(new FileReader(serverData), new TypeToken<HashMap<Long, ServerData>>() {}.getType());
 			} catch (JsonIOException | JsonSyntaxException | FileNotFoundException e) {
 				e.printStackTrace();
 				System.err.println("Error reading user data");
@@ -56,15 +65,23 @@ public class PokemonManager {
 		if(users == null) users = new HashMap<>();
 	}
 	
-	public void save(File file) {
+	public void save(File userData, File serverData) {
 		try {
-			FileWriter writer = new FileWriter(file);
+			FileWriter writer;
+			
+			writer = new FileWriter(serverData);
+			g.toJson(servers, writer);
+			writer.flush();
+			writer.close();
+			
+			writer = new FileWriter(userData);
 			g.toJson(users, writer);
 			writer.flush();
 			writer.close();
+			
 		} catch (JsonIOException | IOException e) {
 			e.printStackTrace();
-			System.err.println("Error saving user data");
+			System.err.println("Error saving data");
 		}
 	}
 	
@@ -102,5 +119,33 @@ public class PokemonManager {
 	
 	public PokemonUser getUser(long id) {
 		return users.get(id);
+	}
+	
+	public void addGuild(long id) {
+		if(!servers.containsKey(id))
+		servers.put(id, new ServerData());
+	}
+	
+	public void tickServer(long id, MessageChannel chann) {
+		ServerData s = servers.get(id);
+		s.counter++;
+		
+		//TODO replace with new equation
+		if(Math.random() < (s.counter / 100f)) {
+			s.counter = 0;
+			TextChannel tChann = jda.getTextChannelById(s.spawnChannelID);
+			if(tChann == null)
+				spawnPokemon(chann);
+			else
+				spawnPokemon(tChann);
+		}
+	}
+	
+	public void setSpawnChannel(long serverId, long channelId) {
+		servers.get(serverId).spawnChannelID = channelId;
+	}
+	
+	public TextChannel getPokeChannel(long id) {
+		return jda.getTextChannelById(servers.get(id).spawnChannelID);
 	}
 }

@@ -1,25 +1,24 @@
 package com.pokebot.discord.command;
 
-import java.io.File;
-
 import com.pokebot.discord.Command;
 import com.pokebot.game.PokemonManager;
 
+import net.dv8tion.jda.api.Permission;
 import net.dv8tion.jda.api.entities.Message;
 import net.dv8tion.jda.api.entities.MessageChannel;
 import net.dv8tion.jda.api.entities.User;
 
-public class CommandStop implements Command {
+public class CommandRedirect implements Command {
 
 	private PokemonManager pokemonManager;
 	
-	public CommandStop(PokemonManager pokemonManager) {
+	public CommandRedirect(PokemonManager pokemonManager) {
 		this.pokemonManager = pokemonManager;
 	}
 	
 	@Override
 	public String getLabel() {
-		return "stop";
+		return "redirect";
 	}
 
 	@Override
@@ -29,9 +28,9 @@ public class CommandStop implements Command {
 
 	@Override
 	public void onCommand(Message msg, User sender, MessageChannel chann, String[] args) {
-		if(sender.getIdLong() == 171378138041942016l) {
-			pokemonManager.save(new File("userdata.json"), new File("serverdata.json"));
-			System.exit(0);
+		if(msg.getGuild().getMember(sender).hasPermission(Permission.ADMINISTRATOR)) {
+			pokemonManager.setSpawnChannel(msg.getGuild().getIdLong(), chann.getIdLong());
+			chann.sendMessage("Pokemon spawns will now be redirected to this channel!").queue();
 		}
 	}
 

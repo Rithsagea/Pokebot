@@ -1,15 +1,22 @@
 package com.pokebot.discord;
 
+import javax.annotation.Nonnull;
+
+import com.pokebot.game.PokemonManager;
+
 import net.dv8tion.jda.api.entities.Message;
+import net.dv8tion.jda.api.events.guild.GuildJoinEvent;
 import net.dv8tion.jda.api.events.message.MessageReceivedEvent;
 import net.dv8tion.jda.api.hooks.ListenerAdapter;
 
 public class MessageListener extends ListenerAdapter {
 	
 	private CommandRegistry commandRegistry;
+	private PokemonManager pokemonManager;
 	
-	public MessageListener(CommandRegistry commandRegistry) {
+	public MessageListener(CommandRegistry commandRegistry, PokemonManager pokemonManager) {
 		this.commandRegistry = commandRegistry;
+		this.pokemonManager = pokemonManager;
 	}
 	
 	@Override
@@ -25,6 +32,15 @@ public class MessageListener extends ListenerAdapter {
 				cmd.onCommand(msg, event.getAuthor(), event.getChannel(), args);
 			}
 		}
+		
+		if(!event.getAuthor().isBot()) {
+			pokemonManager.tickServer(event.getGuild().getIdLong(), event.getChannel());
+		}
+	}
+	
+	@Override
+    public void onGuildJoin(@Nonnull GuildJoinEvent event) {
+		pokemonManager.addGuild(event.getGuild().getIdLong());
 	}
 		
 }
