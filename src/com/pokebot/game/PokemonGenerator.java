@@ -31,12 +31,7 @@ public class PokemonGenerator {
 		else if(Math.random() < (pokemon.species.gender_rate / 8)) pokemon.gender = Gender.FEMALE;
 		else pokemon.gender = Gender.MALE;
 		
-		pokemon.ivs.set(Stat.HP, ivs.get(0));
-		pokemon.ivs.set(Stat.ATK, ivs.get(1));
-		pokemon.ivs.set(Stat.DEF, ivs.get(2));
-		pokemon.ivs.set(Stat.SPA, ivs.get(3));
-		pokemon.ivs.set(Stat.SPD, ivs.get(4));
-		pokemon.ivs.set(Stat.SPE, ivs.get(5));
+		for(Stat stat : Stat.DEFAULT) pokemon.ivs.set(stat, ivs.get(stat.ordinal()));
 		
 		pokemon.nature = Nature.values()[(int) (Math.random() * 25)];
 		
@@ -60,5 +55,10 @@ public class PokemonGenerator {
 			pokemon.ability = dataRegistry.getAbility(pokemon.pokemon.ability1);
 		
 		return pokemon;
+	}
+
+	//TODO: loot table here
+	public static Pokemon generateWildPokemon() {
+		return generatePokemon("chansey", 30);
 	}
 }

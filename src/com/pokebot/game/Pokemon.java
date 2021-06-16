@@ -55,19 +55,10 @@ public class Pokemon {
 		this.evs = new StatData();
 		stats = new StatData();
 		
-		this.ivs.set(Stat.HP, ivs[0]);
-		this.ivs.set(Stat.ATK, ivs[1]);
-		this.ivs.set(Stat.DEF, ivs[2]);
-		this.ivs.set(Stat.SPA, ivs[3]);
-		this.ivs.set(Stat.SPD, ivs[4]);
-		this.ivs.set(Stat.SPE, ivs[5]);
-		
-		this.evs.set(Stat.HP, evs[0]);
-		this.evs.set(Stat.ATK, evs[1]);
-		this.evs.set(Stat.DEF, evs[2]);
-		this.evs.set(Stat.SPA, evs[3]);
-		this.evs.set(Stat.SPD, evs[4]);
-		this.evs.set(Stat.SPE, evs[5]);
+		for(Stat stat : Stat.DEFAULT) {
+			this.ivs.set(stat, ivs[stat.ordinal()]);
+			this.evs.set(stat, evs[stat.ordinal()]);
+		}
 		
 		this.nature = nature;
 		
@@ -99,10 +90,9 @@ public class Pokemon {
 	}
 	
 	public double getIVPercentage() {
-		Stat[] stat = Stat.values();
 		int total = 0;
-		for(int x = 0; x < 6; x++) {
-			total += ivs.get(stat[x]);
+		for(Stat stat : Stat.DEFAULT) {
+			total += ivs.get(stat);
 		}
 		
 		return total / 1.86;
@@ -122,24 +112,14 @@ public class Pokemon {
 		moves[slot] = m;
 	}
 	
-	public String getName(Language lang) {
-		if(nickname != null && !nickname.isEmpty()) return '"' + nickname + '"';
+	public String getTypeName(Language lang) {
 		String name = form.name.get(lang);
 		if(name == null) name = species.name.get(lang);
-		
 		return name;
 	}
 	
-	public String getDescription() {
-		StringBuilder s = new StringBuilder();
-		
-		s.append(String.format("\n**HP:** %d/%d", currHp, stats.get(Stat.HP), evs.get(Stat.HP), ivs.get(Stat.HP)));
-		s.append(String.format("\n**Attack:** %d", stats.get(Stat.ATK), evs.get(Stat.ATK), ivs.get(Stat.ATK)));
-		s.append(String.format("\n**Defense:** %d", stats.get(Stat.DEF), evs.get(Stat.DEF), ivs.get(Stat.DEF)));
-		s.append(String.format("\n**Sp. Atk:** %d", stats.get(Stat.SPA), evs.get(Stat.SPA), ivs.get(Stat.SPA)));
-		s.append(String.format("\n**Sp. Def:** %d", stats.get(Stat.SPD), evs.get(Stat.SPD), ivs.get(Stat.SPD)));
-		s.append(String.format("\n**Speed:** %d", stats.get(Stat.SPE), evs.get(Stat.SPE), ivs.get(Stat.SPE)));
-		
-		return s.toString();
+	public String getName(Language lang) {
+		if(nickname != null && !nickname.isEmpty()) return '"' + nickname + '"';
+		return getTypeName(lang);
 	}
 }
