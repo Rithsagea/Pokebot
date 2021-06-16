@@ -74,8 +74,21 @@ public class Pokemon {
 		level = species.growth_rate.getLevel(exp);
 	}
 	
+	public boolean addExpPoints(int exp) {
+		if(level >= 100) {
+			return false; // already max level
+		}
+		
+		expPoints += exp;
+		if(species.growth_rate.getExperience(level + 1) < expPoints) {
+			level++; return true;
+		}
+		
+		return false;
+	}
+	
 	public int getCurrentExp() {
-		return species.growth_rate.getExperience(level) - expPoints;
+		return expPoints - species.growth_rate.getExperience(level);
 	}
 	
 	public void calculateStats() {
