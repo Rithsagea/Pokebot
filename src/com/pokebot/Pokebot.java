@@ -16,6 +16,7 @@ import com.pokebot.discord.command.CommandCheckSpawn;
 import com.pokebot.discord.command.CommandGeneratePokemon;
 import com.pokebot.discord.command.CommandInfoPokemon;
 import com.pokebot.discord.command.CommandRedirect;
+import com.pokebot.discord.command.CommandSelectPokemon;
 import com.pokebot.discord.command.CommandStartPokemon;
 import com.pokebot.discord.command.CommandStop;
 import com.pokebot.game.PokemonManager;
@@ -80,6 +81,7 @@ public class Pokebot {
 		commandRegistry.registerCommand(new CommandInfoPokemon(pokemonManager));
 		commandRegistry.registerCommand(new CommandStop(pokemonManager));
 		commandRegistry.registerCommand(new CommandRedirect(pokemonManager));
+		commandRegistry.registerCommand(new CommandSelectPokemon(pokemonManager));
 		
 		try {
 			jda.awaitReady();

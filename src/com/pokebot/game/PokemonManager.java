@@ -145,6 +145,16 @@ public class PokemonManager {
 		}
 	}
 	
+	public void tickUser(long id, MessageChannel chann) {
+		PokemonUser u = users.get(id);
+		if(u == null) return;
+		Pokemon p = u.party.get(u.selectedPokemon);
+		if(p == null) return;
+		if(p.addExpPoints(100)) { //TODO: change this maybe
+			chann.sendMessage(jda.getUserById(id).getAsMention() + ", your " + p.getName(Language.en) + " levelled up to level " + p.level).queue();;
+		}
+	}
+	
 	public void setSpawnChannel(long serverId, long channelId) {
 		servers.get(serverId).spawnChannelID = channelId;
 	}
