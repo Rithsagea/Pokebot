@@ -36,7 +36,7 @@ public class MessageListener extends ListenerAdapter {
 		if(!event.getAuthor().isBot()) {
 			pokemonManager.tickServer(event.getGuild().getIdLong(), event.getChannel());
 		}
-		pokemonManager.tickUser(event.getAuthor().getIdLong(), event.getChannel());
+		pokemonManager.tickUser(event.getAuthor().getIdLong(), event.getGuild(), event.getChannel());
 	}
 	
 	@Override

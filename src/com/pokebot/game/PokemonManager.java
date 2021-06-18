@@ -19,6 +19,7 @@ import com.pokebot.json.PokemonAdapter;
 import com.pokebot.types.Language;
 
 import net.dv8tion.jda.api.JDA;
+import net.dv8tion.jda.api.entities.Guild;
 import net.dv8tion.jda.api.entities.MessageChannel;
 import net.dv8tion.jda.api.entities.TextChannel;
 import net.dv8tion.jda.api.entities.User;
@@ -145,13 +146,18 @@ public class PokemonManager {
 		}
 	}
 	
-	public void tickUser(long id, MessageChannel chann) {
+	public void tickUser(long id, Guild guild, MessageChannel chann) {
 		PokemonUser u = users.get(id);
 		if(u == null) return;
 		Pokemon p = u.party.get(u.selectedPokemon);
 		if(p == null) return;
 		if(p.addExpPoints(100)) { //TODO: change this maybe
-			chann.sendMessage(jda.getUserById(id).getAsMention() + ", your " + p.getName(Language.en) + " levelled up to level " + p.level).queue();;
+			
+			TextChannel tChann = jda.getTextChannelById(servers.get(guild.getIdLong()).spawnChannelID);
+			if(tChann == null)
+				chann.sendMessage(jda.getUserById(id).getName() + ", your " + p.getName(Language.en) + " leveled up to level " + p.level).queue();
+			else
+				tChann.sendMessage(jda.getUserById(id).getName() + ", your " + p.getName(Language.en) + " leveled up to level " + p.level).queue();
 		}
 	}
 	
