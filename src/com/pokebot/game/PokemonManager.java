@@ -46,9 +46,12 @@ public class PokemonManager {
 	}
 	
 	public void load(File userData, File serverData) {
-		if(!userData.exists()) {
+		if(!userData.exists() || !serverData.exists()) {
 			try {
-				userData.createNewFile();
+				if(!userData.exists())
+					userData.createNewFile();
+				if(!serverData.exists())
+					serverData.createNewFile();
 			} catch (IOException e) {
 				e.printStackTrace();
 			}
@@ -63,6 +66,7 @@ public class PokemonManager {
 			}
 		}
 		if(users == null) users = new HashMap<>();
+		if(servers == null) servers = new HashMap<>();
 	}
 	
 	public void save(File userData, File serverData) {
