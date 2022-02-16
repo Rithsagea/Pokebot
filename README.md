@@ -1,6 +1,9 @@
 # Pokebot
-Pokemon discord bot. An attempt at remaking the now deprecated Pokecord. (rip pokecord 2020)
+Pokemon discord bot. An attempt at remaking the now deprecated Pokecord, the original discord pokebot. (rip pokecord 2020)
 
+Users sending messages have a random chance to spawn a pokemon that they can catch using commands. Conversation also earns them exp, which levels up their pokemon.
+
+![wild pokemon](https://i.imgur.com/FkC0pIx.png)
 
 ## Data
 Most of the data used in this bot is taken from pokeapi.co, including the sprites.
@@ -15,4 +18,8 @@ com.pokebot.game contains wrappers for individual pokemon and their attacks. Als
 
 The Discord bot itself is written with the JDA library. A custom command registry is written and attached to a MessageListener.
 
-com.pokebot.discord.EmbedUtil contains a bunch of logic for building messages. ![eye candy](https://i.imgur.com/fq1J83U.png)
+com.pokebot.discord.EmbedUtil contains a bunch of logic for building messages.
+
+Here is one example of an embed, which displays a user's pokemon information
+
+![eye candy](https://i.imgur.com/fq1J83U.png)
